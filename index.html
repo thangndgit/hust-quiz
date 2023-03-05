@@ -11,6 +11,9 @@
       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
       padding: 0;
       margin: 0;
+      -webkit-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
     }
 
     body {
@@ -69,7 +72,7 @@
 </head>
 
 <body>
-  <h1>Trắc nghiệm - IT4898</h1>
+  <h1 onclick="showAllAnswers()">Trắc nghiệm - IT4898</h1>
   <ul id="quiz-list"></ul>
 
   <script>
@@ -81,15 +84,25 @@
     const checkAnswer = (event) => {
       const answer = event.target;
       const isCorrect = answer.getAttribute("correct");
-      answer.classList.add(`answer--${isCorrect}`);
+      if (answer.classList.contains(`answer--${isCorrect}`)) answer.classList.remove(`answer--${isCorrect}`);
+      else answer.classList.add(`answer--${isCorrect}`);
     };
 
     const showAnswer = (event) => {
       const question = event.target;
       const quiz = question.parentElement;
       const answer = quiz.querySelector("[correct=true]");
-      answer.classList.add("answer--true")
-    }
+      if (answer.classList.contains("answer--true")) answer.classList.remove("answer--true");
+      else answer.classList.add("answer--true");
+    };
+
+    const showAllAnswers = () => {
+      const correctAnswers = document.querySelectorAll("[correct=true]");
+      correctAnswers.forEach((ans) => {
+        if (ans.classList.contains("answer--true")) ans.classList.remove("answer--true");
+        else ans.classList.add("answer--true");
+      });
+    };
 
     const shuffleArr = (arr) => {
       for (let i = arr.length - 1; i > 0; i--) {
@@ -105,7 +118,7 @@
         const list = document.getElementById("quiz-list");
         const questions = shuffleArr(quizzes);
         questions.forEach((quiz, id) => {
-          const answers = shuffleArr(quiz.answers)
+          const answers = shuffleArr(quiz.answers);
           return (list.innerHTML += `
             <li class="quiz">
               <h3 class="question" onclick="showAnswer(event)">Câu ${id + 1}: ${toUpperFirstCase(quiz.question)}</h3>
