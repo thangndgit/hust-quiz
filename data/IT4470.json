@@ -3801,26 +3801,6 @@
     ]
   },
   {
-    "question": "Nhược điểm của Hermit curves",
-    "answers": [
-      {
-        "text": "Đường cong khối Hermite rất khó để mô hình hóa - cần chỉ định điểm và độ dốc.",
-        "isCorrect": true
-      },
-      {
-        "text": "Hành vi giữa 2 điểm được xác định cho độ dốc điểm cuối tùy ý luôn cố định",
-        "isCorrect": false
-      },
-      {
-        "text": "Giới hạn ở đa thức bậc 3 do đó đường cong bị overfiting",
-        "isCorrect": false
-      },
-      {
-        "isCorrect": false
-      }
-    ]
-  },
-  {
     "question": "Một GameEngine",
     "answers": [
       {
@@ -5240,9 +5220,6 @@
       },
       {
         "text": "3",
-        "isCorrect": false
-      },
-      {
         "isCorrect": false
       }
     ]
@@ -7382,9 +7359,6 @@
       {
         "text": "Áp dụng các phép biến đổi cho đối tượng 3D",
         "isCorrect": false
-      },
-      {
-        "isCorrect": false
       }
     ]
   },
@@ -7611,9 +7585,6 @@
       },
       {
         "text": "Tia chiếu vuông góc với mặt phẳng chiếu",
-        "isCorrect": false
-      },
-      {
         "isCorrect": false
       }
     ]
