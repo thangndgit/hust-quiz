@@ -1,0 +1,7936 @@
+[
+  {
+    "question": "Màn hình máy tính dùng thuộc loại kỹ thuật dồ họa nào ?",
+    "answers": [
+      {
+        "text": "Raster ",
+        "isCorrect": true
+      },
+      {
+        "text": "Vector",
+        "isCorrect": false
+      },
+      {
+        "text": "Mixed",
+        "isCorrect": false
+      },
+      {
+        "text": "Hybrid",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Điểm ảnh (pixel ) có hình dạng gì ?",
+    "answers": [
+      {
+        "text": "Không xác định",
+        "isCorrect": true
+      },
+      {
+        "text": "Tròn",
+        "isCorrect": false
+      },
+      {
+        "text": "Vuông",
+        "isCorrect": false
+      },
+      {
+        "text": "Oval",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Những đặc tính nào của đồ họa vector hơn đồ họa bitmap",
+    "answers": [
+      {
+        "text": "X.Chất lượng hình ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Tốc độ xử lý",
+        "isCorrect": false
+      },
+      {
+        "text": "X.Kích thước lưu trữ",
+        "isCorrect": false
+      },
+      {
+        "text": "X. Mô hình hóa 3D",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "1 framebuffer true color dùng bao nhiêu byte để lưu trữ 1 trong các màu đỏ, lục, lam",
+    "answers": [
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong font chữ bitmap, mỗi ký tự được biểu diễn dưới dạng:",
+    "answers": [
+      {
+        "text": "Mảng 2 chiều",
+        "isCorrect": true
+      },
+      {
+        "text": "Mảng 3 chiều",
+        "isCorrect": false
+      },
+      {
+        "text": "Mảng 1 chiều",
+        "isCorrect": false
+      },
+      {
+        "text": "Mảng 4 chiều",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán vẽ đường thẳng nào sau đây chỉ sử dụng các phép tính số nguyên",
+    "answers": [
+      {
+        "text": "Bresenham",
+        "isCorrect": true
+      },
+      {
+        "text": "DDA",
+        "isCorrect": false
+      },
+      {
+        "text": "Parallel line",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 đáp án trên đều đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đường cong Splines:",
+    "answers": [
+      {
+        "text": "Được xác định bởi 4 điểm",
+        "isCorrect": true
+      },
+      {
+        "text": "Được xác định bởi 2 điểm cuối và 1 vector tiếp tuyến",
+        "isCorrect": false
+      },
+      {
+        "text": "Được xác định bởi 2 điểm cuối và 2 vector tiếp tuyến",
+        "isCorrect": false
+      },
+      {
+        "text": "Được xác định bởi 3 điểm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Kiểu biểu diễn nào được dùng trong việc tạo các đối tượng mô đun rắn 2 1/2 D",
+    "answers": [
+      {
+        "text": "Sweep rep",
+        "isCorrect": true
+      },
+      {
+        "text": "B-rep",
+        "isCorrect": false
+      },
+      {
+        "text": "C-rep",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 đáp án trên đều sai",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Graphic raster là gì?",
+    "answers": [
+      {
+        "text": "Là việc tạo ra các hình ảnh kỹ thuật số hoặc các đối tượng đò hoạ thông qua các chấm nhỏ gọi là pixel",
+        "isCorrect": true
+      },
+      {
+        "text": "Là việc tạo ra các hình ảnh kỹ thuật số hoặc các đối tượng đồ hoạ thông qua một chuỗi các lệnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Là đồ hoạ quay học",
+        "isCorrect": false
+      },
+      {
+        "text": "Là các mô hình , hình ảnh của các đối tượng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Màn hình nào sử dụng mảng điốt phát sáng hữu cơ?",
+    "answers": [
+      {
+        "text": "OLED",
+        "isCorrect": true
+      },
+      {
+        "text": "LED",
+        "isCorrect": false
+      },
+      {
+        "text": "CRT",
+        "isCorrect": false
+      },
+      {
+        "text": "LCD",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải lợi thế của màn CRT",
+    "answers": [
+      {
+        "text": "Tiết kiệm điện năng",
+        "isCorrect": true
+      },
+      {
+        "text": "Phản hồi nhanh (Độ phân giải cao)",
+        "isCorrect": false
+      },
+      {
+        "text": "Có thể hiển thị đẩy đủ màu sắc",
+        "isCorrect": false
+      },
+      {
+        "text": "Giá thành phải chăng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là loại màn hình",
+    "answers": [
+      {
+        "text": "ICD",
+        "isCorrect": true
+      },
+      {
+        "text": "OLED",
+        "isCorrect": false
+      },
+      {
+        "text": "CRT",
+        "isCorrect": false
+      },
+      {
+        "text": "LCD",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "LCD là một loại màn hình, vậy LCD là viết tắt của?",
+    "answers": [
+      {
+        "text": "Liquid Crystal Display",
+        "isCorrect": true
+      },
+      {
+        "text": "Large Control Display",
+        "isCorrect": false
+      },
+      {
+        "text": "Large Controlling Display",
+        "isCorrect": false
+      },
+      {
+        "text": "Liquid Common Display",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là lợi thế của màn LCD",
+    "answers": [
+      {
+        "text": "Độ tương phản cao",
+        "isCorrect": true
+      },
+      {
+        "text": "Màn hình có thể lớn ( > 20 inch)",
+        "isCorrect": false
+      },
+      {
+        "text": "Trọng lượng nhẹ",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiêu thụ điện năng ít",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là thành phần của Graphics System",
+    "answers": [
+      {
+        "text": "Floppy",
+        "isCorrect": true
+      },
+      {
+        "text": "Display memory (VRAM)",
+        "isCorrect": false
+      },
+      {
+        "text": "Display Processor",
+        "isCorrect": false
+      },
+      {
+        "text": "Video Controller",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là thuật toán vẽ đoạn thẳng?",
+    "answers": [
+      {
+        "text": "Dijkstra",
+        "isCorrect": true
+      },
+      {
+        "text": "Bresenham's Line Algorithm",
+        "isCorrect": false
+      },
+      {
+        "text": "Parallel Line Algorithm",
+        "isCorrect": false
+      },
+      {
+        "text": "DDA",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong thuật toán Bresenham ta tính được giá trị Po = 2dy-dx. Ở bước thứ i ta tính được giá trị Pi , nếu Pi < 0 ta chọn giá trị yi và Pi theo công thức sau?",
+    "answers": [
+      {
+        "text": "Y(i+1)= Yi và P(i+1) = Pi + 2dy",
+        "isCorrect": true
+      },
+      {
+        "text": "Y(i+1)= Yi + 1 và P(i+1)=Pi + 2dy - 2dx",
+        "isCorrect": false
+      },
+      {
+        "text": "Y(i+1)= Yi và P(i+1)=Pi = 2dy - 2dx",
+        "isCorrect": false
+      },
+      {
+        "text": "Y(i+1)= Yi + 1 và P(i+1) = Pi + 2dy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sai khi nói về 1 pixel?",
+    "answers": [
+      {
+        "text": "Là 1 điểm có thể nhìn thấy",
+        "isCorrect": true
+      },
+      {
+        "text": "Là 1 điểm có thể có tọa độ",
+        "isCorrect": false
+      },
+      {
+        "text": "Là 1 điểm không chiếm khu vực màn hình",
+        "isCorrect": false
+      },
+      {
+        "text": "Là 1 điểm không có kích thước",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Những đối tượng cơ bản nào được kiểm tra và xử lí trong Clipping?",
+    "answers": [
+      {
+        "text": "Điểm , Đa giác",
+        "isCorrect": true
+      },
+      {
+        "text": "Đường thằng , Đường tròn, Đa giác",
+        "isCorrect": false
+      },
+      {
+        "text": "Đa giác , Điểm, Đường thẳng",
+        "isCorrect": false
+      },
+      {
+        "text": "Đường tròn , Điểm, Đa Giác",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phép biến đổi trong kỹ thuật đồ hoạ có mấy bước ?",
+    "answers": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hệ toạ độ thiết bị là?",
+    "answers": [
+      {
+        "text": "Hệ thống toạ độ của thiết bị nơi hiển thị hình ảnh và không gian của đối tượng mà ứng dụng mô tả",
+        "isCorrect": true
+      },
+      {
+        "text": "Giải quyết vấn đề khi ứng dụng chạy trên các thiết bị khác nhau",
+        "isCorrect": false
+      },
+      {
+        "text": "Có kích thước 1x1",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ toạ độ của đối tượng được các chương trình ứng dụng sử dụng để mô tả toạ độ của các toạ độ trong thế giới thực",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là tính chất của phép biến đổi affine.",
+    "answers": [
+      {
+        "text": "Bảo toàn tỉ lệ về khoảng cách.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bảo toàn tính song song giữa các đường.",
+        "isCorrect": false
+      },
+      {
+        "text": "Không thể đảo ngược quá trình.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bảo toàn các đoạn thẳng.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phép chiếu trực giao là gì?",
+    "answers": [
+      {
+        "text": "Là phép chiếu song song và tia chiếu vuông góc với mặt phẳng chiếu",
+        "isCorrect": true
+      },
+      {
+        "text": "Là phép chiếu mà ở đó các tia chiếu song song với nhau",
+        "isCorrect": false
+      },
+      {
+        "text": "Là phép chiếu song song và tia chiếu song song với mặt phảng chiếu",
+        "isCorrect": false
+      },
+      {
+        "text": "Không có đáp án đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong phép chiếu phối cảnh, số tâm nào là không hợp lý?",
+    "answers": [
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mô hình máy ảnh tổng hợp bao gồm thành phần nào?",
+    "answers": [
+      {
+        "text": "Đối tượng và máy ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Đối tượng",
+        "isCorrect": false
+      },
+      {
+        "text": "Máy ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Ngườì xem và máy ảnh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Máy ảnh yêu cầu mấy thông số kỹ thuật",
+    "answers": [
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thông số kỹ thuật Focal length của máy ảnh là gì",
+    "answers": [
+      {
+        "text": "Xác định kích thước của hình ảnh trên mặt phẳng phim hoặc trường nhìn.",
+        "isCorrect": true
+      },
+      {
+        "text": "Chuyển động quay quanh các trục có gốc tọa độ tại COP.",
+        "isCorrect": false
+      },
+      {
+        "text": "Chiều rộng và chiều cao của nó.",
+        "isCorrect": false
+      },
+      {
+        "text": "COP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Line Clipping có các trường hợp nào?",
+    "answers": [
+      {
+        "text": "Tất cả đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Một đầu nằm trong, một đầu nằm ngoài cửa sổ",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 2 đầu nằm trong cửa sổ",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 2 đầu nằm ngoài cửa sổ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Bên trong màn hình LCD có gì?",
+    "answers": [
+      {
+        "text": "Thủy tinh",
+        "isCorrect": true
+      },
+      {
+        "text": "Cát",
+        "isCorrect": false
+      },
+      {
+        "text": "Nước",
+        "isCorrect": false
+      },
+      {
+        "text": "Tinh dầu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Loại màn hình nào cho chất lượng hình ảnh tốt nhất trong các màn sau đây?",
+    "answers": [
+      {
+        "text": "OLED",
+        "isCorrect": true
+      },
+      {
+        "text": "LCD",
+        "isCorrect": false
+      },
+      {
+        "text": "LED",
+        "isCorrect": false
+      },
+      {
+        "text": "CRT",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tại sao màn hình OLED hiển thị kém dưới ánh sáng mặt trời trực tiếp?",
+    "answers": [
+      {
+        "text": "Không có đèn nền",
+        "isCorrect": true
+      },
+      {
+        "text": "Bị ánh sáng mặt trời hấp thụ",
+        "isCorrect": false
+      },
+      {
+        "text": "Tại mua màn rẻ tiền",
+        "isCorrect": false
+      },
+      {
+        "text": "Đây là đặc điểm chung của mọi màn hình hiện nay",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Để xoay 90 độ theo chiều kim đồng hồ một hình vuông có tâm không nằm trên trục tọa độ gốc cần tối thiểu mấy phép biến đổi",
+    "answers": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mô hình màu nào được xây dựng dựa trên tư duy về màu sắc của các nhà thiết kế, hội họa",
+    "answers": [
+      {
+        "text": "HSV & HLS",
+        "isCorrect": true
+      },
+      {
+        "text": "CMY & HSV",
+        "isCorrect": false
+      },
+      {
+        "text": "RBG & HLS",
+        "isCorrect": false
+      },
+      {
+        "text": "CMYK & RGB",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mô hình màu RGB dựa trên lý thuyết của 3 màu nào?",
+    "answers": [
+      {
+        "text": "Đỏ, xanh lá cây, xanh dương",
+        "isCorrect": true
+      },
+      {
+        "text": "Đỏ, vàng, xanh dương",
+        "isCorrect": false
+      },
+      {
+        "text": "Tím, vàng, xanh dương",
+        "isCorrect": false
+      },
+      {
+        "text": "Đỏ, vàng, xanh lá cây",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không là phương pháp mô hình hình học 3D cơ bản?",
+    "answers": [
+      {
+        "text": "Side modeling",
+        "isCorrect": true
+      },
+      {
+        "text": "Wireframe modeling",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface modeling",
+        "isCorrect": false
+      },
+      {
+        "text": "Solid modeling",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ưu điểm của OLED?",
+    "answers": [
+      {
+        "text": "Góc nhìn lớn",
+        "isCorrect": true
+      },
+      {
+        "text": "Hiển thị tốt ngay dưới ánh sáng mặt trời",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiết kiệm năng lượng khi hiển thị màu sáng",
+        "isCorrect": false
+      },
+      {
+        "text": "Tuổi thọ dài",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong thuật toán lấp đầy ranh giới, có bao nhiêu phương pháp để tiến tới các pixel lân cận từ vị trí thử nghiệm hiện tại?",
+    "answers": [
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Độ phức tạp của thuật toán Ray Casting? (W: độ rộng của màn hình, N: số đối tượng)",
+    "answers": [
+      {
+        "text": "O(W*N)",
+        "isCorrect": true
+      },
+      {
+        "text": "O(N^2)",
+        "isCorrect": false
+      },
+      {
+        "text": "O(W*log(N))",
+        "isCorrect": false
+      },
+      {
+        "text": "O(log(W*N))",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ưu điểm của CRT Raster không bao gồm điểm nào:",
+    "answers": [
+      {
+        "text": "Không yêu cầu mảng bộ nhớ kích thước màn hình",
+        "isCorrect": true
+      },
+      {
+        "text": "Cho phép chất rắn, khô",
+        "isCorrect": false
+      },
+      {
+        "text": "Tận dụng công nghệ CRT chi phí thấp (ví dụ: TV)",
+        "isCorrect": false
+      },
+      {
+        "text": "Sáng! Màn hình phát ra ánh sáng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ưu điểm của màn hình Plasma không bao gồm",
+    "answers": [
+      {
+        "text": "Giá thành rẻ",
+        "isCorrect": true
+      },
+      {
+        "text": "Góc nhìn lớn",
+        "isCorrect": false
+      },
+      {
+        "text": "Tốt cho màn hình khổ lớn",
+        "isCorrect": false
+      },
+      {
+        "text": "Khá sáng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là ưu điểm của LCD display?",
+    "answers": [
+      {
+        "text": "Tất cả đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Dấu chân nhỏ (khoảng 1/6 CRT)",
+        "isCorrect": false
+      },
+      {
+        "text": "Trọng lượng nhẹ (typ 1/5 của CRT)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiêu thụ điện năng thấp (typ. 1/4 CRT)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là ưu điểm của OLED",
+    "answers": [
+      {
+        "text": "Có đèn nền do đó hiển thị tốt dưới ánh sáng mặt trời trực tiếp",
+        "isCorrect": true
+      },
+      {
+        "text": "Trong suốt và Linh hoạt",
+        "isCorrect": false
+      },
+      {
+        "text": "Phát sáng và khá sáng (có thể nhìn thấy ánh sáng ban ngày)",
+        "isCorrect": false
+      },
+      {
+        "text": "Nhanh (tắt 1 micrô giây)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Frame Buffer là gì?",
+    "answers": [
+      {
+        "text": "Bộ nhớ để giữ các giá trị mật độ pixel",
+        "isCorrect": true
+      },
+      {
+        "text": "Bộ nhớ tạm thời giữ tọa độ các điểm ảnh pixel",
+        "isCorrect": false
+      },
+      {
+        "text": "Bộ nhớ để giữ các giá trị mật độ màu sắc",
+        "isCorrect": false
+      },
+      {
+        "text": "bộ nhớ để giữ các giá trị brightness",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là thuật toán vẽ đường thẳng?",
+    "answers": [
+      {
+        "text": "Curved Line Algorithm",
+        "isCorrect": true
+      },
+      {
+        "text": "Digital Differential Analyzer (DDA) Algorithm",
+        "isCorrect": false
+      },
+      {
+        "text": "Bresenham’s Line Algorithm",
+        "isCorrect": false
+      },
+      {
+        "text": "Parallel Line Algorithm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ưu điểm của đường cong tham số bao gồm",
+    "answers": [
+      {
+        "text": "Tất cả đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Các lưới đa giác có nhiều tham số như có các đỉnh (ít nhất)",
+        "isCorrect": false
+      },
+      {
+        "text": "Ít tham số hơn giúp tạo đường cong nhanh hơn và dễ dàng chỉnh sửa đường cong hiện có",
+        "isCorrect": false
+      },
+      {
+        "text": "Các trường bình thường có thể được xác định đúng ở mọi nơi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hệ thống màu của Munsell không có parameter chính nào:",
+    "answers": [
+      {
+        "text": "K",
+        "isCorrect": true
+      },
+      {
+        "text": "H",
+        "isCorrect": false
+      },
+      {
+        "text": "V",
+        "isCorrect": false
+      },
+      {
+        "text": "C",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Điều nào sau đây là không đúng với lý thuyết của RGB?",
+    "answers": [
+      {
+        "text": "Bao gồm 3 màu chính: Đỏ, xanh và đen",
+        "isCorrect": true
+      },
+      {
+        "text": "Lý thuyết tristimulus của tầm nhìn",
+        "isCorrect": false
+      },
+      {
+        "text": "Con người nhận biết màu sắc thông qua sự kích thích của ba sắc tố thị giác của hình nón của võng mạc",
+        "isCorrect": false
+      },
+      {
+        "text": "Mô hình có thể được biểu diễn bằng khối đơn vị được xác định trên các trục R, G và B",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Điều nào sau đây là không đúng với lý thuyết của HSV?",
+    "answers": [
+      {
+        "text": "Màu sắc có croma thấp sẽ trông phong phú và đầy đủ",
+        "isCorrect": true
+      },
+      {
+        "text": "Hue là đặc điểm rõ ràng nhất của một màu sắc",
+        "isCorrect": false
+      },
+      {
+        "text": "Chroma là độ tinh khiết của màu sắc",
+        "isCorrect": false
+      },
+      {
+        "text": "Giá trị là độ sáng hoặc tối của màuĐôi khi màu sáng được gọi là tông màu, vàMàu tối được gọi là màu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Những nguồn sáng sử dụng trong mô hình 3D bao gồm?",
+    "answers": [
+      {
+        "text": "Tất cả đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Nguồn sáng điểm",
+        "isCorrect": false
+      },
+      {
+        "text": "Nguồn sáng xung quanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Nguồn sáng định hướng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Những cách tiếp cận nào sau đây giúp tạo nên tương tác với ánh sáng?",
+    "answers": [
+      {
+        "text": "Cả A & B",
+        "isCorrect": true
+      },
+      {
+        "text": "Bắt đầu từ hình học",
+        "isCorrect": false
+      },
+      {
+        "text": "Bắt đầu từ pixel",
+        "isCorrect": false
+      },
+      {
+        "text": "Bắt đầu từ frame",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Rasterization chia texture thành những khối ảnh hình thù như thế nào?",
+    "answers": [
+      {
+        "text": "Hình tam giác",
+        "isCorrect": true
+      },
+      {
+        "text": "Hình tròn",
+        "isCorrect": false
+      },
+      {
+        "text": "Hình vuông",
+        "isCorrect": false
+      },
+      {
+        "text": "Hình elip",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải đặc điểm mô tả của Radiosity?",
+    "answers": [
+      {
+        "text": "Chỉ sử dụng cho một loại ánh sáng duy nhất trong khi kết xuất, để đảm bảo tối đa chất lượng",
+        "isCorrect": true
+      },
+      {
+        "text": "Là thuật toán kết xuất cho phép hiển thị thực tế của bóng và ánh sáng khuếch tán",
+        "isCorrect": false
+      },
+      {
+        "text": "Làm cho tất cả các bề mặt phản xạ ánh sáng và nguồn sáng chính nó khi sáng sủa nơi thực hiện đổ bóng và pha trộn",
+        "isCorrect": false
+      },
+      {
+        "text": "Chiếu sáng toàn cảnh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Một mô hình chiếu sáng thường xem xét các yếu tố nào?",
+    "answers": [
+      {
+        "text": "Cả A & B",
+        "isCorrect": true
+      },
+      {
+        "text": "Thuộc tính ánh sáng (cường độ ánh sáng, màu sắc, vị trí, hướng, hình dạng)",
+        "isCorrect": false
+      },
+      {
+        "text": "Thuộc tính bề mặt đối tượng (màu sắc, độ phản xạ, độ trong suốt, v.v.)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tương tác giữa đèn và vật thể (hướng nguồn sáng)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là ưu điểm của CRT display?",
+    "answers": [
+      {
+        "text": "Tất cả các đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": " Phản hồi nhanh (có thể có độ phân giải cao)",
+        "isCorrect": false
+      },
+      {
+        "text": "Màu sắc đầy đủ ",
+        "isCorrect": false
+      },
+      {
+        "text": "Công nghệ hoàn thiện, rẻ tiền",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Màn hình nào được gọi là màn hình của tương lai",
+    "answers": [
+      {
+        "text": "OLED",
+        "isCorrect": true
+      },
+      {
+        "text": "LED",
+        "isCorrect": false
+      },
+      {
+        "text": "CRT",
+        "isCorrect": false
+      },
+      {
+        "text": "LCD",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The graphics pipeline khác the modern graphics pipeline ở những bước nào",
+    "answers": [
+      {
+        "text": "X.1",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "X.3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tại sao GPU lại dùng cho điện toán",
+    "answers": [
+      {
+        "text": "Tất cả đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "GPU nhanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Hỗ trợ điểm nổi chính xác cao",
+        "isCorrect": false
+      },
+      {
+        "text": "Siêu máy tính để bàn rẻ tiền",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "OpenCL là viết tắt của từ gì",
+    "answers": [
+      {
+        "text": "Open Computing Language",
+        "isCorrect": true
+      },
+      {
+        "text": "Open Crystal Language",
+        "isCorrect": false
+      },
+      {
+        "text": "Organic Computing Language",
+        "isCorrect": false
+      },
+      {
+        "text": "Open Core Language",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có bao cách tiếp cận để lấy đầy khu vực trên hệ thống raster",
+    "answers": [
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các phương pháp lấy mẫu MSAA",
+    "answers": [
+      {
+        "text": "Tất cả các đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Grid",
+        "isCorrect": false
+      },
+      {
+        "text": "Random",
+        "isCorrect": false
+      },
+      {
+        "text": "Poisson disc",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "CRT là có tên đầy đủ là gì?",
+    "answers": [
+      {
+        "text": "Cathode Ray Tube",
+        "isCorrect": true
+      },
+      {
+        "text": "Cathode Random Tube",
+        "isCorrect": false
+      },
+      {
+        "text": "Cathode Ray Tunnel",
+        "isCorrect": false
+      },
+      {
+        "text": "Cathode Random Tunnel",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "LCD là viết tắt của từ gì?",
+    "answers": [
+      {
+        "text": "Liquid Crystal Display",
+        "isCorrect": true
+      },
+      {
+        "text": "Logical Crystal Display",
+        "isCorrect": false
+      },
+      {
+        "text": "Logical Core Display",
+        "isCorrect": false
+      },
+      {
+        "text": "Liquid Core Display",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "OLED là viết tắt của từ gì?",
+    "answers": [
+      {
+        "text": "Organic Light Emitting Diodes",
+        "isCorrect": true
+      },
+      {
+        "text": "Operaing Line Electronic Diodes",
+        "isCorrect": false
+      },
+      {
+        "text": "Organic Liquid Electric Diodes",
+        "isCorrect": false
+      },
+      {
+        "text": "Operating Liquid Electric Diodes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Giải thuật Cohen-Sutherland chia không gian 2 chiều thành bao nhiêu phần",
+    "answers": [
+      {
+        "text": "9",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "11",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán cắt dòng NLN có tên đầy đủ là gì?",
+    "answers": [
+      {
+        "text": "Nicholl-Lee-Nicholl",
+        "isCorrect": true
+      },
+      {
+        "text": "Nicholai-Lee-Nicholl",
+        "isCorrect": false
+      },
+      {
+        "text": "Nicholl-Lee-Nicholai",
+        "isCorrect": false
+      },
+      {
+        "text": "Nicholl-Liang-Nicholl",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán Cohen-Sutherland chỉ có thể sử dụng cho cửa sổ có hình dạng thế nào?",
+    "answers": [
+      {
+        "text": "Hình chữ nhật",
+        "isCorrect": true
+      },
+      {
+        "text": "Hình tròn",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 2 loại trên",
+        "isCorrect": false
+      },
+      {
+        "text": "Không phải loại nào trong 2 loại trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tại sao độ phức tạp của thuật toán Bresenham ít hơn so với thuật toán DDA?",
+    "answers": [
+      {
+        "text": "Thuật toán Bresenham sử dụng phép công, trừ số nguyên trên các phép toán dấu phẩy động",
+        "isCorrect": true
+      },
+      {
+        "text": "Thuật toán Bresenham chỉ xét đầu vào trong 1 phạm vi nhất định",
+        "isCorrect": false
+      },
+      {
+        "text": "Thuật toán Bresenham sử dụng phép toán dấu chấm động trên các phép cộng, trừ số nguyên",
+        "isCorrect": false
+      },
+      {
+        "text": "Không có lí do nào trong 3 lí do trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tên đầy đủ của OpenGL là gì ?",
+    "answers": [
+      {
+        "text": "Open Graphic Library",
+        "isCorrect": true
+      },
+      {
+        "text": "Open Graphic Layer",
+        "isCorrect": false
+      },
+      {
+        "text": "Open General Liability",
+        "isCorrect": false
+      },
+      {
+        "text": "Open General Layer",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phép chiếu song song có thể chia thành mấy loại chính?",
+    "answers": [
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong đồ họa máy tính, có bao nhiêu kỹ thuật dịch chuyển được sử dụng?",
+    "answers": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phép chiếu (projection) nào khiến cho kích thước vật thể khác nhau khi nhìn từ những khoảng cách khác nhau?",
+    "answers": [
+      {
+        "text": "Perspective Projection",
+        "isCorrect": true
+      },
+      {
+        "text": "Parallel Projection",
+        "isCorrect": false
+      },
+      {
+        "text": "Cavalier Projection",
+        "isCorrect": false
+      },
+      {
+        "text": "Cabinet Projection",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là nhược điểm của đồ họa Bitmap ?",
+    "answers": [
+      {
+        "text": "Khi tăng kích cỡ ảnh sẽ dần làm ảnh bị mờ đi",
+        "isCorrect": true
+      },
+      {
+        "text": "Ảnh sử dụng đồ họa bitmap sẽ khó chuyển đổi thành định dạng khác",
+        "isCorrect": false
+      },
+      {
+        "text": "Chỉ có thể dùng tối đa 265 màu",
+        "isCorrect": false
+      },
+      {
+        "text": "Không phải 1 trong 3 câu trả lời trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong đồ họa máy tính,  HSV là viết tắt của thuật ngữ nào? ",
+    "answers": [
+      {
+        "text": "Hue Saturation Value",
+        "isCorrect": true
+      },
+      {
+        "text": "Height Saturation Vector",
+        "isCorrect": false
+      },
+      {
+        "text": "Half Saturation Value",
+        "isCorrect": false
+      },
+      {
+        "text": "High Saturation Value",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các mô hình màu nào sau đây được xác định từ 3 màu cơ bản?",
+    "answers": [
+      {
+        "text": "RGB và CMY",
+        "isCorrect": true
+      },
+      {
+        "text": "CMY và HSV",
+        "isCorrect": false
+      },
+      {
+        "text": "HSV và HLS",
+        "isCorrect": false
+      },
+      {
+        "text": "RGB và HSV",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trò chơi điện tử đầu tiền trên thế giới?",
+    "answers": [
+      {
+        "text": "Tennis for two",
+        "isCorrect": true
+      },
+      {
+        "text": "Space Invaders",
+        "isCorrect": false
+      },
+      {
+        "text": "Super Mario Bros",
+        "isCorrect": false
+      },
+      {
+        "text": "The Legend of Zelda",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đơn vị đo tốc độ xử lý đồ họa trong GPU là gì?",
+    "answers": [
+      {
+        "text": "FLOPS (Floating Point Operations Per Second)",
+        "isCorrect": true
+      },
+      {
+        "text": "GHz (Gigahertz)",
+        "isCorrect": false
+      },
+      {
+        "text": "GB (Gigabyte)",
+        "isCorrect": false
+      },
+      {
+        "text": "RPM (Revolutions Per Minute)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đối tượng đồ họa nào được sử dụng để tạo hiệu ứng ánh sáng và bóng?",
+    "answers": [
+      {
+        "text": "Tam giác",
+        "isCorrect": true
+      },
+      {
+        "text": "Điểm",
+        "isCorrect": false
+      },
+      {
+        "text": "Đường thẳng",
+        "isCorrect": false
+      },
+      {
+        "text": "Hình tròn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Pixel là gì?",
+    "answers": [
+      {
+        "text": "Là một điểm",
+        "isCorrect": true
+      },
+      {
+        "text": "Là một hình tròn",
+        "isCorrect": false
+      },
+      {
+        "text": "Là một hình hộp",
+        "isCorrect": false
+      },
+      {
+        "text": "Là một hình chữ nhật",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phép biến đổi nào được sử dụng để dịch chuyển một đối tượng trong không gian 2D?",
+    "answers": [
+      {
+        "text": "Translation transformation",
+        "isCorrect": true
+      },
+      {
+        "text": "Scaling transformation",
+        "isCorrect": false
+      },
+      {
+        "text": "Rotation transformation",
+        "isCorrect": false
+      },
+      {
+        "text": "Shearing transformation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Độ phân giải màn hình 4K tương đương với bao nhiêu điểm ảnh?",
+    "answers": [
+      {
+        "text": "3840 x 2160",
+        "isCorrect": true
+      },
+      {
+        "text": "2560 x 1440",
+        "isCorrect": false
+      },
+      {
+        "text": "1920 x 1080",
+        "isCorrect": false
+      },
+      {
+        "text": "1280 x 720",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đơn vị tính dung lượng bộ nhớ của card đồ họa là gì?",
+    "answers": [
+      {
+        "text": "GB (Gigabyte)",
+        "isCorrect": true
+      },
+      {
+        "text": "GHz (Gigahertz)",
+        "isCorrect": false
+      },
+      {
+        "text": "FLOPS (Floating Point Operations Per Second)",
+        "isCorrect": false
+      },
+      {
+        "text": "RPM (Revolutions Per Minute)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Khái niệm 'frame rate' (tốc độ khung hình) liên quan đến điều gì?",
+    "answers": [
+      {
+        "text": "Số lượng khung hình mà GPU hiển thị mỗi giây",
+        "isCorrect": true
+      },
+      {
+        "text": "Độ sáng của màn hình",
+        "isCorrect": false
+      },
+      {
+        "text": "Số lượng điểm ảnh trên màn hình",
+        "isCorrect": false
+      },
+      {
+        "text": "Tần số làm mới màn hình",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán nào được sử dụng để vẽ một đường thẳng giữa hai điểm trong không gian 2D?",
+    "answers": [
+      {
+        "text": "Bresenham's line algorithm",
+        "isCorrect": true
+      },
+      {
+        "text": "Dijkstra's algorithm",
+        "isCorrect": false
+      },
+      {
+        "text": "QuickSort algorithm",
+        "isCorrect": false
+      },
+      {
+        "text": "A* search algorithm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Bresenham's Line Algorithm hoạt động tốt cho việc vẽ đường thẳng có độ dốc như thế nào?",
+    "answers": [
+      {
+        "text": "Độ dốc dương",
+        "isCorrect": true
+      },
+      {
+        "text": "Độ dốc âm",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ dốc bằng 0",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ dốc bất kỳ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Parallel Line Algorithm tận dụng cơ chế nào để tăng tốc độ vẽ đường thẳng?",
+    "answers": [
+      {
+        "text": "Sử dụng đa luồng (multithreading)",
+        "isCorrect": true
+      },
+      {
+        "text": "Sử dụng đệ quy",
+        "isCorrect": false
+      },
+      {
+        "text": "Sử dụng tăng tốc phần cứng (hardware acceleration)",
+        "isCorrect": false
+      },
+      {
+        "text": "Sử dụng lệnh điều kiện (conditional statements)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mô hình màu XYZ là một mô hình màu không gian 3 chiều dùng để biểu diễn màu sắc theo hệ số nào?",
+    "answers": [
+      {
+        "text": "Tristimulus (X, Y, Z)",
+        "isCorrect": true
+      },
+      {
+        "text": "RGB",
+        "isCorrect": false
+      },
+      {
+        "text": "HSV",
+        "isCorrect": false
+      },
+      {
+        "text": "LUV",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Độ tương phản trong màu sắc được xác định bởi yếu tố nào?",
+    "answers": [
+      {
+        "text": "Lightness(nhẹ nhàng)",
+        "isCorrect": true
+      },
+      {
+        "text": "Hue",
+        "isCorrect": false
+      },
+      {
+        "text": "Saturation(bão hòa)",
+        "isCorrect": false
+      },
+      {
+        "text": "Chroma(Sác độ)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong mô hình màu HSL, thành phần Lightness đại diện cho đặc tính nào của màu sắc?",
+    "answers": [
+      {
+        "text": "Độ sáng",
+        "isCorrect": true
+      },
+      {
+        "text": "Độ bão hòa màu",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ tương phản",
+        "isCorrect": false
+      },
+      {
+        "text": "Màu sắc chính",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đặc điểm của mô hình wireframe nào sau đây đúng?",
+    "answers": [
+      {
+        "text": "Một mô hình wireframe của một đối tượng là đơn giản nhất về toán học bằng máy tính",
+        "isCorrect": true
+      },
+      {
+        "text": "Biểu diễn wireframe là đường vẽ 2 chiều của một đối tượng chỉ hiển thị các cạnh mà không có bất kỳ bề mặt bên nào ở giữa",
+        "isCorrect": false
+      },
+      {
+        "text": "Frame được xây dựng từ các hình khối cơ bản để tạo nên các vật thể",
+        "isCorrect": false
+      },
+      {
+        "text": "Đây là kỹ thuật được sử dụng ít ở thời điểm này",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có mấy bước trong rendering pipeline?",
+    "answers": [
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là mô hình màu?",
+    "answers": [
+      {
+        "text": "CRT",
+        "isCorrect": true
+      },
+      {
+        "text": "RBG",
+        "isCorrect": false
+      },
+      {
+        "text": "HSV",
+        "isCorrect": false
+      },
+      {
+        "text": "YIG",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "AMOLED là viết tắt của cái gì?",
+    "answers": [
+      {
+        "text": "Active Matrix Organic Light-Emitting Diode",
+        "isCorrect": true
+      },
+      {
+        "text": "Active Matrix Organic Low-Electric Diode",
+        "isCorrect": false
+      },
+      {
+        "text": "Altenative Matrix Organic Light-Emitting Diode",
+        "isCorrect": false
+      },
+      {
+        "text": "Active Matrix On Light-Emitting Diode",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là thuật toán vẽ đường thẳng?",
+    "answers": [
+      {
+        "text": "Ray Tracing Algorithm",
+        "isCorrect": true
+      },
+      {
+        "text": "Digital Differential Analyzer (DDA) Algorithm",
+        "isCorrect": false
+      },
+      {
+        "text": "Bresenham’s Line Algorithm",
+        "isCorrect": false
+      },
+      {
+        "text": "Parallel Line Algorithm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "AR là viết tắt của:",
+    "answers": [
+      {
+        "text": "Augmented Reality",
+        "isCorrect": true
+      },
+      {
+        "text": "Alternate Reality",
+        "isCorrect": false
+      },
+      {
+        "text": "Altenative Reality",
+        "isCorrect": false
+      },
+      {
+        "text": "Augmentative Reality",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là vấn đề của việc sử dụng VR Headsets?",
+    "answers": [
+      {
+        "text": "Ít phần mềm hỗ trợ",
+        "isCorrect": true
+      },
+      {
+        "text": "Có hiện tượng say",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ chính xác âm thanh thấp",
+        "isCorrect": false
+      },
+      {
+        "text": "Đắt tiền",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Định nghĩa thực tế ảo?",
+    "answers": [
+      {
+        "text": "X.Thực tế ảo là một thế giới do máy tính tạo ra mà người dùng có thể tương tác",
+        "isCorrect": true
+      },
+      {
+        "text": "X.Thực tế ảo đề cập đến một giao diện người dùng liên quan đến mô phỏng và tương tác thời gian thực thông qua nhiều kênh cảm giác",
+        "isCorrect": false
+      },
+      {
+        "text": "Thực tế ảo là một trải nghiệm tương tác nâng cao thế giới thực bằng thông tin nhận thức do máy tính tạo ra",
+        "isCorrect": false
+      },
+      {
+        "text": "Thực tế ảo bao phủ nội dung kỹ thuật số lên các đối tượng và môi trường thực tế",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có mấy loại mô hình màu ?",
+    "answers": [
+      {
+        "text": "Có 2 loại",
+        "isCorrect": true
+      },
+      {
+        "text": "Có 3 loại",
+        "isCorrect": false
+      },
+      {
+        "text": "Có 4 loại",
+        "isCorrect": false
+      },
+      {
+        "text": "Chỉ có 1 loại",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là 1 ứng dụng của kỹ thuật đồ họa?",
+    "answers": [
+      {
+        "text": "Tất cả đều sai",
+        "isCorrect": true
+      },
+      {
+        "text": "Xây dựng giao diện người dùng",
+        "isCorrect": false
+      },
+      {
+        "text": "Điều khiển các quá trình sản xuất",
+        "isCorrect": false
+      },
+      {
+        "text": "Tạo các biểu đồ trong thương mại, khoa học, kỹ thuật",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Giải thuật Cohen–Sutherland là giải thuật dùng để?",
+    "answers": [
+      {
+        "text": "Xén tỉa",
+        "isCorrect": true
+      },
+      {
+        "text": "Tô màu",
+        "isCorrect": false
+      },
+      {
+        "text": "Tô miền kín",
+        "isCorrect": false
+      },
+      {
+        "text": "Khử răng cưa",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phép biến đổi nào sau đây là phép biến đổi trong không gian?",
+    "answers": [
+      {
+        "text": "Tất cả đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Phép tịnh tiến",
+        "isCorrect": false
+      },
+      {
+        "text": "Phép tỷ lệ",
+        "isCorrect": false
+      },
+      {
+        "text": "Rotation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trên cơ sở ràng buộc giữa điểm và đường trong cả ứng dụng khoa học và thiết kế ta co thể phân làm mấy loại đường cong ?",
+    "answers": [
+      {
+        "text": "2 loại",
+        "isCorrect": true
+      },
+      {
+        "text": "3 loại",
+        "isCorrect": false
+      },
+      {
+        "text": "4 loại",
+        "isCorrect": false
+      },
+      {
+        "text": "Chỉ có 1 loại",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là phép chiếu thuộc phép chiếu trục lượng",
+    "answers": [
+      {
+        "text": "cavalier",
+        "isCorrect": true
+      },
+      {
+        "text": "trimotric",
+        "isCorrect": false
+      },
+      {
+        "text": "demitric",
+        "isCorrect": false
+      },
+      {
+        "text": "isometric",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hệ số co của isometric là bao nhiêu",
+    "answers": [
+      {
+        "text": "0.8165",
+        "isCorrect": true
+      },
+      {
+        "text": "0.3142",
+        "isCorrect": false
+      },
+      {
+        "text": "0.45",
+        "isCorrect": false
+      },
+      {
+        "text": "0.875",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các phép chiếu đứng cạnh bằng thuộc phép chiếu nào?",
+    "answers": [
+      {
+        "text": "Chiếu vuông góc",
+        "isCorrect": true
+      },
+      {
+        "text": "Chiếu xiên",
+        "isCorrect": false
+      },
+      {
+        "text": "Chiếu trục đo",
+        "isCorrect": false
+      },
+      {
+        "text": "Chiếu xuyên tâm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong COHEN-SUTHERLAND, đâu là ký hiệu biểu diễn góc trên bên phải so với màn hình hiển thị(window)",
+    "answers": [
+      {
+        "text": "1010",
+        "isCorrect": true
+      },
+      {
+        "text": "0101",
+        "isCorrect": false
+      },
+      {
+        "text": "1000",
+        "isCorrect": false
+      },
+      {
+        "text": "0000",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Máy trò chơi điện tử  The FamiCom 8 bit được Nitendo phát hành trong giai đoạn nào của quá trình phát triển game",
+    "answers": [
+      {
+        "text": "Thế hệ thứ ba( 1983 - 1985)",
+        "isCorrect": true
+      },
+      {
+        "text": "Thế hệ thứ nhất( 1970 - 1977)",
+        "isCorrect": false
+      },
+      {
+        "text": "Thế hệ thứ hai( 1977 - 1983)",
+        "isCorrect": false
+      },
+      {
+        "text": "Thế hệ thứ tư( 1989 - 1999)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải công việc chính của nhà xuất bản game(Publishers)",
+    "answers": [
+      {
+        "text": "Thiết kế và phát triển game",
+        "isCorrect": true
+      },
+      {
+        "text": "Đảm bảo chất lượng ",
+        "isCorrect": false
+      },
+      {
+        "text": "Xây dựng điều khoản",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiếp thị người tiêu dùng và PR",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là kí hiệu biểu của hệ tọa độ chuẩn hóa trong đồ họa",
+    "answers": [
+      {
+        "text": "Ncs",
+        "isCorrect": true
+      },
+      {
+        "text": "Ucs",
+        "isCorrect": false
+      },
+      {
+        "text": "Wcs",
+        "isCorrect": false
+      },
+      {
+        "text": "Dcs",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhược điểm của màn hình LED là",
+    "answers": [
+      {
+        "text": "Độ chói thấp",
+        "isCorrect": true
+      },
+      {
+        "text": "Dấu chân nhỏ ",
+        "isCorrect": false
+      },
+      {
+        "text": "Trọng lượng nhẹ",
+        "isCorrect": false
+      },
+      {
+        "text": "Xử lý tín hiệu số hoàn toàn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ưu điểm của màn hình LCD",
+    "answers": [
+      {
+        "text": "Dấu chân nhỏ",
+        "isCorrect": true
+      },
+      {
+        "text": "Màu bão hòa và tự nhiên",
+        "isCorrect": false
+      },
+      {
+        "text": "Tốt cho màn hình khổ lớn",
+        "isCorrect": false
+      },
+      {
+        "text": "Khá sáng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Pixel có dạng hình gì",
+    "answers": [
+      {
+        "text": "Hình vuông ",
+        "isCorrect": true
+      },
+      {
+        "text": "hình tròn",
+        "isCorrect": false
+      },
+      {
+        "text": "hình tam giác",
+        "isCorrect": false
+      },
+      {
+        "text": "Hình elip",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Wcs là gì",
+    "answers": [
+      {
+        "text": "hệ tọa độ thế giới",
+        "isCorrect": true
+      },
+      {
+        "text": "Hệ tọa độ người dùng",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ tọa độ chuẩn hóa",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ tọa độ không gian",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": " phương pháp nào sau đây không phải là phương pháp mô hình hình học 3D ",
+    "answers": [
+      {
+        "text": "Mô hình hóa rắn",
+        "isCorrect": true
+      },
+      {
+        "text": "Mô hình khung dây",
+        "isCorrect": false
+      },
+      {
+        "text": "Mô hình hóa bề mặt",
+        "isCorrect": false
+      },
+      {
+        "text": "Mô hình hình đặc",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "dạng nào sau đây biểu diễn của đường cong:",
+    "answers": [
+      {
+        "text": "tất cả",
+        "isCorrect": true
+      },
+      {
+        "text": "explicit",
+        "isCorrect": false
+      },
+      {
+        "text": "parametric",
+        "isCorrect": false
+      },
+      {
+        "text": "implicit",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Màn hình hiển thị nào nhấp nháy ở 50-80Hz",
+    "answers": [
+      {
+        "text": "CRT",
+        "isCorrect": true
+      },
+      {
+        "text": "OLED",
+        "isCorrect": false
+      },
+      {
+        "text": "LED",
+        "isCorrect": false
+      },
+      {
+        "text": "Plasma",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là nhược điểm của màn hình CRT:",
+    "answers": [
+      {
+        "text": "Lớn và nặng, tiêu thụ điện năng cao, lỗi hình học ở các cạnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Đắt, sử dụng nhiều năng lượng",
+        "isCorrect": false
+      },
+      {
+        "text": "Đắt, Chất lượng hình ảnh tương đối thấp",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiển thị kém khi có ánh sáng mặt trời, tuổi thọ ngắn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Màn hình hiẻn thị nào dễ bị lỗi hình học ở các cạnh:",
+    "answers": [
+      {
+        "text": "CRT",
+        "isCorrect": true
+      },
+      {
+        "text": "OLED",
+        "isCorrect": false
+      },
+      {
+        "text": "LED",
+        "isCorrect": false
+      },
+      {
+        "text": "Plasma",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Màn hình hiển thị nào hoạt động với nguyên tắc giống đèn huỳnh quang",
+    "answers": [
+      {
+        "text": "Plasma",
+        "isCorrect": true
+      },
+      {
+        "text": "CRT",
+        "isCorrect": false
+      },
+      {
+        "text": "LED",
+        "isCorrect": false
+      },
+      {
+        "text": "OLED",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Bộ đệm khung màu được lập chỉ mục (8 bit hoặc PseudoColor) lưu trữ mấy byte cho mỗi pixel:",
+    "answers": [
+      {
+        "text": "1 byte",
+        "isCorrect": true
+      },
+      {
+        "text": "4 byte",
+        "isCorrect": false
+      },
+      {
+        "text": "16 byte",
+        "isCorrect": false
+      },
+      {
+        "text": "8 byte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "RGB là viết tắt của?",
+    "answers": [
+      {
+        "text": "Red Green Blue",
+        "isCorrect": true
+      },
+      {
+        "text": "Raster Graphic Bit",
+        "isCorrect": false
+      },
+      {
+        "text": "Random Graphics Board",
+        "isCorrect": false
+      },
+      {
+        "text": "Rainbow Gradient Burst",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có mấy cách để định nghĩa phương trình đoạn thẳng?",
+    "answers": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là một đầu ra nguyên thủy",
+    "answers": [
+      {
+        "text": "Hình tròn",
+        "isCorrect": true
+      },
+      {
+        "text": "Điểm",
+        "isCorrect": false
+      },
+      {
+        "text": "Đường tròn",
+        "isCorrect": false
+      },
+      {
+        "text": "Đoạn thẳng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là phương pháp mô hình hóa hình học ba chiều cơ bản",
+    "answers": [
+      {
+        "text": "Virtual modeling",
+        "isCorrect": true
+      },
+      {
+        "text": "Surface modeling",
+        "isCorrect": false
+      },
+      {
+        "text": "Solid modeling",
+        "isCorrect": false
+      },
+      {
+        "text": "Wireframe modeling",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là ưu điểm của việc biểu diễn đường cong bằng đa thức",
+    "answers": [
+      {
+        "text": "Tất cả các đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Biểu diễn đa thức có dạng đơn giản",
+        "isCorrect": false
+      },
+      {
+        "text": "Mô hình đa thức có độ linh hoạt cao ",
+        "isCorrect": false
+      },
+      {
+        "text": "Chi phí tính toán thấp",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đoạn thẳng có 2 điểm là (12,20) và (22,27). Dùng thuật toán DDA vẽ đoạn thẳng tính các giá trị y và yi tại x =12:",
+    "answers": [
+      {
+        "text": "yi = 21 và y = 20.7",
+        "isCorrect": true
+      },
+      {
+        "text": "yi = 20 và y = 20",
+        "isCorrect": false
+      },
+      {
+        "text": "yi = 21 và y = 20.4",
+        "isCorrect": false
+      },
+      {
+        "text": "yi = 20 và y = 20.7",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây đúng khi nói về phép biến đổi affine",
+    "answers": [
+      {
+        "text": "Phép biến đổi affine là phi tuyến tính",
+        "isCorrect": true
+      },
+      {
+        "text": "Phép biến đổi affine bảo toàn song song giữa các đoạn thẳng",
+        "isCorrect": false
+      },
+      {
+        "text": "Biến đổi affine có thể đảo ngược",
+        "isCorrect": false
+      },
+      {
+        "text": "Biến đổi affine có nội suy khác nhau trong cả 2 chiều không gian",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tại sao lại cần phải có clipping ?",
+    "answers": [
+      {
+        "text": "Để cắt một phần của các đối tượng bên ngoài khối khung nhìn để tránh hiển thị chúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Để tạo ra các hiệu ứng ánh sáng phức tạp trên màn hình.",
+        "isCorrect": false
+      },
+      {
+        "text": "Để nâng cao chất lượng hình ảnh đồ họa trên màn hình.",
+        "isCorrect": false
+      },
+      {
+        "text": "Để tăng tốc độ xử lý đồ họa trên máy tính",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Cho các điểm điều khiển: P0 = (1, 2, 0) P1 = (4, 3, 0) P2 = (6, 5, 0) P3 = (2, 6, 0). Tìm các điểm trên đường cong cho u = 1/2.",
+    "answers": [
+      {
+        "text": "(19/8, 25/8, 0)",
+        "isCorrect": true
+      },
+      {
+        "text": "(5/2, 4, 0)",
+        "isCorrect": false
+      },
+      {
+        "text": "(31/8, 25/4, 0)",
+        "isCorrect": false
+      },
+      {
+        "text": "(7/8, 9/8, 0)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây đúng khi nói về Orthographic và Oblique là gì?",
+    "answers": [
+      {
+        "text": "Orthographic tạo ra hình chiếu vuông góc trong khi Oblique tạo ra hình chiếu nghiêng",
+        "isCorrect": true
+      },
+      {
+        "text": "Orthographic và Oblique đều sử dụng các hình chiếu song song",
+        "isCorrect": false
+      },
+      {
+        "text": "Orthographic thường được sử dụng trong đồ họa 2D, trong khi Oblique thường được sử dụng trong đồ họa 3D",
+        "isCorrect": false
+      },
+      {
+        "text": "Orthographic và Oblique đều có thể tạo ra hình chiếu nghiêng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Rasterization là quá trình gì?",
+    "answers": [
+      {
+        "text": "Chuyển đổi các hình học vector thành các điểm ảnh để hiển thị trên màn hình.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tạo ra hiệu ứng ánh sáng và màu sắc trong hình ảnh.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tính toán các điểm ảnh tương ứng với các điểm trong không gian 3D.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tạo ra các đoạn thẳng từ các hình học vector",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là khái niệm về Radiosity?",
+    "answers": [
+      {
+        "text": "Tính toán cường độ ánh sáng phản xạ giữa các bề mặt.",
+        "isCorrect": true
+      },
+      {
+        "text": "Phân tách cảnh thành các patch",
+        "isCorrect": false
+      },
+      {
+        "text": "Trao đổi ánh sáng giữa các patch",
+        "isCorrect": false
+      },
+      {
+        "text": "Xác định đường đi tia sáng từ nguồn sáng đến mắt nhìn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mô hình Shading nào gán cùng một giá trị màu sắc cho tất cả các điểm ảnh trên mỗi đối tượng",
+    "answers": [
+      {
+        "text": "Flat Shading",
+        "isCorrect": true
+      },
+      {
+        "text": "Smooth Shading",
+        "isCorrect": false
+      },
+      {
+        "text": "Gouraud Shading",
+        "isCorrect": false
+      },
+      {
+        "text": "Phong Shading",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Việc sử dụng Gouraud Shading mang lại hiệu ứng gì?",
+    "answers": [
+      {
+        "text": "Hiệu ứng màu sắc chuyển tiếp mềm mại trên bề mặt",
+        "isCorrect": true
+      },
+      {
+        "text": "Hiệu ứng ánh sáng phân tán đồng đều trên bề mặt",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiệu ứng bóng và phản xạ mượt mà trên bề mặt",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiệu ứng bề mặt phẳng và không có sự phản xạ hay phân tán ánh sáng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Loại nguồn sáng nào sau đây không được sử dụng trong mô hình 3D?",
+    "answers": [
+      {
+        "text": "Specular Light - Ánh sáng phản xạ",
+        "isCorrect": true
+      },
+      {
+        "text": "Ambient Light - Ánh sáng môi trường",
+        "isCorrect": false
+      },
+      {
+        "text": "Directional Light - Đèn hướng",
+        "isCorrect": false
+      },
+      {
+        "text": "Point Light - Nguồn sáng điểm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là ưu điểm CRT Raster là gì?",
+    "answers": [
+      {
+        "text": "Không cho phép chất rắn",
+        "isCorrect": true
+      },
+      {
+        "text": "Cho phép chất rắn, không chỉ wireframes",
+        "isCorrect": false
+      },
+      {
+        "text": "Tận dụng công nghệ CRT chi phí thấp",
+        "isCorrect": false
+      },
+      {
+        "text": "Sáng! Màn hình phát ra ánh sáng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là nguyên lý trong hiển thị plasma",
+    "answers": [
+      {
+        "text": "UV kích thích các chất hưu cơ",
+        "isCorrect": true
+      },
+      {
+        "text": "Phosphor thư giãn, phát ra một số màu khác",
+        "isCorrect": false
+      },
+      {
+        "text": "UV kích thích phốt pho",
+        "isCorrect": false
+      },
+      {
+        "text": "Viên nang nhỏ chứa đầy khí được kích thích bởi điện",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Góc nhìn của LED tầm khoảng bao nhiêu độ",
+    "answers": [
+      {
+        "text": "+/- 50 độ",
+        "isCorrect": true
+      },
+      {
+        "text": "+/- 40 độ",
+        "isCorrect": false
+      },
+      {
+        "text": "+/- 30 độ",
+        "isCorrect": false
+      },
+      {
+        "text": "+/- 20 độ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Bộ đệm khung là gì",
+    "answers": [
+      {
+        "text": "bộ nhớ để giữ các giá trị mật độ pixel",
+        "isCorrect": true
+      },
+      {
+        "text": "bộ nhớ để lưu các hàm tính toán trên pixel",
+        "isCorrect": false
+      },
+      {
+        "text": "bộ nhớ để lưu danh sách các màu",
+        "isCorrect": false
+      },
+      {
+        "text": "bộ nhớ để lưu danh sách các hằng số",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tiến trình xử lý đồ họa không bao gồm bước nào",
+    "answers": [
+      {
+        "text": "Energy Preparation",
+        "isCorrect": true
+      },
+      {
+        "text": "Transform",
+        "isCorrect": false
+      },
+      {
+        "text": "Rasterize",
+        "isCorrect": false
+      },
+      {
+        "text": "Shade",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Transform trong Graphics Pipeline là gì",
+    "answers": [
+      {
+        "text": "Chuyển đổi từ không gian thế giới của người dân thành một người khác",
+        "isCorrect": true
+      },
+      {
+        "text": "đổi màu vật thể",
+        "isCorrect": false
+      },
+      {
+        "text": "Làm to kích thước vật thể",
+        "isCorrect": false
+      },
+      {
+        "text": "làm nhỏ kích thước vật thể",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Raterizer trong Graphics Pipeline có vai trò gì?",
+    "answers": [
+      {
+        "text": "Chuyển đổi đại diện hình học. (đỉnh) thành",
+        "isCorrect": true
+      },
+      {
+        "text": "Ánh xạ đại diện hình học qua 1 không gian khác",
+        "isCorrect": false
+      },
+      {
+        "text": "Chuyển đổi đại diện hình học thành 3D",
+        "isCorrect": false
+      },
+      {
+        "text": "Thày đổi màu sắc của đại diện hình học",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nội suy số lượng trên mỗi đỉnh của pixel là vai trò của bước nào trong Graphics Pipeline",
+    "answers": [
+      {
+        "text": "Raterizer",
+        "isCorrect": true
+      },
+      {
+        "text": "Transform",
+        "isCorrect": false
+      },
+      {
+        "text": "Shade",
+        "isCorrect": false
+      },
+      {
+        "text": "Không phải 3 đáp án trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tính toán ánh sáng trên mỗi đỉnh là vài trò của bước bào trong Graphics Pipeline",
+    "answers": [
+      {
+        "text": "Transform",
+        "isCorrect": true
+      },
+      {
+        "text": "Raterizer",
+        "isCorrect": false
+      },
+      {
+        "text": "Shade",
+        "isCorrect": false
+      },
+      {
+        "text": "Không phải 3 đáp án trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là vai trò của bước Shade trong Graphics Pipeline",
+    "answers": [
+      {
+        "text": "Tính toán đa màu cho mỗi pixel",
+        "isCorrect": true
+      },
+      {
+        "text": "Tùy chọn đọc màu từ kết cấu",
+        "isCorrect": false
+      },
+      {
+        "text": "Tính toán một màu cho mỗi pixel",
+        "isCorrect": false
+      },
+      {
+        "text": "Chia thành các map khác nhau",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Vì sao lại sử dụng GPU để thực hiện tính toán",
+    "answers": [
+      {
+        "text": "Tốc độ nhanh",
+        "isCorrect": true
+      },
+      {
+        "text": "Chỉ hỗ trợ để xử lý đồ họa",
+        "isCorrect": false
+      },
+      {
+        "text": "Chỉ hỗ trợ để lập trình AI",
+        "isCorrect": false
+      },
+      {
+        "text": "tạo ra các màu sắc mới",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Cuda Nvidia không có tính chất nào sao đây",
+    "answers": [
+      {
+        "text": "Là một cloud storage",
+        "isCorrect": true
+      },
+      {
+        "text": "là một nền tảng điện toán",
+        "isCorrect": false
+      },
+      {
+        "text": "là một mô hình lập trình song song",
+        "isCorrect": false
+      },
+      {
+        "text": "tăng đáng kệ hiệu năng tính toán",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "OpenCL không có tính chất nào sau đây",
+    "answers": [
+      {
+        "text": "Đây là mô hình tính toán đơn luồng",
+        "isCorrect": true
+      },
+      {
+        "text": "Đây là mô hình tính toán dữ liệu",
+        "isCorrect": false
+      },
+      {
+        "text": "Đây là mô hình tính toán sử dụng đa luồng",
+        "isCorrect": false
+      },
+      {
+        "text": "Đây là mô hình tình toán có OPENCL Structure Programe để đồng bộ hóa các câu lệnh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Dùng lệnh nào để tải một giá trị cường độ vào khung bộ đệm ứng với cột x dọc theo đường quét y",
+    "answers": [
+      {
+        "text": "setpixel (x, y, color)",
+        "isCorrect": true
+      },
+      {
+        "text": "setp (x, y, color)",
+        "isCorrect": false
+      },
+      {
+        "text": "pixel_set (x, y, color)",
+        "isCorrect": false
+      },
+      {
+        "text": "pixelset (x, y, color)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán vẽ đường Bresenham không có tính chất nào sau đây",
+    "answers": [
+      {
+        "text": "Làm việc trên các số nguyên tố",
+        "isCorrect": true
+      },
+      {
+        "text": "Một thuật toán gia tăng nhanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Chỉ sử dụng tính toán số nguyên",
+        "isCorrect": false
+      },
+      {
+        "text": "Input của thuật toán là 2 điểm (x0, y0) và (x1, y1)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán BOUNDARY FILL để làm gì?",
+    "answers": [
+      {
+        "text": "Kiểm tra các pixel lân cận để xác định xem chúng có phải là màu biên hay không",
+        "isCorrect": true
+      },
+      {
+        "text": "Là thuật toán tô màu pixel để 2 hàng xóm không giống màu của nhau",
+        "isCorrect": false
+      },
+      {
+        "text": "Thuật toán phân cụm pixel",
+        "isCorrect": false
+      },
+      {
+        "text": "Thuật toán tô màu đường biên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán FLOOD FILL để làm gì",
+    "answers": [
+      {
+        "text": "Lấp đầy phần bên trong của đa giác",
+        "isCorrect": true
+      },
+      {
+        "text": "Thuật toán phân cụm pixel",
+        "isCorrect": false
+      },
+      {
+        "text": "Thuật toán phân loại pixel",
+        "isCorrect": false
+      },
+      {
+        "text": "Thuật toán tô màu đường biên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phông chữ bitmap là gì ?",
+    "answers": [
+      {
+        "text": "Một phương pháp đơn giản để biểu diễn các hình dạng ký tự trong một kiểu chữ cụ thể là sử dụng mẫu lưới hình chữ nhật",
+        "isCorrect": true
+      },
+      {
+        "text": "Phương pháp ánh xạ các bit thành các màu",
+        "isCorrect": false
+      },
+      {
+        "text": "Phương pháp tô màu = pixel",
+        "isCorrect": false
+      },
+      {
+        "text": "Phương pháp sử dụng bit để mô hình hóa màu sắc",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mục tiêu của clipping  trong đồ họa là gì",
+    "answers": [
+      {
+        "text": "cắt một phần của các đối tượng bên ngoài khối khung nhìn để tránh hiển thị chúng",
+        "isCorrect": true
+      },
+      {
+        "text": "xuất đồ hoạ bên ngoài giới hạn bộ đệm",
+        "isCorrect": false
+      },
+      {
+        "text": "quét chuyển đổi pixel bên ngoài cửa sổ",
+        "isCorrect": false
+      },
+      {
+        "text": "Không phải 3 đáp án trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Quá trình lấy mẫu là gì?",
+    "answers": [
+      {
+        "text": "ánh xạ một hàm liên tục thành một hàm rời rạc ",
+        "isCorrect": true
+      },
+      {
+        "text": "ánh xạ một hàm liên tục thành một hàm liên tục khác",
+        "isCorrect": false
+      },
+      {
+        "text": "Ánh xạ 1 hàm rời rạc thành 1 hàm liên tục",
+        "isCorrect": false
+      },
+      {
+        "text": "Không phải 3 đáp án trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Lưỡng tử hóa là gì ?",
+    "answers": [
+      {
+        "text": "ánh xạ một biến liên tục thành một biến rời rạc",
+        "isCorrect": true
+      },
+      {
+        "text": "ánh xạ 1 biến rời rạc thành 1 biến liên tục",
+        "isCorrect": false
+      },
+      {
+        "text": "ánh xạ 1 biến liên tục thành 1 biến liên tục khác",
+        "isCorrect": false
+      },
+      {
+        "text": "Không phải 3 đáp án trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Kỹ thuật khử răng cưa để làm gì",
+    "answers": [
+      {
+        "text": "àm giảm vấn đề bằng cách áp dụng lý thuyết lấy mẫu và xử lý tín hiệu",
+        "isCorrect": true
+      },
+      {
+        "text": "tạo ra 1 biên khác cho vật thể",
+        "isCorrect": false
+      },
+      {
+        "text": "Thay đổi màu sắc của biên để con người không nhìn thấy",
+        "isCorrect": false
+      },
+      {
+        "text": "Tô màu đường biên để đường biên mịn hơn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Với OpenGL, dùng hàm nào để khử răng cưa?",
+    "answers": [
+      {
+        "text": "void glHint (mục tiêu GLenum, gợi ý GLenum);",
+        "isCorrect": true
+      },
+      {
+        "text": "void glEliminate (mục tiêu GLenum, gợi ý GLenum);",
+        "isCorrect": false
+      },
+      {
+        "text": "void glRemove (mục tiêu GLenum, gợi ý GLenum);",
+        "isCorrect": false
+      },
+      {
+        "text": "void glMove (mục tiêu GLenum, gợi ý GLenum);",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "ưu điểm nào không phải của siêu mẫu ?",
+    "answers": [
+      {
+        "text": "Chi phí lưu trữ thấp",
+        "isCorrect": true
+      },
+      {
+        "text": "Khái niệm đơn giản",
+        "isCorrect": false
+      },
+      {
+        "text": "Dễ dàng trang bị thêm trình kết xuất hiện có",
+        "isCorrect": false
+      },
+      {
+        "text": "Hoạt động tốt hầu hết thời gian",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có bao nhiêu loại phần cứng hiển thị?",
+    "answers": [
+      {
+        "text": "hình ảnh đại diện. (miếng)",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "pixel bên ngoài cửa sổ",
+        "isCorrect": false
+      },
+      {
+        "text": "trường, phát ra tia UV",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là 1 phép biến đổi affine?",
+    "answers": [
+      {
+        "text": "phép tích vô hướng",
+        "isCorrect": true
+      },
+      {
+        "text": "phép tỉ lệ",
+        "isCorrect": false
+      },
+      {
+        "text": "phép quay",
+        "isCorrect": false
+      },
+      {
+        "text": "phép tịnh tiến",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Bộ 3 màu nào là các màu cơ bản?",
+    "answers": [
+      {
+        "text": "Đỏ, Lục, Lam",
+        "isCorrect": true
+      },
+      {
+        "text": "Tím, Lam, Vàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Lục, Cam, Vàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Đỏ, Tím, Cam",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đường cong Bazier có tọa độ 4 điểm kiểm soát là P0(0,0,0) P1(1,2,0) P2(2,2,0) P3(2,3,0). Tính tọa độ với u=1/2",
+    "answers": [
+      {
+        "text": "(11/8, 15/8, 0)",
+        "isCorrect": true
+      },
+      {
+        "text": "(15/8, 17/8, 0)",
+        "isCorrect": false
+      },
+      {
+        "text": "(2, 3, 0)",
+        "isCorrect": false
+      },
+      {
+        "text": "(3, 5, 0)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Cho đoạn thẳng có 2 đầu là A(6,15) và B(13, 20). Áp dụng thuật toán Bresenham để tính yi với xi=8.",
+    "answers": [
+      {
+        "text": "yi=16",
+        "isCorrect": true
+      },
+      {
+        "text": "yi=15",
+        "isCorrect": false
+      },
+      {
+        "text": "yi=17",
+        "isCorrect": false
+      },
+      {
+        "text": "yi=14",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Màu nào không có trong mô hình màu CMY-K",
+    "answers": [
+      {
+        "text": "Khaki",
+        "isCorrect": true
+      },
+      {
+        "text": "Black",
+        "isCorrect": false
+      },
+      {
+        "text": "Yellow",
+        "isCorrect": false
+      },
+      {
+        "text": "Magenta",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong công thức chuyển đổi giữa 2 mô hình màu CMY và CMY-K, giá trị của K được xác định",
+    "answers": [
+      {
+        "text": "min(C, M, K)",
+        "isCorrect": true
+      },
+      {
+        "text": "max(C, M, K)",
+        "isCorrect": false
+      },
+      {
+        "text": "(C + M + K)/3",
+        "isCorrect": false
+      },
+      {
+        "text": "(C + M + K + 8)/3",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong mô hình màu RGB, giá trị của màu đen là",
+    "answers": [
+      {
+        "text": "(0, 0, 0)",
+        "isCorrect": true
+      },
+      {
+        "text": "(1, 1, 0)",
+        "isCorrect": false
+      },
+      {
+        "text": "(1,1,1)",
+        "isCorrect": false
+      },
+      {
+        "text": "(0, 1, 1)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đường cong Hermite bậc 3 sử dụng bao nhiêu điểm kiểm soát",
+    "answers": [
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đối với đường cong Bazier, khi nào các điểm kiểm soát không phải 2 điểm đầu cuối nằm trên đường cong",
+    "answers": [
+      {
+        "text": "Khi đường cong là đoạn thẳng",
+        "isCorrect": true
+      },
+      {
+        "text": "Không có trường hợp nào",
+        "isCorrect": false
+      },
+      {
+        "text": "Khi các điểm trung gian cách đều nhau",
+        "isCorrect": false
+      },
+      {
+        "text": "Khi đường cong là cung tròn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Gam màu trong đồ họa là gì?",
+    "answers": [
+      {
+        "text": "Gam màu là tất cả các màu có thể tạo từ các màu chính",
+        "isCorrect": true
+      },
+      {
+        "text": "Gam màu là độ đậm nhạt của màu",
+        "isCorrect": false
+      },
+      {
+        "text": "Gam màu là màu của 3 màu cơ sở",
+        "isCorrect": false
+      },
+      {
+        "text": "Gam màu là cường độ màu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây là đúng về pixel?",
+    "answers": [
+      {
+        "text": "Pixel là 1 điểm ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Pixel có dạng hình tròn",
+        "isCorrect": false
+      },
+      {
+        "text": "Pixel có dạng hình vuông",
+        "isCorrect": false
+      },
+      {
+        "text": "Pixel có dạng hình elipse",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tác dụng của kỹ thuật khử răng cưa (Antialiasing) là gì?",
+    "answers": [
+      {
+        "text": "Làm cho hình ảnh vật thể trở nên mượt mà hơn, không bị góc cạnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Làm cho ảnh sắc nét hơn kể cả khi phóng to",
+        "isCorrect": false
+      },
+      {
+        "text": "Làm đổi màu ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Làm thay đổi độ sáng của ảnh khiến ảnh trở nên sinh động hơn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thành phần cơ bản nhất của đồ họa là?",
+    "answers": [
+      {
+        "text": "Tất cả đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Pixel",
+        "isCorrect": false
+      },
+      {
+        "text": "Đoạn thẳng",
+        "isCorrect": false
+      },
+      {
+        "text": "Vòng tròn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Điều nào không đúng về phép chiếu trực giao (Orthographic projection)?",
+    "answers": [
+      {
+        "text": "Tia chiếu song song với mặt phẳng chiếu",
+        "isCorrect": true
+      },
+      {
+        "text": "Là phép chiếu song song",
+        "isCorrect": false
+      },
+      {
+        "text": "Tia chiếu vuông góc với mặt phẳng chiếu",
+        "isCorrect": false
+      },
+      {
+        "text": "Thường dùng mặt phẳng z = 0",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là các loại đường cong phổ biến?",
+    "answers": [
+      {
+        "text": "Elipse",
+        "isCorrect": true
+      },
+      {
+        "text": "Hermite",
+        "isCorrect": false
+      },
+      {
+        "text": "Bezier",
+        "isCorrect": false
+      },
+      {
+        "text": "Splines",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây là sai về các phép chiếu (projection)?",
+    "answers": [
+      {
+        "text": "Isometric là phép chiếu trục lượng có hệ số co trên 2 cạnh là như nhau, 1 cạnh tùy ý",
+        "isCorrect": true
+      },
+      {
+        "text": "Isometric là phép chiếu trục lượng có hệ số co trên 3 cạnh là như nhau",
+        "isCorrect": false
+      },
+      {
+        "text": "Trimetric là phép chiếu trục lượng có hệ số co trên 3 cạnh tùy ý",
+        "isCorrect": false
+      },
+      {
+        "text": "Dimetric là phép chiếu trục lượng có hệ số co trên 2 cạnh là như nhau, 1 cạnh tùy ý",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "pixel ảnh hưởng đến chất lượng và độ phân giải của hình ảnh?",
+    "answers": [
+      {
+        "text": "Pixel không ảnh hưởng đến chất lượng và độ phân giải của hình ảnh.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pixel quyết định độ phân giải của hình ảnh, nhưng không ảnh hưởng đến chất lượng.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pixel có vai trò quan trọng trong cả chất lượng và độ phân giải của hình ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Pixel chỉ ảnh hưởng đến chất lượng hình ảnh, không liên quan đến độ phân giải.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thành phần cơ bản nhất của đồ họa là gì?",
+    "answers": [
+      {
+        "text": "Thành phần cơ bản nhất của đồ họa là điểm (point), đại diện cho một vị trí trong không gian 2D hoặc 3D.",
+        "isCorrect": true
+      },
+      {
+        "text": "Thành phần cơ bản nhất của đồ họa là đường (line), là sự kết nối giữa hai điểm trong không gian 2D hoặc 3D.",
+        "isCorrect": false
+      },
+      {
+        "text": "Thành phần cơ bản nhất của đồ họa là hình (shape), bao gồm các đường và điểm, tạo thành các hình dạng phức tạp trong không gian 2D hoặc 3D.",
+        "isCorrect": false
+      },
+      {
+        "text": "Thành phần cơ bản nhất của đồ họa là pixel, là các điểm ảnh nhỏ nhất trên màn hình hiển thị, tạo nên hình ảnh hoàn chỉnh.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phương pháp mô hình hóa hình học ba chiều cơ bản nào được sử dụng phổ biến trong đồ họa máy tính?",
+    "answers": [
+      {
+        "text": "Phương pháp mô hình hóa hình học ba chiều cơ bản là Polyhedron (đa diện) được sử dụng phổ biến trong đồ họa máy tính.",
+        "isCorrect": true
+      },
+      {
+        "text": "Phương pháp mô hình hóa hình học ba chiều cơ bản là B-spline (đường cong B- spline) được sử dụng phổ biến trong đồ họa máy tính.",
+        "isCorrect": false
+      },
+      {
+        "text": "Phương pháp mô hình hóa hình học ba chiều cơ bản là Ray casting (phát xạ tia) được sử dụng phổ biến trong đồ họa máy tính.",
+        "isCorrect": false
+      },
+      {
+        "text": "Phương pháp mô hình hóa hình học ba chiều cơ bản là Marching Cubes (đếm khối) được sử dụng phổ biến trong đồ họa máy tính.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hermit curves là gì và được sử dụng trong lĩnh vực nào?",
+    "answers": [
+      {
+        "text": "Hermit curves là một loại đường cong toán học được sử dụng trong hình học máy tính và đồ họa máy tính",
+        "isCorrect": true
+      },
+      {
+        "text": "Hermit curves là một phương pháp biểu diễn đường cong sử dụng các điểm kiểm soát và vector điều khiển trong việc xác định hình dạng của đường cong.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hermit curves được ứng dụng rộng rãi trong công nghệ điều khiển chuyển động và thiết kế hình học, như trong robotica và thiết kế mô hình 3D.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hermit curves là một phương pháp tạo ra các đường cong mượt mà và tự nhiên, thường được sử dụng trong công nghệ video game và hiệu ứng đồ họa động.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mô hình màu CMY-K được sử dụng trong in ấn và nhiều ứng dụng khác. Bạn có biết ý nghĩa và vai trò của màu K (Key) trong mô hình này là gì không?",
+    "answers": [
+      {
+        "text": "Màu K trong mô hình CMY-K đại diện cho màu đen (Key) và được sử dụng để tạo ra sự đậm và tương phản cao hơn trong các hình ảnh in ấn.",
+        "isCorrect": true
+      },
+      {
+        "text": "Màu K trong mô hình CMY-K là màu chủ đạo trong việc tạo ra các hình ảnh và in ấn chất lượng cao. Nó được sử dụng để tăng độ sắc nét và giảm sự biến dạng màu do việc trộn các màu CMY.",
+        "isCorrect": false
+      },
+      {
+        "text": "Màu K trong mô hình CMY-K là màu kỹ thuật (Key) và được sử dụng để kiểm soát và cân bằng độ sáng và màu sắc trong quá trình in ấn, đảm bảo kết quả in đúng và chính xác.",
+        "isCorrect": false
+      },
+      {
+        "text": "Màu K trong mô hình CMY-K chỉ đơn giản là một chữ cái duy nhất để đại diện cho màu mực đen, không có ý nghĩa hoặc vai trò đặc biệt nào.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "GPU dùng để làm gì?",
+    "answers": [
+      {
+        "text": "Tạo ra hiệu ứng ánh sáng và bóng trên các đối tượng 3D. ",
+        "isCorrect": true
+      },
+      {
+        "text": "để nâng cấp chất lượng âm thanh",
+        "isCorrect": false
+      },
+      {
+        "text": "-",
+        "isCorrect": false
+      },
+      {
+        "text": "-",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhược điểm của Hermit curves",
+    "answers": [
+      {
+        "text": "Đường cong khối Hermite rất khó để mô hình hóa - cần chỉ định điểm và độ dốc.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hành vi giữa 2 điểm được xác định cho độ dốc điểm cuối tùy ý luôn cố định",
+        "isCorrect": false
+      },
+      {
+        "text": "Giới hạn ở đa thức bậc 3 do đó đường cong bị overfiting",
+        "isCorrect": false
+      },
+      {
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Một GameEngine",
+    "answers": [
+      {
+        "text": "Unity",
+        "isCorrect": true
+      },
+      {
+        "text": "CodeBlock",
+        "isCorrect": false
+      },
+      {
+        "text": "DevC",
+        "isCorrect": false
+      },
+      {
+        "text": "Vscode",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Surface Modeling là quá trình?",
+    "answers": [
+      {
+        "text": "Tất cả đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "tạo ra mô hình 3D của các đối tượng bằng cách mô phỏng và xác định các bề mặt của chúng.",
+        "isCorrect": false
+      },
+      {
+        "text": "xác định cấu trúc và hình dạng của các bề mặt trong không gian 3D.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả đều sai",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Revolution surface (Mặt tròn xoay) được tạo ra bằng cách?",
+    "answers": [
+      {
+        "text": "Tất cả đáp án đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Quay một đường thẳng quanh một trục trong không gian",
+        "isCorrect": false
+      },
+      {
+        "text": "Quay một đường cong phẳng quanh một trục trong không gian",
+        "isCorrect": false
+      },
+      {
+        "text": "Quay một elip quanh một trục trong không gian",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Constructive Solid Geometry (CSG) sử dụng các phép toán tập hợp như hợp, giao và trừ để kết hợp các hình học cơ bản như hình hộp, hình trụ, hình cầu để tạo ra mô hình khối chất phức tạp. Câu trả lời nào dưới đây là sai khi nói về CSG Tree?",
+    "answers": [
+      {
+        "text": "Rất tốt ở các định dạng phức tạp",
+        "isCorrect": true
+      },
+      {
+        "text": "Chậm để hiển thị",
+        "isCorrect": false
+      },
+      {
+        "text": "Không tốt ở định dạng phức tạp",
+        "isCorrect": false
+      },
+      {
+        "text": "Dễ dàng, súc tích và yêu cầu lưu trữ tối thiểu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Fractals có thể được áp dụng để làm gì?",
+    "answers": [
+      {
+        "text": "Tất cả đáp án đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Tạo ra các hình ảnh tự nhiên và phức tạp trong đồ họa máy tính",
+        "isCorrect": false
+      },
+      {
+        "text": "Nghiên cứu cấu trúc tương tự trong tự nhiên và khoa học",
+        "isCorrect": false
+      },
+      {
+        "text": "Mô phỏng các hiện tượng tự tổ chức và hệ thống phức tạp",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Fractals có thể được phân thành bao nhiêu nhóm?",
+    "answers": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhược điểm của biểu diễn đường cong theo phương trình ngầm định? ( f(x,y,z) = 0 )",
+    "answers": [
+      {
+        "text": "vấn đề nối các đoạn đường cong với nhau",
+        "isCorrect": true
+      },
+      {
+        "text": "không thể nhận được nhiều giá trị cho một x",
+        "isCorrect": false
+      },
+      {
+        "text": "không bất biến với phép quay",
+        "isCorrect": false
+      },
+      {
+        "text": "vấn đề với các đường cong với tiếp tuyến dọc",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ưu điểm của đường cong Bezier?",
+    "answers": [
+      {
+        "text": "Rất đơn giản",
+        "isCorrect": true
+      },
+      {
+        "text": "Chi phí đánh giá thấp",
+        "isCorrect": false
+      },
+      {
+        "text": "Dễ dàng lấy mẫu điểm",
+        "isCorrect": false
+      },
+      {
+        "text": "Dễ dàng điều khiển cục bộ, thay đổi 1 điểm không ảnh hưởng đến đường cong",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ưu điểm của đường cong bậc cao?",
+    "answers": [
+      {
+        "text": "nhỏ gọn, sử dụng ít dung lượng",
+        "isCorrect": true
+      },
+      {
+        "text": "số lượng lớn dữ liệu để đạt được độ tương tác tốt",
+        "isCorrect": false
+      },
+      {
+        "text": "vẽ các hình dạnh phức tạp nhanh chóng",
+        "isCorrect": false
+      },
+      {
+        "text": "Vẽ các hình dạng to lớn nhanh chóng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có những loại phép chiếu nào?",
+    "answers": [
+      {
+        "text": "Tất cả đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Phép chiếu xuyên tâm",
+        "isCorrect": false
+      },
+      {
+        "text": "Phép chiếu song song",
+        "isCorrect": false
+      },
+      {
+        "text": "Phép chiếu vuông góc",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu đúng về mô hình chiếu sáng?",
+    "answers": [
+      {
+        "text": "xác định màu của điểm bề mặt bằng cách mô phỏng một số thuộc tính ánh sáng.",
+        "isCorrect": true
+      },
+      {
+        "text": "áp dụng các mô hình chiếu sáng tại một tập hợp các điểm và tô màu toàn bộ hình ảnh.",
+        "isCorrect": false
+      },
+      {
+        "text": "Thêm các thành phần từ tất cả các nguồn ánh sáng",
+        "isCorrect": false
+      },
+      {
+        "text": "phản xạ từ ánh sáng tới với cường độ bằng nhau theo mọi hướng. Phụ thuộc vào tính chất bề mặt",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Một mô hình chiếu sáng thường xem xét:",
+    "answers": [
+      {
+        "text": "Tất cả các đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Thuộc tính ánh sáng và bề mặt đối tượng",
+        "isCorrect": false
+      },
+      {
+        "text": "Tương tác giữa các vật thể và mắt",
+        "isCorrect": false
+      },
+      {
+        "text": "Tương tác giữa đèn và vật thể",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu đúng về mô hình shading mỗi pixel?",
+    "answers": [
+      {
+        "text": "Tính toán chiếu sáng tại mọi điểm trên bề mặt.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tính toán độ rọi ở các đỉnh và nội suy màu",
+        "isCorrect": false
+      },
+      {
+        "text": "Tính toán chiếu sáng tại bất kỳ điểm nào trên bề mặt.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả đáp án đều sai",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Lợi thế của Phong shading hơn gouraud là ?",
+    "answers": [
+      {
+        "text": "các điểm nổi bật nhất có xu hướng nổi bật đỉnh chính xác hơn nhiều, sắc nét hơn nhiều có thể xảy ra trong một đa giác",
+        "isCorrect": true
+      },
+      {
+        "text": "Hiệu ứng băng tần phù hợp",
+        "isCorrect": false
+      },
+      {
+        "text": "Chi phí giảm đáng kể",
+        "isCorrect": false
+      },
+      {
+        "text": "Không có phản xạ specular",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các thành phần cơ bản của một hệ thống đồ họa tương tác?",
+    "answers": [
+      {
+        "text": "Tất cả các đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "đầu vào (ví dụ: chuột, máy tính bảng và bút stylus, thiết bị phản hồi lực, máy quét,...)",
+        "isCorrect": false
+      },
+      {
+        "text": "xử lý (và lưu trữ)",
+        "isCorrect": false
+      },
+      {
+        "text": "hiển thị / đầu ra (ví dụ: màn hình, máy in trên giấy, đầu ghi video,...",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong mô hình màu RGB, chứ cái B là viết tắt của màu gì?",
+    "answers": [
+      {
+        "text": "Blue",
+        "isCorrect": true
+      },
+      {
+        "text": "Black",
+        "isCorrect": false
+      },
+      {
+        "text": "Brown",
+        "isCorrect": false
+      },
+      {
+        "text": "Bright",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tất cả các thuật toán vẽ đường đều sử dụng?",
+    "answers": [
+      {
+        "text": "Các phương trình cơ bản đường Eqn",
+        "isCorrect": true
+      },
+      {
+        "text": "cách tăng x từ 0 đến R theo các bước đơn vị và giải + y cho mỗi bước.",
+        "isCorrect": false
+      },
+      {
+        "text": "Đối xứng giữa các góc phần tư",
+        "isCorrect": false
+      },
+      {
+        "text": "Xác định 2 điểm đầu cuối, kẻ đường đi qua",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là tên của một phương pháp shading?",
+    "answers": [
+      {
+        "text": "Phong shading",
+        "isCorrect": true
+      },
+      {
+        "text": "Giang shading",
+        "isCorrect": false
+      },
+      {
+        "text": "Quang shading",
+        "isCorrect": false
+      },
+      {
+        "text": "Linh shading",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phép biến đổi nào sau đây có thể làm thay đổi khoảng cách giữa hai điểm trong vật thể?",
+    "answers": [
+      {
+        "text": "Scaling",
+        "isCorrect": true
+      },
+      {
+        "text": "Reflection",
+        "isCorrect": false
+      },
+      {
+        "text": "Rotation",
+        "isCorrect": false
+      },
+      {
+        "text": "Translation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là một trò chơi?",
+    "answers": [
+      {
+        "text": "Đá bóng",
+        "isCorrect": true
+      },
+      {
+        "text": "Xem phim",
+        "isCorrect": false
+      },
+      {
+        "text": "Chơi búp bê",
+        "isCorrect": false
+      },
+      {
+        "text": "Giải ô chữ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong không gian 3 chiều Oxyz, để quay một vật thể quanh một trục bất kì cần tối thiểu bao nhiêu phép biến đổi cơ sở?",
+    "answers": [
+      {
+        "text": "7",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Một đường cong Bezier bậc 3 có 4 điểm kiểm soát với tọa độ lần lượt là: P0(0, 0, 0), P1(0, 8, 8), P2(8, 0, 8), P3(0, 0, 0). Tính P(0.5)",
+    "answers": [
+      {
+        "text": "(3, 3, 6)",
+        "isCorrect": true
+      },
+      {
+        "text": "(4, 4, 8)",
+        "isCorrect": false
+      },
+      {
+        "text": "(2, 2, 4)",
+        "isCorrect": false
+      },
+      {
+        "text": "(6, 6, 9)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đường cong nào sau đây giải quyết được vấn đề kiểm soát cục bộ?",
+    "answers": [
+      {
+        "text": "Spline",
+        "isCorrect": true
+      },
+      {
+        "text": "Hermite",
+        "isCorrect": false
+      },
+      {
+        "text": "Bezier",
+        "isCorrect": false
+      },
+      {
+        "text": "Không có đáp án nào đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Gọi R(r) là ma trận thực hiện phép quay góc r quanh một trục nào đó (r là góc quay). Vậy ma trận nghịch đảo R^(-1)(r) là: ",
+    "answers": [
+      {
+        "text": "R(-r)",
+        "isCorrect": true
+      },
+      {
+        "text": "R(1/r)",
+        "isCorrect": false
+      },
+      {
+        "text": "R(r)",
+        "isCorrect": false
+      },
+      {
+        "text": "R(pi - r)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nguồn sáng nào cho các tia chiếu song song?",
+    "answers": [
+      {
+        "text": "Nguồn sáng định hướng",
+        "isCorrect": true
+      },
+      {
+        "text": "Nguồn sáng điểm",
+        "isCorrect": false
+      },
+      {
+        "text": "Nguồn sáng xung quanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Nguồn sáng chiếu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phép chiếu nào sau đây sử dụng các tia chiếu hội tụ?",
+    "answers": [
+      {
+        "text": "Phép chiếu perspective (phối cảnh)",
+        "isCorrect": true
+      },
+      {
+        "text": "Phép chiếu cavalier",
+        "isCorrect": false
+      },
+      {
+        "text": "Phép chiếu axonometric (trục lượng)",
+        "isCorrect": false
+      },
+      {
+        "text": "Phép chiếu cabinet",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong không gian 3 chiều, thuật toán xén tỉa Cohen-Sutherland sử dụng bao nhiêu bit để mã hóa cho các vùng bên trong và bên ngoài của một hình hộp chữ nhật?",
+    "answers": [
+      {
+        "text": "6 bit",
+        "isCorrect": true
+      },
+      {
+        "text": "5 bit",
+        "isCorrect": false
+      },
+      {
+        "text": "4 bit",
+        "isCorrect": false
+      },
+      {
+        "text": "3 bit",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong biến đổi affine 2D, ma trận biến đổi có kích thước là bao nhiêu?",
+    "answers": [
+      {
+        "text": "1x1",
+        "isCorrect": true
+      },
+      {
+        "text": "2x2",
+        "isCorrect": false
+      },
+      {
+        "text": "3x3",
+        "isCorrect": false
+      },
+      {
+        "text": "4x4",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong biến đổi affine 2D, giá trị sin(θ) và cos(θ) được sử dụng để thực hiện phép biến đổi nào?",
+    "answers": [
+      {
+        "text": "rotation",
+        "isCorrect": true
+      },
+      {
+        "text": "scaling",
+        "isCorrect": false
+      },
+      {
+        "text": "translation",
+        "isCorrect": false
+      },
+      {
+        "text": "shearing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": " phép chiếu (projection) được sử dụng để:",
+    "answers": [
+      {
+        "text": "Xác định góc nhìn và khoảng cách của người dùng trong không gian 3D.",
+        "isCorrect": true
+      },
+      {
+        "text": "Chuyển đổi hình ảnh từ không gian 3D thành không gian 2D để hiển thị trên màn hình.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tạo ra các hiệu ứng ánh sáng và bóng trên các đối tượng 3D.",
+        "isCorrect": false
+      },
+      {
+        "text": " Áp dụng các phép biến đổi như di chuyển, xoay và tỉ lệ cho các đối tượng 3D.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong đường cong Bézier, điểm kiểm soát có vai trò gì?",
+    "answers": [
+      {
+        "text": "Định hình hình dạng  của đường cong Bézier",
+        "isCorrect": true
+      },
+      {
+        "text": "Xác định màu sắc của đường cong Bézier",
+        "isCorrect": false
+      },
+      {
+        "text": "Quyết định độ dài của đường cong Bézier",
+        "isCorrect": false
+      },
+      {
+        "text": "Định nghĩa loại đường cong Bézier (bậc 2, bậc 3, ...)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đường cong Bézier bậc 3 gồm bao nhiêu điểm kiểm soát?",
+    "answers": [
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán Bresenham vẽ đuồng thẳng dựa trên phép toán nào?",
+    "answers": [
+      {
+        "text": "Phép toán trên số thực",
+        "isCorrect": true
+      },
+      {
+        "text": "Thay thế các phép toán trên số thực bằng các phép toán trên số nguyên",
+        "isCorrect": false
+      },
+      {
+        "text": "Phép dịch bit",
+        "isCorrect": false
+      },
+      {
+        "text": "Phép cộng các bit",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán Midpoint được sử dụng để vẽ loại hình học nào?",
+    "answers": [
+      {
+        "text": "Đường thẳng",
+        "isCorrect": true
+      },
+      {
+        "text": "Đa giác ",
+        "isCorrect": false
+      },
+      {
+        "text": "Hình tròn",
+        "isCorrect": false
+      },
+      {
+        "text": "Hình chữ nhật",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong thuật toán DDA, tại mỗi bước lặp, ta cần tính toán giá trị nào để xác định vị trí tiếp theo trên đường thẳng?",
+    "answers": [
+      {
+        "text": "Giá trị tọa độ x.",
+        "isCorrect": true
+      },
+      {
+        "text": "Giá trị tọa độ y.",
+        "isCorrect": false
+      },
+      {
+        "text": "Giá trị bước tăng dần.",
+        "isCorrect": false
+      },
+      {
+        "text": "Giá trị độ dốc của đường thẳng.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Công nghệ hiển thị LCD (Liquid Crystal Display) dựa trên nguyên tắc hoạt động của:",
+    "answers": [
+      {
+        "text": "Đèn Led",
+        "isCorrect": true
+      },
+      {
+        "text": "phân tử lỏng tinh thể",
+        "isCorrect": false
+      },
+      {
+        "text": "chùm eletron",
+        "isCorrect": false
+      },
+      {
+        "text": "đèn sáng huỳnh quang",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Chức năng chính của GPU là gì?",
+    "answers": [
+      {
+        "text": "Tạo ra hiệu ứng ánh sáng và bóng trên các đối tượng 3D. ",
+        "isCorrect": true
+      },
+      {
+        "text": "Điều khiển màn hình hiển thị.",
+        "isCorrect": false
+      },
+      {
+        "text": " Xử lý dữ liệu hình ảnh và tính toán đồ họa",
+        "isCorrect": false
+      },
+      {
+        "text": "Lưu trữ dữ liệu hình ảnh và video.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "GPU là viết tắt của thuật ngữ nào?",
+    "answers": [
+      {
+        "text": " General Processing Unit",
+        "isCorrect": true
+      },
+      {
+        "text": "Graphics Processing Unit",
+        "isCorrect": false
+      },
+      {
+        "text": "Gaming Processing Unit ",
+        "isCorrect": false
+      },
+      {
+        "text": "Graphical Performance Unit",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Những nỗ lực của Ludological nhằm mục đích gi?",
+    "answers": [
+      {
+        "text": "Tất cả đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Đê hiểu rõ hơn trò chơi là gì",
+        "isCorrect": false
+      },
+      {
+        "text": " Để hiểu rõ hơn làm sao để thiết kế được các trò chơi đa dạng hơn và tốt hơn",
+        "isCorrect": false
+      },
+      {
+        "text": "Để hiểu rõ hơn tại sao mọi người chơi chúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mục tiêu của hệ toạ độ đồng nhất?",
+    "answers": [
+      {
+        "text": "Đê soạn thảo các phép biến đổi chỉ cần nhân ma trận",
+        "isCorrect": true
+      },
+      {
+        "text": "Đê soạn thảo các phép biến đổi chỉ cần cộng ma trận",
+        "isCorrect": false
+      },
+      {
+        "text": "Đê soạn thảo các phép biến đổi cần nhân và cộng ma trận",
+        "isCorrect": false
+      },
+      {
+        "text": "Đê soạn thảo các phép biến đổi mà không cần dùng ma trận",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ray casting algorithm dùng để làm gì?",
+    "answers": [
+      {
+        "text": "Vẽ đường trung tâm theo chiều dọc trên màn hình và thu nhỏ theo khoảng cách",
+        "isCorrect": true
+      },
+      {
+        "text": "Gửi các tia theo chiều dọc từ điểm quan sát vào cảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Vẽ đường trung tâm theo chiều ngang trên màn hình và thu nhỏ theo khoảng cách",
+        "isCorrect": false
+      },
+      {
+        "text": "Tính khoảng cách đến nhân vật",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Morton H Eilig đã xây dựng một bảng điều khiển người dùng duy nhất được gọi là Sensorama. Điều này cho phép người dùng xem truyền hình theo cách mấy chiều?",
+    "answers": [
+      {
+        "text": "3 chiều",
+        "isCorrect": true
+      },
+      {
+        "text": "2 chiều",
+        "isCorrect": false
+      },
+      {
+        "text": "1 chiều",
+        "isCorrect": false
+      },
+      {
+        "text": "4 chiều",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Chọn phát biểu sai về nhận định của Jeanne Nakamura và Csíkszentmihályi về dòng chảy?",
+    "answers": [
+      {
+        "text": "Một sự biến dạng của trải nghiệm lâu dài, trải nghiệm chủ quan về thời gian của một người bị thay đổi",
+        "isCorrect": true
+      },
+      {
+        "text": "Tập trung cao độ và tập trung vào thời điểm hiện tại",
+        "isCorrect": false
+      },
+      {
+        "text": "Hợp nhất hành động và nhận thức",
+        "isCorrect": false
+      },
+      {
+        "text": "Mất tự giác",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong thuật toán DDA ta có x=x+1, m =dy/dx thì giá trị y và yi tính theo công thức nào sau đây:",
+    "answers": [
+      {
+        "text": "y(i+1)=y(i)+m, y(i+1)=round(y)",
+        "isCorrect": true
+      },
+      {
+        "text": "y(i-1)=y(i)+m, y(i+1)=round(y)",
+        "isCorrect": false
+      },
+      {
+        "text": "y(i+1)=y(i)+m, y(i+1)=y(1)",
+        "isCorrect": false
+      },
+      {
+        "text": "y(i-1)=y(i)+m, y(i+1)=y",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong giải thuật MidPoint vẽ đoạn thẳng thì O là điểm giữa, ta có P[i]=2F(O)=2F(X[i+1], Y[i]+1/2) thì giá trị nào của P[i] điểm O nằm trên đoạn thẳng:",
+    "answers": [
+      {
+        "text": "P[i]<0",
+        "isCorrect": true
+      },
+      {
+        "text": "P[i]=0",
+        "isCorrect": false
+      },
+      {
+        "text": "P[i]=P[i]+1",
+        "isCorrect": false
+      },
+      {
+        "text": "P[i]>0",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán Midpoint để vẽ đường tròn chia làm 8 phần. Điểm có tọa độ (y,x) thì đối xứng qua Ox sẽ được tọa độ nào?",
+    "answers": [
+      {
+        "text": "(y,-x)",
+        "isCorrect": true
+      },
+      {
+        "text": "(x,y)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x,-y)",
+        "isCorrect": false
+      },
+      {
+        "text": "(-y,-x)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đoạn thẳng có 2 điểm là (12,20) và (22,27). Dùng thuật toán Bresenham vẽ đoạn thẳng tính các giá trị p và y tại x=13:",
+    "answers": [
+      {
+        "text": "p=-2 và y=21",
+        "isCorrect": true
+      },
+      {
+        "text": "p=-3 và y=21",
+        "isCorrect": false
+      },
+      {
+        "text": "p=-3 và y=22",
+        "isCorrect": false
+      },
+      {
+        "text": "p=5 và y=23",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đoạn thẳng có 2 điểm là (12,20) và (22,27). Dùng thuật toán DDA vẽ đoạn thẳng tính các giá trị y và y[i] tại x=12:",
+    "answers": [
+      {
+        "text": "y[i]=20 và y=20",
+        "isCorrect": true
+      },
+      {
+        "text": "y[i]=21 và y=20.7",
+        "isCorrect": false
+      },
+      {
+        "text": "y[i]=21 và y=21.4",
+        "isCorrect": false
+      },
+      {
+        "text": "y[i]=20 và y=20.7",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Chức năng của công cụ Dodge là:",
+    "answers": [
+      {
+        "text": "Làm tăng độ sáng của ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Làm sắc nét biên màu của ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Làm mịn ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Làm màu của ảnh pha lẫn với nhau",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhóm bộ lọc Render là:",
+    "answers": [
+      {
+        "text": "Tạo dáng 3D, mẫu khúc xạ, mô phỏng kết quả phản xạ ánh sáng",
+        "isCorrect": true
+      },
+      {
+        "text": "Làm biến dạng hình học cho ảnh, tạo hiệu ứng 3D hoặc tái tạo hình dáng khác, chiếm dụng nhiều dung lượng nhớ",
+        "isCorrect": false
+      },
+      {
+        "text": "Cung cấp cho hình ảnh dáng vẻ, độ sâu hay tình trạng của vật chất trong thực tế",
+        "isCorrect": false
+      },
+      {
+        "text": "Nhóm bộ lọc hữu ích trong chấm và sửa ảnh, có thể tạo bóng mờ cho ảnh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhóm bộ lọc Texture",
+    "answers": [
+      {
+        "text": "Cung cấp cho hình ảnh dáng vẻ, độ sâu hay tình trạng của vật chất trong thực tế",
+        "isCorrect": true
+      },
+      {
+        "text": "Làm biến dạng hình học cho ảnh, tạo hiệu ứng 3D hoặc tái tạo hình dáng khác, chiếm dụng nhiều dung lượng nhớ",
+        "isCorrect": false
+      },
+      {
+        "text": "Tạo dáng 3D, mẫu khúc xạ, mô phỏng kết quả phản xạ ánh sáng",
+        "isCorrect": false
+      },
+      {
+        "text": "Nhóm bộ lọc hữu ích trong chấm và sửa ảnh, có thể tạo bóng mờ cho ảnh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có bao nhiêu loại cơ bản của phương pháp mô hình học 3D",
+    "answers": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu KHÔNG là một loại cơ bản của phương pháp mô hình học 3D",
+    "answers": [
+      {
+        "text": "Mô hình khối",
+        "isCorrect": true
+      },
+      {
+        "text": "Mô hình khung dây",
+        "isCorrect": false
+      },
+      {
+        "text": "Mộ hình hóa bề mặt",
+        "isCorrect": false
+      },
+      {
+        "text": "Mô hình đặc",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "AR (thuật ngữ đồ họa) là viết tắt của:",
+    "answers": [
+      {
+        "text": "Augmented Reality",
+        "isCorrect": true
+      },
+      {
+        "text": "Artificial Reality",
+        "isCorrect": false
+      },
+      {
+        "text": "Augmentation Reality",
+        "isCorrect": false
+      },
+      {
+        "text": "Asssault Riffle",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "VR (thuật ngữ đồ họa) là viết tắt của:",
+    "answers": [
+      {
+        "text": "Virtual Reality",
+        "isCorrect": true
+      },
+      {
+        "text": "Very Reality",
+        "isCorrect": false
+      },
+      {
+        "text": "VIP Reality",
+        "isCorrect": false
+      },
+      {
+        "text": "Victory Reality",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Loại kính VR nào sử dụng smartphone để tạo ra trải nghiệm thực tế ảo",
+    "answers": [
+      {
+        "text": "Samsung Gear VR",
+        "isCorrect": true
+      },
+      {
+        "text": "Oculus Rift",
+        "isCorrect": false
+      },
+      {
+        "text": "HTC Vive",
+        "isCorrect": false
+      },
+      {
+        "text": "PlayStation VR",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Những chức năng chính của graphics system là gì?",
+    "answers": [
+      {
+        "text": "Modeling, Rendering và Displaying ",
+        "isCorrect": true
+      },
+      {
+        "text": "Modeling",
+        "isCorrect": false
+      },
+      {
+        "text": "Rendering và Displaying",
+        "isCorrect": false
+      },
+      {
+        "text": "Modeling và Rendering",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tại sao quá trình cắt hình (clipping) là cần thiết?",
+    "answers": [
+      {
+        "text": "Để tránh vẽ phần đối tượng nằm ngoài khung hiển thị, qua đó làm giảm tải cho quá trình vẽ hình ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Để tăng tải cho quá trình vẽ hình ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Để tạo hiệu ứng 3D cho đối tượng",
+        "isCorrect": false
+      },
+      {
+        "text": "Để giúp đối tượng vừa khung nhìn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Để áp dụng phép biến đổi quay cho một đối tượng không ở gốc tọa độ ta thực hiện bằng cách nào?",
+    "answers": [
+      {
+        "text": "Đầu tiên ta dịch chuyển tâm quay của đối tượng đó về gốc tọa độ, sau đó ta quay đối tượng và cuối cùng là dịch chuyển tâm quay trở về vị trí ban đầu",
+        "isCorrect": true
+      },
+      {
+        "text": "Đơn giản cứ việc quay đối tượng tại tâm quay của nó",
+        "isCorrect": false
+      },
+      {
+        "text": "Dịch chuyển tâm quay của đối tượng đó về gốc tọa độ và tiến hành quay đối tượng",
+        "isCorrect": false
+      },
+      {
+        "text": "Ta quay đối tượng đó và dịch chuyển tâm quay của nó về gốc tọa độ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Gam màu là gì?",
+    "answers": [
+      {
+        "text": "Tập hợp tất cả các màu có thể tạo ra từ các màu cơ bản",
+        "isCorrect": true
+      },
+      {
+        "text": "Các màu cơ bản được chọn để tạo ra màu khác",
+        "isCorrect": false
+      },
+      {
+        "text": "Tập hợp các màu mà không thể biểu diễn bằng các màu cơ bản",
+        "isCorrect": false
+      },
+      {
+        "text": "Cách nói khác của mô hình màu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Chọn đáp án đúng nhất về đặc điểm của hệ thống AR?",
+    "answers": [
+      {
+        "text": "Cả 3 đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Kết hợp các đối tượng thực và ảo trong một môi trường thực",
+        "isCorrect": false
+      },
+      {
+        "text": "Là tương tác trong thời gian thực",
+        "isCorrect": false
+      },
+      {
+        "text": "Các thanh ghi (sắp xếp) các đối tượng thực và ảo với nhau",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là đặc điểm của kỹ thuật đồ hoạ điểm?",
+    "answers": [
+      {
+        "text": "Cả 3 đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Các mô hình hình ảnh được hiển thị như một lưới điểm (grid) các pixel rời rạc",
+        "isCorrect": false
+      },
+      {
+        "text": "Có thể thay đổi thuộc tính",
+        "isCorrect": false
+      },
+      {
+        "text": "Tập hợp tất cả các pixel của grid cho chúng ta mô hình, hình ảnh đối tượng mà chúng ta muốn hiển thị",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải ưu điểm của màn hình OLED?",
+    "answers": [
+      {
+        "text": "Tiêu thụ điện năng thấp",
+        "isCorrect": true
+      },
+      {
+        "text": "Nhanh (tắt 1 micrô giây)",
+        "isCorrect": false
+      },
+      {
+        "text": "Góc nhìn lớn",
+        "isCorrect": false
+      },
+      {
+        "text": "Trong suốt",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Bresenham đã phát triển các thuật toán nổi tiếng của mình tại IBM vào đầu những năm nào?",
+    "answers": [
+      {
+        "text": "1960",
+        "isCorrect": true
+      },
+      {
+        "text": "1970",
+        "isCorrect": false
+      },
+      {
+        "text": "1950",
+        "isCorrect": false
+      },
+      {
+        "text": "1980",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là ưu điểm lớn nhất của thuật toán Bresenham?",
+    "answers": [
+      {
+        "text": "nó chỉ sử dụng các phép tính số nguyên",
+        "isCorrect": true
+      },
+      {
+        "text": "một thuật toán chuyển đổi quét gia tăng khác",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả ba phương án trên",
+        "isCorrect": false
+      },
+      {
+        "text": "Một thuật toán gia tăng nhanh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hình tròn không thể chia thành mấy phần để vẽ?",
+    "answers": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là viết tắt của hệ tọa độ thế giới?",
+    "answers": [
+      {
+        "text": "Wcs",
+        "isCorrect": true
+      },
+      {
+        "text": "Wck",
+        "isCorrect": false
+      },
+      {
+        "text": "Wfk",
+        "isCorrect": false
+      },
+      {
+        "text": "Wob",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong 2D, có mấy góc quay có thể của phép quay?",
+    "answers": [
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hệ màu CMYK được ứng dụng nhiều ở thiết bị nào?",
+    "answers": [
+      {
+        "text": "Máy in",
+        "isCorrect": true
+      },
+      {
+        "text": "máy tính",
+        "isCorrect": false
+      },
+      {
+        "text": "tivi",
+        "isCorrect": false
+      },
+      {
+        "text": "điện thoại",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là phương pháp biểu diễn 3D?",
+    "answers": [
+      {
+        "text": "A-Rep",
+        "isCorrect": true
+      },
+      {
+        "text": "Sweep-Rep",
+        "isCorrect": false
+      },
+      {
+        "text": "B-Rep",
+        "isCorrect": false
+      },
+      {
+        "text": "C-Rep",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phương án nào sau đây là Game Engine",
+    "answers": [
+      {
+        "text": "Tất cả các phương án trên.",
+        "isCorrect": true
+      },
+      {
+        "text": "Unity",
+        "isCorrect": false
+      },
+      {
+        "text": "Unreal Engine",
+        "isCorrect": false
+      },
+      {
+        "text": "CryEngine",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong mô hình màu CMY, khi bề mặt không phủ mực thì ánh sáng phản xạ là ",
+    "answers": [
+      {
+        "text": "Ánh sáng trắng ",
+        "isCorrect": true
+      },
+      {
+        "text": "Ánh sáng đen",
+        "isCorrect": false
+      },
+      {
+        "text": "Ánh sáng xanh tím",
+        "isCorrect": false
+      },
+      {
+        "text": "Ánh sáng đỏ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong mô hình màu CMY, khi 3 màu cùng giá trị cho ra",
+    "answers": [
+      {
+        "text": "Màu xám",
+        "isCorrect": true
+      },
+      {
+        "text": "Màu nâu",
+        "isCorrect": false
+      },
+      {
+        "text": "Màu trắng",
+        "isCorrect": false
+      },
+      {
+        "text": "Màu đen",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong mô hình màu CMY, các giá trị đạt max cho ra:",
+    "answers": [
+      {
+        "text": "Màu đen",
+        "isCorrect": true
+      },
+      {
+        "text": "Màu trắng",
+        "isCorrect": false
+      },
+      {
+        "text": "Màu nâu",
+        "isCorrect": false
+      },
+      {
+        "text": "Màu xám",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong các mô hình màu sau thì mô hình nào Không định hướng phần cứng:",
+    "answers": [
+      {
+        "text": "HSV",
+        "isCorrect": true
+      },
+      {
+        "text": "RGB",
+        "isCorrect": false
+      },
+      {
+        "text": "CMY",
+        "isCorrect": false
+      },
+      {
+        "text": "YIQ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải kỹ thuật đồ họa phân loại theo chức năng",
+    "answers": [
+      {
+        "text": "Kỹ thuật đồ họa ba chiều",
+        "isCorrect": true
+      },
+      {
+        "text": "Kỹ thuật xử lí ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Kỹ thuật nhận dạng",
+        "isCorrect": false
+      },
+      {
+        "text": "Kỹ thuật tổng hợp ảnh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các thành phần cơ bản của một hệ thống đồ họa tương tác là:",
+    "answers": [
+      {
+        "text": "Cả 3 đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Đầu vào",
+        "isCorrect": false
+      },
+      {
+        "text": "Xử lý",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiển thị / Đầu ra",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Chọn đáp án đúng nói về đồ họa Bitmap:",
+    "answers": [
+      {
+        "text": "Cả 3 đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Là việc tạo ra các hình ảnh kỹ thuật số hoặc các đối tượng đồ họa thông qua một loạt các chấm nhỏ gọi là pixel.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mỗi pixel thực sự là một hình vuông rất nhỏ được gán tọa độ, màu sắc và sau đó được sắp xếp theo một mẫu để tạo thành hình ảnh.",
+        "isCorrect": false
+      },
+      {
+        "text": "Khi bạn phóng to hình ảnh bitmap, bạn có thể thấy các pixel riêng lẻ tạo nên hình ảnh đó.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhược điểm của CRT Raster là:",
+    "answers": [
+      {
+        "text": "Cả 3 đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Yêu cầu mảng bộ nhớ kích thước màn hình",
+        "isCorrect": false
+      },
+      {
+        "text": "Lấy mẫu khôn ngoan (pixel)",
+        "isCorrect": false
+      },
+      {
+        "text": "Giới hạn kích thước thực tế (40 inches)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhược điểm của CRT Raster không bao gồm:",
+    "answers": [
+      {
+        "text": "Màn hình tối",
+        "isCorrect": true
+      },
+      {
+        "text": "Giới hạn kích thước thực tế (40 inches)",
+        "isCorrect": false
+      },
+      {
+        "text": "Cồng kềnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Finicky",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhược điểm của CRT Displays là:",
+    "answers": [
+      {
+        "text": "Cả̉ 3 đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Giới hạn kích thước thực tế (40 inches)",
+        "isCorrect": false
+      },
+      {
+        "text": "Trường điện tử AC và DC có hại",
+        "isCorrect": false
+      },
+      {
+        "text": "Nhấp nháy ở 50 - 80 Hz",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ưu điểm của màn hình plasma là:",
+    "answers": [
+      {
+        "text": "Cả̉ 3 đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Góc nhìn lớn",
+        "isCorrect": false
+      },
+      {
+        "text": "Tốt cho màn hình khổ lớn",
+        "isCorrect": false
+      },
+      {
+        "text": "Khá sáng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhược điểm của màn hình plasma là:",
+    "answers": [
+      {
+        "text": "Cả 3 đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Đắt",
+        "isCorrect": false
+      },
+      {
+        "text": "Pixel lớn",
+        "isCorrect": false
+      },
+      {
+        "text": "Ít sáng hơn CRT, sử dụng nhiều năng lượng hơn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ưu điểm của LCD Displays là:",
+    "answers": [
+      {
+        "text": "Cả 3 đá́p án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Màn hình phẳng hoàn toàn - không có lỗi hình học",
+        "isCorrect": false
+      },
+      {
+        "text": "Hình ảnh sắc nét - màu sắc kỹ thuật số mà thống nhất",
+        "isCorrect": false
+      },
+      {
+        "text": "Không phát xạ điện từ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán vẽ đường Bresenham có ưu điểm là:",
+    "answers": [
+      {
+        "text": "Cả 2 đáp án đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Cả 2 đáp án đều sai",
+        "isCorrect": false
+      },
+      {
+        "text": "Một thuật toán gia tăng nhanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Chỉ sử dụng tính toán số nguyên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhược điểm của thuật toán vẽ đường DDA là:",
+    "answers": [
+      {
+        "text": "Cả 3 đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Đối với các đoạn dài, đường dẫn đúng có thể bị sai lệch do làm tròn",
+        "isCorrect": false
+      },
+      {
+        "text": "Các phép làm tròn và số học dấu phẩy động vẫn còn tốn thời gian",
+        "isCorrect": false
+      },
+      {
+        "text": "Thuật toán vẫn có thể được cải thiện, tồn tại thuật toná khác có hiệu suất tốt hơn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Chọn đáp án đúng nói về font chữ bitmap",
+    "answers": [
+      {
+        "text": "Cả 3 đáp á́n trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Mỗi ký tự được biểu diễn (được lưu trữ) dưới dạng mảng 2 chiều",
+        "isCorrect": false
+      },
+      {
+        "text": "Mỗi phần tử tương ứng với một pixel trong một ô ký tự hình chữ nhật",
+        "isCorrect": false
+      },
+      {
+        "text": "Đơn giản nhất: mỗi phần tử là một bit (bật 1 = pixel, tắt 0 = pixel)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là một loại mặt phẳng chiếu Orthographic phổ biến:",
+    "answers": [
+      {
+        "text": "Cả 3 đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Front-elevation",
+        "isCorrect": false
+      },
+      {
+        "text": "Top-elevation",
+        "isCorrect": false
+      },
+      {
+        "text": "Slide-elevation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là tên một phép chiếu:",
+    "answers": [
+      {
+        "text": "Lukakuvic",
+        "isCorrect": true
+      },
+      {
+        "text": "Orthographic",
+        "isCorrect": false
+      },
+      {
+        "text": "Perspective",
+        "isCorrect": false
+      },
+      {
+        "text": "Axonometric",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phả̉i là một ví dụ về vanishing point",
+    "answers": [
+      {
+        "text": "Khi nhìn vào góc căn phòng, điểm hội tụ giữa các bức tường là vanishing point",
+        "isCorrect": true
+      },
+      {
+        "text": "Khi nhìn xuống một con đường thẳng dài, các đường song song sẽ hội tụ thành một vanishing point ở phía xa.",
+        "isCorrect": false
+      },
+      {
+        "text": "Khi nhìn lên bầu trời, các đường dọc của các tòa nhà cao sẽ tạo thành một vanishing point trên đường chân trời.",
+        "isCorrect": false
+      },
+      {
+        "text": "Khi nhìn từ dưới lên một dãy núi, các đường dốc của núi sẽ hội tụ tại một vanishing point ở phía trên.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là dạng biểu diễn của đường cong:",
+    "answers": [
+      {
+        "text": "Cả 3 đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Explicit",
+        "isCorrect": false
+      },
+      {
+        "text": "Implicit",
+        "isCorrect": false
+      },
+      {
+        "text": "Parametric",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhược điểm của đường cong Bezier:",
+    "answers": [
+      {
+        "text": "Cả 3 đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Tốn chi phí đánh giá đường cong tại nhiều điểm",
+        "isCorrect": false
+      },
+      {
+        "text": "Không có cách nào dễ dàng để biết mức độ tốt để lấy mẫu điểm và có thể tốc độ lấy mẫu phải khác nhau dọc theo đường cong",
+        "isCorrect": false
+      },
+      {
+        "text": "Một mảnh duy nhất, không có điều khiển cục bộ (di chuyển một điểm kiểm soát, thay đổi toàn bộ đường cong)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ưu điểm của đường cong Nurbs:",
+    "answers": [
+      {
+        "text": "Cả 3 đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Bất biến theo tỷ lệ, xoay, dịch và dự đoán",
+        "isCorrect": false
+      },
+      {
+        "text": "Nhanh chóng và ổn định về mặt tính toán",
+        "isCorrect": false
+      },
+      {
+        "text": "Trực quan trong thiết kế",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào không đúng khi nói về Orthographic",
+    "answers": [
+      {
+        "text": "Là phép chiếu trục lượng mà ở đó hệ số co cạnh trên 3 trục là bằng nhau",
+        "isCorrect": true
+      },
+      {
+        "text": "Được sử dụng trong bản vẽ kỹ thuật (chẳng hạn như các bộ phận máy, kiến ​trúc)",
+        "isCorrect": false
+      },
+      {
+        "text": "Mặt phẳng chiếu vuông góc với trục chính",
+        "isCorrect": false
+      },
+      {
+        "text": "Ứng với mỗi mặt phẳng chiếu ta có 1 ma trận chiếu tương ứng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là một loại clipping",
+    "answers": [
+      {
+        "text": "Line clipping",
+        "isCorrect": true
+      },
+      {
+        "text": "Circle clipping",
+        "isCorrect": false
+      },
+      {
+        "text": "Border clipping",
+        "isCorrect": false
+      },
+      {
+        "text": "Inside clipping",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là một 3D Transformation",
+    "answers": [
+      {
+        "text": "Sampling",
+        "isCorrect": true
+      },
+      {
+        "text": "Scaling",
+        "isCorrect": false
+      },
+      {
+        "text": "Rotation",
+        "isCorrect": false
+      },
+      {
+        "text": "Shearing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây không đúng khi nói về đường cong tham số",
+    "answers": [
+      {
+        "text": "Các lưới đa giác dễ sinh động hơn các đường cong tham số",
+        "isCorrect": true
+      },
+      {
+        "text": "Được dự định để cung cấp tổng quát của các lưới đa giác nhưng với ít tham số hơn cho các bề mặt nhẵn",
+        "isCorrect": false
+      },
+      {
+        "text": "Các trường bình thường có thể được xác định đúng ở mọi nơi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ít tham số hơn giúp tạo đường cong nhanh hơn và dễ dàng chỉnh sửa đường cong hiện có",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải lý do để sử dụng cubic polynomial  ?",
+    "answers": [
+      {
+        "text": "Bậc thấp nhất là phẳng trong 3D",
+        "isCorrect": true
+      },
+      {
+        "text": "Bậc thấp hơn cho quá ít sự linh hoạt trong việc kiểm soát hình dạng của đường cong",
+        "isCorrect": false
+      },
+      {
+        "text": "Đa thức bậc cao hơn có thể tạo ra các sai lệch không mong muốn và yêu cầu tính toán nhiều hơn",
+        "isCorrect": false
+      },
+      {
+        "text": "Bậc thấp nhất cho phép đặc tả các điểm cuối và dẫn xuất của chúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là hạn chế của Hermit curves",
+    "answers": [
+      {
+        "text": "Đường cong khối Hermite rất khó để mô hình hóa - cần chỉ định điểm và độ dốc.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hành vi giữa 2 điểm được xác định cho độ dốc điểm cuối tùy ý luôn cố định",
+        "isCorrect": false
+      },
+      {
+        "text": "Giới hạn ở đa thức bậc 3 do đó đường cong bị overfiting",
+        "isCorrect": false
+      },
+      {
+        "text": "Không trực quan để chỉ xác định điểm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu đúng về Bezier curves",
+    "answers": [
+      {
+        "text": "Chỉ định 2 điểm cuối và 2 điểm kiểm soát bổ sung để chỉ định độ dốc tại các điểm cuối",
+        "isCorrect": true
+      },
+      {
+        "text": "Hai điểm kiểm soát kết thúc xác định trung trực",
+        "isCorrect": false
+      },
+      {
+        "text": "Đường cong Bezier mượt mà hơn các khối vuông vì nó có các dẫn xuất bậc thấp hơn.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hình dạng của đường cong Bezier không bị kiểm soát bởi các điểm kiểm soát của nó",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải nhược điểm của Bezier",
+    "answers": [
+      {
+        "text": "Rất phức tạp để thực hiện",
+        "isCorrect": true
+      },
+      {
+        "text": "Tốn chi phí đánh giá đường cong tại nhiều điểm",
+        "isCorrect": false
+      },
+      {
+        "text": "Hình dạng phức tạp: có thể bậc rất cao, khó đối phó",
+        "isCorrect": false
+      },
+      {
+        "text": "Không có cách nào dễ dàng để biết mức độ tốt để lấy mẫu điểm và có thể tốc độ lấy mẫu phải khác nhau dọc theo đường cong",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong computer graphics, đối tượng đầu ra có thể được hiển thị trên những thiết bị nào?",
+    "answers": [
+      {
+        "text": "Tất cả các phương án đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Màn hình máy tính",
+        "isCorrect": false
+      },
+      {
+        "text": "Máy in",
+        "isCorrect": false
+      },
+      {
+        "text": "Máy chiếu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là một trong những đặc điểm của công nghệ màn hình CRT (Cathode Ray Tube)?",
+    "answers": [
+      {
+        "text": "Hoạt động bằng cách cho các lượng khác nhau của đèn nền trắng cường độ cố định thông qua bộ lọc hoạt động",
+        "isCorrect": true
+      },
+      {
+        "text": "Nhấp nháy ở 50-80Hz (không có hiệu ứng bộ nhớ)",
+        "isCorrect": false
+      },
+      {
+        "text": "Lớn và nặng, tiêu thụ điện năng cao",
+        "isCorrect": false
+      },
+      {
+        "text": "Màu bão hòa và tự nhiên; công nghệ trưởng thành, rẻ tiền",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Công nghệ màn hình nào sau đây sử dụng một lớp tinh thể lỏng (các tế bảo chất lỏng tinh thể) để điều khiển ánh sáng đi qua màn hình, tạo ra hình ảnh?",
+    "answers": [
+      {
+        "text": "LCD Display",
+        "isCorrect": true
+      },
+      {
+        "text": "LED Display",
+        "isCorrect": false
+      },
+      {
+        "text": "Plasma Display",
+        "isCorrect": false
+      },
+      {
+        "text": "CRT Display",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong các đối tượng đồ họa sau, đâu không phải là một trong các đối tượng đồ họa cơ bản?",
+    "answers": [
+      {
+        "text": "Eclipse",
+        "isCorrect": true
+      },
+      {
+        "text": "Point",
+        "isCorrect": false
+      },
+      {
+        "text": "Circle",
+        "isCorrect": false
+      },
+      {
+        "text": "Line Segment",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong computer graphics, đối tượng đầu ra có thể được hiển thị trên những thiết bị nào?",
+    "answers": [
+      {
+        "text": "Tất cả các phương án đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Màn hình máy tính",
+        "isCorrect": false
+      },
+      {
+        "text": "Máy in",
+        "isCorrect": false
+      },
+      {
+        "text": "Máy chiếu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các output primitives được sử dụng để biểu diễn các đối tượng đầu ra ở dạng nào?",
+    "answers": [
+      {
+        "text": "Dạng raster",
+        "isCorrect": true
+      },
+      {
+        "text": "Dạng vector",
+        "isCorrect": false
+      },
+      {
+        "text": "Dạng 3D",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các phương án đều đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Output primitives được sử dụng để tạo ra những thành phần nào trong hình ảnh?",
+    "answers": [
+      {
+        "text": "Tất cả các phương án đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Đường viền",
+        "isCorrect": false
+      },
+      {
+        "text": "Màu sắc",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ sáng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là một trong trong những đặc điểm của thuật toán tô màu Boundary fill algorithm?",
+    "answers": [
+      {
+        "text": "Phương pháp đệ qui 4-connected khắc phục ranh giới biên chéo khi tô màu.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bắt đầu từ một điểm thuộc bên trong, tô các điểm lân cận của điểm đó không vi phạm biên. Tô cho đến khi không còn điểm nào nằm trong vùng ranh giới.",
+        "isCorrect": false
+      },
+      {
+        "text": "Thuật toán có thể tô được đa giác lõm, miễn là đủ biên, biên kín.",
+        "isCorrect": false
+      },
+      {
+        "text": "Việc sử dụng thuật toán không thể tô màu bao phủ được đa giác 'rách' (biên không kín).",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán Cohen-Sutherland 2D line clipping, đoạn thẳng P1, P2 với mã code nào dưới đây được gọi là hợp lệ trong vùng viewport (không bị xén tỉa)?",
+    "answers": [
+      {
+        "text": "P1 [0000], P2 [0000]",
+        "isCorrect": true
+      },
+      {
+        "text": "P1 [0001], P2 [0000]",
+        "isCorrect": false
+      },
+      {
+        "text": "P1 [0001], P2 [1000]",
+        "isCorrect": false
+      },
+      {
+        "text": "P1 [0000], P2 [1010]",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Để giảm hiện tượng răng cưa khi vẽ đường thẳng, phương pháp nào được sử dụng?",
+    "answers": [
+      {
+        "text": "Antialiasing",
+        "isCorrect": true
+      },
+      {
+        "text": "Clipping",
+        "isCorrect": false
+      },
+      {
+        "text": "Phân giải màu",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả đều sai",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán nào dưới đây cho phép ta xén tỉa được  có hình dạng vùng đa giác lồi?",
+    "answers": [
+      {
+        "text": "Sutherland-Hodgman algorithm",
+        "isCorrect": true
+      },
+      {
+        "text": "Liang-Barsky algorithm",
+        "isCorrect": false
+      },
+      {
+        "text": "Cohen-Sutherland algorithm",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyrus-Beck",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Affine Transformation là một loại biến đổi giữa các đối tượng trong không gian 2D hoặc 3D. Đâu là tính chất của Affine Transformation?",
+    "answers": [
+      {
+        "text": "Tất cả các phương án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Bảo toàn độ dài các cạnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Bảo toàn góc giữa các cạnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Bảo toàn tỉ lệ giữa các cạnh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Affine Transformation bao gồm các phép biến đổi nào sau đây?",
+    "answers": [
+      {
+        "text": "Tất cả các phương án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Translation (dịch chuyển)",
+        "isCorrect": false
+      },
+      {
+        "text": "Rotation (xoay)",
+        "isCorrect": false
+      },
+      {
+        "text": "Scaling (co giãn)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phép biến đổi Scaling trong Affine Transformation làm gì với đối tượng?",
+    "answers": [
+      {
+        "text": "Thay đổi kích thước đối tượng theo tỉ lệ",
+        "isCorrect": true
+      },
+      {
+        "text": "Xoay đối tượng xung quanh một trục",
+        "isCorrect": false
+      },
+      {
+        "text": "Dịch chuyển đối tượng trong không gian",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các phương án trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong Affine Transformation, phép biến đổi Rotation làm gì với đối tượng?",
+    "answers": [
+      {
+        "text": "Xoay đối tượng xung quanh một trục",
+        "isCorrect": true
+      },
+      {
+        "text": "Thay đổi hình dạng đối tượng",
+        "isCorrect": false
+      },
+      {
+        "text": "Dịch chuyển đối tượng trong không gian",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các phương án trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có bao nhiêu loại phép chiếu?",
+    "answers": [
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phép chiếu nào là phép chiếu Trimetric với hai hệ số tỉ lệ co bằng nhau?",
+    "answers": [
+      {
+        "text": "Dimetric",
+        "isCorrect": true
+      },
+      {
+        "text": "Axonometric",
+        "isCorrect": false
+      },
+      {
+        "text": "Isometric",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 phương án trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các dạng biểu diễn của đường cong?",
+    "answers": [
+      {
+        "text": "Tất cả đáp án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "explicit",
+        "isCorrect": false
+      },
+      {
+        "text": "implicit",
+        "isCorrect": false
+      },
+      {
+        "text": "parametric",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là nhược điểm của đường cong Bezier? ",
+    "answers": [
+      {
+        "text": "Cả 3 đáp án đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Không có cách nào dễ dàng để biết mức độ tốt để lấy mẫu điểm và có thể tốc độ lấy mẫu phải khác nhau dọc theo đường cong",
+        "isCorrect": false
+      },
+      {
+        "text": "Một mảnh duy nhất, không có điều khiển cục bộ",
+        "isCorrect": false
+      },
+      {
+        "text": "Tốn chi phí đánh giá đường cong",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ncs là kí hiệu của:",
+    "answers": [
+      {
+        "text": "Hệ tọa chuẩn",
+        "isCorrect": true
+      },
+      {
+        "text": "Hệ tọa độ thế giới",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 đáp án trên đều sai",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ tọa độ người dùng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là một khẳng định đúng:",
+    "answers": [
+      {
+        "text": "Cả 3 đáp án đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Xoay trong 3D là về một trục trong không gian 3D đi qua điểm gốc",
+        "isCorrect": false
+      },
+      {
+        "text": "Trong 2D phép quay duy nhất có thể là về gốc",
+        "isCorrect": false
+      },
+      {
+        "text": "Trong 3D có 3 góc quay có thể, theo từng trục x, y, z",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là nhược điểm của CRT Raster?",
+    "answers": [
+      {
+        "text": "Giới hạn kích thước thực tế(gọi là 40 inch)",
+        "isCorrect": true
+      },
+      {
+        "text": "Tận dụng công nghệ CRT chi phí thấp",
+        "isCorrect": false
+      },
+      {
+        "text": "Cho phép chất rắn, không chỉ wireframes",
+        "isCorrect": false
+      },
+      {
+        "text": "Sáng! Màn hình phát ra ánh sáng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là ưu điểm của CRT Displays?",
+    "answers": [
+      {
+        "text": "Tất cả đáp án đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Phản hồi nhanh(độ phân giải cao có thể)",
+        "isCorrect": false
+      },
+      {
+        "text": "Màu bão hòa và tự nhiên",
+        "isCorrect": false
+      },
+      {
+        "text": "Góc rộng, độ tương phản và độ sáng cao",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhược điểm của LCD Display?",
+    "answers": [
+      {
+        "text": "Người da đen có xu hướng xuất hiện màu xám, thiếu độ tương phản",
+        "isCorrect": true
+      },
+      {
+        "text": "Màn hình phẳng hoàn toàn, không có lỗi hình học",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiêu thụ điện năng thấp",
+        "isCorrect": false
+      },
+      {
+        "text": "Không phát xạ điện từ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán DDA đã loại bỏ được yếu tố nào sau đây?",
+    "answers": [
+      {
+        "text": "phép nhân",
+        "isCorrect": true
+      },
+      {
+        "text": "phép làm tròn",
+        "isCorrect": false
+      },
+      {
+        "text": "số học dấu phẩy động",
+        "isCorrect": false
+      },
+      {
+        "text": "phép cộng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đường tròn được vẽ bằng thuật toán Midpoint Circle Algorithm sử dụng các phép toán nào?",
+    "answers": [
+      {
+        "text": "Cộng và trừ",
+        "isCorrect": true
+      },
+      {
+        "text": "Nhân và chia",
+        "isCorrect": false
+      },
+      {
+        "text": "Lũy thừa và căn bậc hai",
+        "isCorrect": false
+      },
+      {
+        "text": "Phép toán logic AND và OR",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong thuật toán Cohen-Sutherland 2D, mỗi vùng trong World Division có mấy bit cho mã vùng?",
+    "answers": [
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Affine transformation 2D có thể thay đổi tỷ lệ của đối tượng được không?",
+    "answers": [
+      {
+        "text": "Có, affine transformation 2D có thể thay đổi tỷ lệ của đối tượng",
+        "isCorrect": true
+      },
+      {
+        "text": "Không, affine transformation 2D chỉ thực hiện các phép biến đổi khác như dịch chuyển và xoay",
+        "isCorrect": false
+      },
+      {
+        "text": "Tùy thuộc vào loại đối tượng cụ thể",
+        "isCorrect": false
+      },
+      {
+        "text": "Không có đáp án đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phương pháp homogeneous coordinates có gì đặc biệt",
+    "answers": [
+      {
+        "text": "Thực hiện các phép biến đổi hình học dễ dàng và đồng nhất",
+        "isCorrect": true
+      },
+      {
+        "text": "Có thể biểu diễn các điểm trong không gian 2D hoặc 3D",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng tính chính xác của tính toán hình học",
+        "isCorrect": false
+      },
+      {
+        "text": "Tạo hiệu ứng đồ họa phức tạp hơn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Cho mỗi bước của thuật toán DDA, có bao nhiêu thao tác tính toán với số thực được thực hiện?",
+    "answers": [
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phép chiếu trục lượng nào có hệ số co cạnh trên ba trục bằng nhau?",
+    "answers": [
+      {
+        "text": "Isometric",
+        "isCorrect": true
+      },
+      {
+        "text": "Dimetric",
+        "isCorrect": false
+      },
+      {
+        "text": "Trimetric",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả đều đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phép chiếu Cavalier có phương chiếu tạo với mặt phẳng chiếu một góc bao nhiêu độ?",
+    "answers": [
+      {
+        "text": "45",
+        "isCorrect": true
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "90",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Bước thứ 4 trong Graphics Pipeline là gí?",
+    "answers": [
+      {
+        "text": "Xén tỉa (Clip)",
+        "isCorrect": true
+      },
+      {
+        "text": "Chiếu sáng (Illuminate)",
+        "isCorrect": false
+      },
+      {
+        "text": "Biến đổi (Transform)",
+        "isCorrect": false
+      },
+      {
+        "text": "Phép chiếu (Projection)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong bước xén tỉa, đối với nguyên thủy đơn giản là đường, trường hợp nào sau đây chắc chắn không cần phải xén tỉa?",
+    "answers": [
+      {
+        "text": "Cả hai đầu nằm trong cửa sổ",
+        "isCorrect": true
+      },
+      {
+        "text": "Một đầu nằm trong, một đầu nằm ngoải",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả hai đầu nằm ngoài cửa sổ",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả đều sai",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ưu điểm của CRT Displays là gì?",
+    "answers": [
+      {
+        "text": "Cả 3 phương án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Phản hồi nhanh ",
+        "isCorrect": false
+      },
+      {
+        "text": "Màu sắc đầy đủ, bão hòa và tự nhiên",
+        "isCorrect": false
+      },
+      {
+        "text": "Công nghệ trưởng thành, rẻ tiền",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Chuần giao diện nào sau đây là không chính thức",
+    "answers": [
+      {
+        "text": "OPENGL",
+        "isCorrect": true
+      },
+      {
+        "text": "CGI",
+        "isCorrect": false
+      },
+      {
+        "text": "VRML",
+        "isCorrect": false
+      },
+      {
+        "text": "CGM",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Chuẩn giao diện CGI là viết tắt của",
+    "answers": [
+      {
+        "text": "Computer Graphics Interface System",
+        "isCorrect": true
+      },
+      {
+        "text": "Computer Graphics Interface",
+        "isCorrect": false
+      },
+      {
+        "text": "Computer Generated Imagery",
+        "isCorrect": false
+      },
+      {
+        "text": "Common Gateway Interface",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Khử hiệu ứng răng cưa bằng siêu mẫu có ưu điểm gì",
+    "answers": [
+      {
+        "text": "Cả 3 phương án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Đơn giản ",
+        "isCorrect": false
+      },
+      {
+        "text": "Dễ dàng trang bị thêm trình kết xuất hiện có",
+        "isCorrect": false
+      },
+      {
+        "text": "Hoạt động tốt hầu hết thời gian",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhược điểm của siêu mẫu khi dùng để khử hiệu ứng răng cưa",
+    "answers": [
+      {
+        "text": "Cả 3 phương án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Chi phí lưu trữ cao",
+        "isCorrect": false
+      },
+      {
+        "text": "Không loại bỏ răng cưa",
+        "isCorrect": false
+      },
+      {
+        "text": "Chuyển giới hạn Nyquist lên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Wcs là hệ tọa độ gì",
+    "answers": [
+      {
+        "text": "Hệ tọa độ thế giới",
+        "isCorrect": true
+      },
+      {
+        "text": "Hệ tọa độ người dùng",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ tọa độ chuẩn hóa",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 phương án trên đều sai",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các thuộc tính của phép biển đổi Affine là",
+    "answers": [
+      {
+        "text": "Cả 3 phương án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Bảo toàn đoạn thẳng ",
+        "isCorrect": false
+      },
+      {
+        "text": "Bảo toàn tính song song",
+        "isCorrect": false
+      },
+      {
+        "text": "Bảo toàn khoảng cách tỉ lệ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong 3D, 1 đối tượng có thể xoay theo trục nào? ",
+    "answers": [
+      {
+        "text": "Cả 3 phương án trên",
+        "isCorrect": true
+      },
+      {
+        "text": "Trục x",
+        "isCorrect": false
+      },
+      {
+        "text": "Trục y",
+        "isCorrect": false
+      },
+      {
+        "text": "Trục z",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đường cong Bazier được điều khiển bởi mấy điểm",
+    "answers": [
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là tên viết tắt của Thực tại ảo",
+    "answers": [
+      {
+        "text": "VR",
+        "isCorrect": true
+      },
+      {
+        "text": "AR",
+        "isCorrect": false
+      },
+      {
+        "text": "MR",
+        "isCorrect": false
+      },
+      {
+        "text": "XR",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ngôn ngữ lập trình nào được dùng trong game engine Unity",
+    "answers": [
+      {
+        "text": "C#",
+        "isCorrect": true
+      },
+      {
+        "text": "C",
+        "isCorrect": false
+      },
+      {
+        "text": "C++",
+        "isCorrect": false
+      },
+      {
+        "text": "Python",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "khái niệm hóa cốt truyện trò chơi và cốt truyện, cấp độ và môi trường, tương tác nhân vật và các khía cạnh sáng tạo khác. Công việc của họ là hợp tác với các chuyên gia khác -như nhà phát triển, nghệ sĩ và những người khác -để truyền đạt ý tưởng và sau đó dự án quản lý những ý tưởng đó thông qua sản xuất trò chơi.Đây là công việc của ai",
+    "answers": [
+      {
+        "text": "Game Designer",
+        "isCorrect": true
+      },
+      {
+        "text": "Game Developer",
+        "isCorrect": false
+      },
+      {
+        "text": "Game Artist",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 phương án trên ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là một phần trong quá trình phát triển game",
+    "answers": [
+      {
+        "text": "Design",
+        "isCorrect": true
+      },
+      {
+        "text": "Testing",
+        "isCorrect": false
+      },
+      {
+        "text": "Deployment",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 phương án trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là tên một nhà phát hành game",
+    "answers": [
+      {
+        "text": "Ubisoft",
+        "isCorrect": true
+      },
+      {
+        "text": "Apple",
+        "isCorrect": false
+      },
+      {
+        "text": "Toyota",
+        "isCorrect": false
+      },
+      {
+        "text": "Không có đáp án đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là tên một phần trong tài liệu thiết kế game",
+    "answers": [
+      {
+        "text": "Cả 3 đáp án đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Game Concept Document",
+        "isCorrect": false
+      },
+      {
+        "text": "Game Design Document",
+        "isCorrect": false
+      },
+      {
+        "text": "Technical Design Document",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là tên một phép chiếu",
+    "answers": [
+      {
+        "text": "Phép chiếu xiên tâm",
+        "isCorrect": true
+      },
+      {
+        "text": "Phép chiếu xuyên tâm",
+        "isCorrect": false
+      },
+      {
+        "text": "Phép chiếu song song",
+        "isCorrect": false
+      },
+      {
+        "text": "Phép chiếu vuông góc",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phép chiếu song song là gì",
+    "answers": [
+      {
+        "text": "Đây là phép chiếu một đối tượng, điểm hoặc hình ảnh lên một mặt phẳng song song với mặt phẳng ban đầu mà không làm thay đổi hình dạng hoặc kích thước của đối tượng ban đầu.",
+        "isCorrect": true
+      },
+      {
+        "text": "Đây là phép chiếu một đối tượng, điểm hoặc hình ảnh lên một mặt phẳng đi qua tâm của đối tượng đó. Kết quả là đối tượng mới có hình dạng tương tự nhưng được thu nhỏ hoặc phóng to so với đối tượng ban đầu.",
+        "isCorrect": false
+      },
+      {
+        "text": " Đây là phép chiếu một đối tượng, điểm hoặc hình ảnh lên một mặt phẳng vuông góc với mặt phẳng ban đầu. Kết quả là góc giữa đối tượng mới và mặt phẳng chiếu là 90 độ, tạo thành một hình chiếu thẳng đứng.",
+        "isCorrect": false
+      },
+      {
+        "text": "Không phương án nào ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong đồ họa, đường (line) được tạo ra như thế nào?",
+    "answers": [
+      {
+        "text": "Bằng cách chiếu sáng một tập hợp các pixel trung gian giữa hai điểm cuối",
+        "isCorrect": true
+      },
+      {
+        "text": " Bằng cách nối hai điểm cuối với nhau.",
+        "isCorrect": false
+      },
+      {
+        "text": " Bằng cách vẽ một đường thẳng giữa hai điểm cuối",
+        "isCorrect": false
+      },
+      {
+        "text": "Bằng cách kết hợp nhiều điểm trên một đường thẳng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các mô hình màu thêm và Các mô hình màu trừ khác nhau như thế nào trong việc hiển thị màu sắc?",
+    "answers": [
+      {
+        "text": " Mô hình màu cộng hiển thị màu sắc dựa trên ánh sáng được truyền qua (cộng vào), trong khi mô hình màu trừ hiển thị màu sắc dựa trên ánh sáng bị hấp thụ (bị trừ đi) bởi mực in.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mô hình màu cộng hiển thị màu sắc dựa trên ánh sáng bị hấp thụ (bị trừ đi) bởi mực in, trong khi mô hình màu trừ hiển thị màu sắc dựa trên ánh sáng được truyền qua (cộng vào).",
+        "isCorrect": false
+      },
+      {
+        "text": "Mô hình màu cộng và màu trừ đều hiển thị màu sắc dựa trên ánh sáng được truyền qua (cộng vào) hoặc bị hấp thụ (bị trừ đi) bởi mực in, tuy nhiên, chúng có thứ tự ngược nhau trong việc truyền ánh sáng và hấp thụ.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mô hình màu cộng và màu trừ đều hiển thị màu sắc dựa trên ánh sáng được truyền qua (cộng vào) hoặc bị hấp thụ (bị trừ đi) bởi mực in, và không có sự khác biệt giữa chúng.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các mô hình phản xạ cục bộ (Local reflection) và phản xạ toàn cầu(Global reflection) khác nhau như thế nào trong việc xem xét phản xạ ánh sáng?",
+    "answers": [
+      {
+        "text": "Mô hình phản xạ cục bộ xem xét chỉ một phản xạ ánh sáng, trong khi mô hình phản xạ toàn cầu xem xét cả phản xạ trực tiếp và gián tiếp của ánh sáng qua các vật thể",
+        "isCorrect": true
+      },
+      {
+        "text": "Mô hình phản xạ cục bộ xem xét cả phản xạ trực tiếp và gián tiếp của ánh sáng qua các vật thể, trong khi mô hình phản xạ toàn cầu chỉ xem xét phản xạ ánh sáng một lần.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả mô hình phản xạ cục bộ và phản xạ toàn cầu chỉ xem xét một phản xạ ánh sáng duy nhất qua các vật thể.",
+        "isCorrect": false
+      },
+      {
+        "text": " Mô hình phản xạ cục bộ và phản xạ toàn cầu đều không xem xét phản xạ ánh sáng mà chỉ xem xét việc phát quang của các vật thể",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Wireframe model và surface modeling khác nhau như thế nào?",
+    "answers": [
+      {
+        "text": "Wireframe model chỉ hiển thị các cạnh, trong khi surface modeling tạo ra các bề mặt của đối tượng.",
+        "isCorrect": true
+      },
+      {
+        "text": "Wireframe model và surface modeling đều chỉ thể hiện các cạnh của đối tượng.",
+        "isCorrect": false
+      },
+      {
+        "text": "Wireframe model và surface modeling là hai khái niệm khác nhau và không có sự tương đồng về cách thể hiện và mục đích sử dụng.",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface modeling chỉ thể hiện các cạnh, trong khi wireframe model tạo ra các bề mặt của đối tượng.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": " Solid modeling có những đặc điểm gì trong việc biểu diễn dữ liệu không gian của một đối tượng ba chiều?",
+    "answers": [
+      {
+        "text": " Solid modeling đảm bảo tính đầy đủ và rõ ràng trong việc phân loại các điểm trong không gian.",
+        "isCorrect": true
+      },
+      {
+        "text": "Solid modeling chỉ biểu diễn dữ liệu hình học của một đối tượng.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solid modeling chỉ cho phép biểu diễn các đối tượng phẳng.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solid modeling không đảm bảo tính chính xác trong việc phân loại các điểm trong không gian.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phần mềm nào được sử dụng để tạo và chỉnh sửa đồ hoạ máy tính?",
+    "answers": [
+      {
+        "text": "AutoCAD",
+        "isCorrect": true
+      },
+      {
+        "text": "Photoshop",
+        "isCorrect": false
+      },
+      {
+        "text": "Microsoft Paint",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả đều sai",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ứng dụng nào sau đây không phải là",
+    "answers": [
+      {
+        "text": "Artificial Intelligence",
+        "isCorrect": true
+      },
+      {
+        "text": "Design",
+        "isCorrect": false
+      },
+      {
+        "text": "User Interface",
+        "isCorrect": false
+      },
+      {
+        "text": "Display of Information",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đặc điểm nào sau đây là nhược điểm của cả công nghệ OLED",
+    "answers": [
+      {
+        "text": "Vật liệu hữu cơ được sử dụng do đó nó có tuổi thọ ngắn hơn",
+        "isCorrect": true
+      },
+      {
+        "text": "Tiêu thụ nhiều năng lượng hơn khi màu tối hơn được hiển thị",
+        "isCorrect": false
+      },
+      {
+        "text": "Phát sáng và khá sáng (có thể nhìn thấy ánh sáng ban ngày)",
+        "isCorrect": false
+      },
+      {
+        "text": "Mạnh mẽ, có thể hiển thị trọn đời",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Bước nào sau đây không nằm trong tiến trình xử lý đồ họa - graphics pipeline?",
+    "answers": [
+      {
+        "text": "Primitive Assembly (Tổ hợp hình dạng cơ bản)",
+        "isCorrect": true
+      },
+      {
+        "text": "Vertex Processing (Xử lý đỉnh)",
+        "isCorrect": false
+      },
+      {
+        "text": "Rasterization (Chuyển đổi sang hình ảnh điểm ảnh)",
+        "isCorrect": false
+      },
+      {
+        "text": "Fragment Processing (Xử lý mảnh vỡ)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Lý do nào khiến GPU được sử dụng rộng rãi trong tính toán?",
+    "answers": [
+      {
+        "text": "Tất cả đáp án đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Khả năng xử lý đa luồng",
+        "isCorrect": false
+      },
+      {
+        "text": "Băng thông bộ nhớ cao",
+        "isCorrect": false
+      },
+      {
+        "text": "Hỗ trợ điểm nổi chính xác cao",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải một graphic primitives?",
+    "answers": [
+      {
+        "text": "Hình vuông",
+        "isCorrect": true
+      },
+      {
+        "text": "Đường thẳng",
+        "isCorrect": false
+      },
+      {
+        "text": "Hình Ellipse",
+        "isCorrect": false
+      },
+      {
+        "text": "Điểm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong đồ họa máy tính, khái niệm 'clipping' (cắt cạnh) liên quan đến việc gì?",
+    "answers": [
+      {
+        "text": "Loại bỏ các phần của hình ảnh vượt ra khỏi khu vực hiển thị.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tách các hình ảnh thành các đối tượng riêng lẻ.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng độ phân giải và chi tiết của hình ảnh.",
+        "isCorrect": false
+      },
+      {
+        "text": "Áp dụng các hiệu ứng ánh sáng và bóng đổ lên hình ảnh.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán nào sau đây không được sử dụng để cắt (clipping) trong đồ họa máy tính?",
+    "answers": [
+      {
+        "text": "Bresenham",
+        "isCorrect": true
+      },
+      {
+        "text": "Cohen-Sutherland",
+        "isCorrect": false
+      },
+      {
+        "text": "Liang-Barsky",
+        "isCorrect": false
+      },
+      {
+        "text": "Sutherland-Hodgman",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Antialiasing là một kỹ thuật được sử dụng để:",
+    "answers": [
+      {
+        "text": "Làm mịn các cạnh và giảm hiện tượng răng cưa.",
+        "isCorrect": true
+      },
+      {
+        "text": "Làm mờ hình ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng độ phân giải của hình ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Tạo hiệu ứng ánh sáng và bóng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong các phép biến đổi 3D, phép shearing được sử dụng để làm gì?",
+    "answers": [
+      {
+        "text": "Thay đổi hình dạng của đối tượng bằng cách kéo dãn hoặc ép buộc các trục.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dịch chuyển đối tượng trong không gian",
+        "isCorrect": false
+      },
+      {
+        "text": "Xoay đối tượng quanh một trục xác định",
+        "isCorrect": false
+      },
+      {
+        "text": "Chuyển đối tượng từ không gian 3D sang không gian 2D thông qua một quá trình chiếu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Parallel projections là một phép chiếu trong đồ họa máy tính, phép chiếu này bao gồm những loại nào dưới đây?",
+    "answers": [
+      {
+        "text": "Cả A và B",
+        "isCorrect": true
+      },
+      {
+        "text": "Không có đáp án nào trên",
+        "isCorrect": false
+      },
+      {
+        "text": "Orthographic projection (Chiếu phối cảnh)",
+        "isCorrect": false
+      },
+      {
+        "text": "Oblique Projection (Chiếu nghiêng)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Vanishing point trong hình học và đồ họa được sử dụng để tạo ra hiệu ứng gì trong hình ảnh?",
+    "answers": [
+      {
+        "text": "Độ sâu và khoảng cách",
+        "isCorrect": true
+      },
+      {
+        "text": "Màu sắc và ánh sáng",
+        "isCorrect": false
+      },
+      {
+        "text": "Sự chuyển động và động lực",
+        "isCorrect": false
+      },
+      {
+        "text": "Chiều cao và chiều rộng của đối tượng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải một bước trong quá trình xây dựng hệ thống xem 3D (3D viewing)?",
+    "answers": [
+      {
+        "text": "Thiết lập cấu trúc dữ liệu cho đối tượng 3D",
+        "isCorrect": true
+      },
+      {
+        "text": "Xác định vị trí, hướng của camera trong không gian 3D",
+        "isCorrect": false
+      },
+      {
+        "text": "Áp dụng các phép biến đổi cho đối tượng 3D",
+        "isCorrect": false
+      },
+      {
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hermite Curves được sử dụng trong đồ họa máy tính để",
+    "answers": [
+      {
+        "text": "Tạo ra đường đi qua các điểm cuối và có hướng tiếp tuyến xác định",
+        "isCorrect": true
+      },
+      {
+        "text": "Tạo ra các đường cong mượt, linh hoạt",
+        "isCorrect": false
+      },
+      {
+        "text": "Biểu diễn các dạng hình học phức tạp như elipse",
+        "isCorrect": false
+      },
+      {
+        "text": "Biểu diễn dạng đường thẳng, đường tròn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Điểm nào sau đây là hạn chế của Hermite Curves",
+    "answers": [
+      {
+        "text": "Tất cả đáp án trên đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Khó đoán hành vi giữa 2 điểm được xác định cho độ dốc điểm cuối tùy ý.",
+        "isCorrect": false
+      },
+      {
+        "text": "Giới hạn ở đa thức bậc 3, do đó đường cong khá cứng.",
+        "isCorrect": false
+      },
+      {
+        "text": "Trực quan hơn để chỉ xác định điểm.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Miêu tả nào đúng với đặc điểm của B-spline?",
+    "answers": [
+      {
+        "text": "Khả năng tạo ra các đường cong mượt mà và phức tạp",
+        "isCorrect": true
+      },
+      {
+        "text": "Không có khả năng kiểm soát hình dạng của đường cong do B-splines có độ cứng cao hơn các đường cong khác",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ phức tạp cho việc tính toán đường con B-spline là không cao hơn so với các đường cong khác",
+        "isCorrect": false
+      },
+      {
+        "text": "Càng ít điểm thì độ linh hoạt của đường con B-spline càng cao, do vậy cần hạn chế tăng điểm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây về Additive Color Model và Subtractive color Model là đúng?",
+    "answers": [
+      {
+        "text": "Tất cả đáp án trên đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Additive color model là phương pháp kết hợp ánh sáng để tạo ra màu sắc.",
+        "isCorrect": false
+      },
+      {
+        "text": "Subtractive color model là phương pháp loại bỏ ánh sáng từ một nguồn ánh sáng trắng để tạo ra màu sắc.",
+        "isCorrect": false
+      },
+      {
+        "text": "RGB(Red, Green, Blue) là một ví dụ của Additive Color Model",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đặc điểm nào dưới đây không phải của HSV Color model?",
+    "answers": [
+      {
+        "text": "Giá trị (Value) trong mô hình HSV đo độ sáng tối của màu sắc, từ trắng (giá trị thấp nhất) đến đen (giá trị cao nhất).",
+        "isCorrect": true
+      },
+      {
+        "text": "Mô hình màu HSV được sử dụng để biểu diễn màu sắc dựa trên ba thông số chính: màu chủ đạo (Hue), độ bão hòa (Saturation) và giá trị (Value).",
+        "isCorrect": false
+      },
+      {
+        "text": "Màu chủ đạo (Hue) trong mô hình HSV được biểu diễn dưới dạng một góc từ 0 đến 360 độ, đại diện cho các tông màu khác nhau.",
+        "isCorrect": false
+      },
+      {
+        "text": "Thông số độ bão hòa (Saturation) trong HSV được sử dụng để chỉ định độ tinh khiết của màu, với giá trị càng cao thể hiện màu sắc càng tươi sáng và rực rỡ.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải thành phần cơ bản của một hệ thống đồ họa tương tác",
+    "answers": [
+      {
+        "text": "Hình ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Xử lí",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiển thị/đầu ra",
+        "isCorrect": false
+      },
+      {
+        "text": "Đầu vào",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải 1 gracphic system functions",
+    "answers": [
+      {
+        "text": "Rastering",
+        "isCorrect": true
+      },
+      {
+        "text": "Modeling",
+        "isCorrect": false
+      },
+      {
+        "text": "Rendering",
+        "isCorrect": false
+      },
+      {
+        "text": "Displaying",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hệ tọa độ được sử dụng để mô tả vị trí của các điểm trong không gian",
+    "answers": [
+      {
+        "text": "Hệ tọa độ thế giới",
+        "isCorrect": true
+      },
+      {
+        "text": "Hệ tọa độ Oxy",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ tọa độ cực",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ tọa độ Decardes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải đặc điểm phép biến đổi affine",
+    "answers": [
+      {
+        "text": "Biến đổi affine là có thể đảo ngược",
+        "isCorrect": true
+      },
+      {
+        "text": "Bảo toàn các đoạn",
+        "isCorrect": false
+      },
+      {
+        "text": "Bảo tồn song song giữa các đường",
+        "isCorrect": false
+      },
+      {
+        "text": "Bảo toàn khoảng cách tỷ lệ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Theo thuật toán LIANG-BARSKY line clipping, nếu có bất kì pk = 0 thì?",
+    "answers": [
+      {
+        "text": "Đoạn thẳng song song với 1 trong các ranh giới",
+        "isCorrect": true
+      },
+      {
+        "text": "Đoạn thẳng cắt ranh giới, có 1 đầu nằm trong và 1 đầu nằm ngoài clipping window",
+        "isCorrect": false
+      },
+      {
+        "text": "Đoạn thằng hoàn toàn nằm ngoài clipping window",
+        "isCorrect": false
+      },
+      {
+        "text": "Đoạn thẳng hoàn toàn nằm trong clipping window",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phép chiếu trực giao không có đặc điểm nào sau đây",
+    "answers": [
+      {
+        "text": "Tia chiếu tạo 1 góc alpha với mặt phẳng chiếu",
+        "isCorrect": true
+      },
+      {
+        "text": "Phép chiếu song song",
+        "isCorrect": false
+      },
+      {
+        "text": "Tia chiếu vuông góc với mặt phẳng chiếu",
+        "isCorrect": false
+      },
+      {
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phép chiếu Cavalier không có đặc điểm",
+    "answers": [
+      {
+        "text": "Tia chiếu tạo 1 góc 30 độ với mặt phẳng chiếu",
+        "isCorrect": true
+      },
+      {
+        "text": "Tia chiếu tạo 1 góc 45 độ với mặt phẳng chiếu",
+        "isCorrect": false
+      },
+      {
+        "text": "Phép chiếu xiên",
+        "isCorrect": false
+      },
+      {
+        "text": "Các tia chiếu không vuông goc với mặt phẳng chiếu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Sự vắng mặt hoàn toàn của ánh sáng trong mô hình màu thêm sẽ được coi là màu",
+    "answers": [
+      {
+        "text": "Đen",
+        "isCorrect": true
+      },
+      {
+        "text": "Trắng",
+        "isCorrect": false
+      },
+      {
+        "text": "Đỏ",
+        "isCorrect": false
+      },
+      {
+        "text": "Không màu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Sự vắng mặt hoàn toàn của ánh sáng trong mô hình màu trừ sẽ được coi là màu",
+    "answers": [
+      {
+        "text": "Trắng ",
+        "isCorrect": true
+      },
+      {
+        "text": "Đen",
+        "isCorrect": false
+      },
+      {
+        "text": "Vàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Không màu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "3 màu nguyên thủy trong mô hình màu CMY kết hợp tạo ra màu gì",
+    "answers": [
+      {
+        "text": "Đen",
+        "isCorrect": true
+      },
+      {
+        "text": "Trắng",
+        "isCorrect": false
+      },
+      {
+        "text": "Xanh Magenta",
+        "isCorrect": false
+      },
+      {
+        "text": "Vàng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải 1 trong các thông số màu của mô hình HSV",
+    "answers": [
+      {
+        "text": "Ánh sáng",
+        "isCorrect": true
+      },
+      {
+        "text": "Màu sắc",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ bão hòa",
+        "isCorrect": false
+      },
+      {
+        "text": "Giá trị",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các thuộc tính của nguồn sáng?",
+    "answers": [
+      {
+        "text": "Color, Shape, Direction",
+        "isCorrect": true
+      },
+      {
+        "text": "Color, Shape, Material",
+        "isCorrect": false
+      },
+      {
+        "text": "Color, Material, Shadow",
+        "isCorrect": false
+      },
+      {
+        "text": "Shape, Direction Absorption ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải phân loại của AR tracking Technologies and Platforms",
+    "answers": [
+      {
+        "text": "Bán chủ động",
+        "isCorrect": true
+      },
+      {
+        "text": "Chủ động",
+        "isCorrect": false
+      },
+      {
+        "text": "Thụ động",
+        "isCorrect": false
+      },
+      {
+        "text": "Theo dõi kết hợp",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đáp án nào sau đây không phải phương pháp mô hình hình học 3d",
+    "answers": [
+      {
+        "text": "Mô hình hình học",
+        "isCorrect": true
+      },
+      {
+        "text": "Mô hình khung dây",
+        "isCorrect": false
+      },
+      {
+        "text": "Mô hình hóa bề mặt",
+        "isCorrect": false
+      },
+      {
+        "text": "Mô hinh hình đặc",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán vẽ đường DDA là viết tắt của từ gì",
+    "answers": [
+      {
+        "text": "Digital Differential Analyzer",
+        "isCorrect": true
+      },
+      {
+        "text": "Differential Digital Analyzer",
+        "isCorrect": false
+      },
+      {
+        "text": "Digital Differential Algorithm",
+        "isCorrect": false
+      },
+      {
+        "text": "Differential Digital Algorithm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải thuật toán vẽ đường?",
+    "answers": [
+      {
+        "text": "Differential Digital Analyzer",
+        "isCorrect": true
+      },
+      {
+        "text": "Line Algorithm",
+        "isCorrect": false
+      },
+      {
+        "text": "Bresenham’s",
+        "isCorrect": false
+      },
+      {
+        "text": "Parallel Line Algorithm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải ưu điểm của CRT Raster",
+    "answers": [
+      {
+        "text": "Lấy mẫu khôn ngoan",
+        "isCorrect": true
+      },
+      {
+        "text": "Sáng! Màn hình phát ra ánh sáng",
+        "isCorrect": false
+      },
+      {
+        "text": "Cho phép chất rắn, không chỉ wireframes",
+        "isCorrect": false
+      },
+      {
+        "text": "Tận dụng công nghê CRT chi phí thấp, ví dụ TV",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhược điểm CRT Displays",
+    "answers": [
+      {
+        "text": "Nhấp nháy ở 50-80hz",
+        "isCorrect": true
+      },
+      {
+        "text": "Phản hồi nhanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Màu sắc bão hòa tự nhiên",
+        "isCorrect": false
+      },
+      {
+        "text": "Công nghệ trường thành rẻ tiền",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhược điểm LCD Displays",
+    "answers": [
+      {
+        "text": "phát xạ điện từ",
+        "isCorrect": true
+      },
+      {
+        "text": "Hình ảnh sắc nét",
+        "isCorrect": false
+      },
+      {
+        "text": "Trọng lượng nhẹ",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiêu thụ điện năng thấp",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Điều gì làm cho màn hình OLED trở nên đặc biệt? ",
+    "answers": [
+      {
+        "text": "Nó sử dụng các tế bào OLED để tạo hình ảnh trên màn hình",
+        "isCorrect": true
+      },
+      {
+        "text": "Nó sử dụng đèn LED để tạo hình ảnh trên màn hình",
+        "isCorrect": false
+      },
+      {
+        "text": "Nó sử dụng tia electron để tạo hình ảnh trên màn hình",
+        "isCorrect": false
+      },
+      {
+        "text": "Nó hoạt động như van ánh sáng, nên cần nguồn sáng ngoài phía sau",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tiêu chuẩn DirectX và OpenGL là gì",
+    "answers": [
+      {
+        "text": "Các giao diện lập trình ứng dụng (API) để tương tác với phần cứng đồ họa",
+        "isCorrect": true
+      },
+      {
+        "text": "Các loại bộ nhớ đồ họa",
+        "isCorrect": false
+      },
+      {
+        "text": "Các loại đơn vị xử lý đồ họa",
+        "isCorrect": false
+      },
+      {
+        "text": "Các tiêu chuẩn thiết kế đồ hoạ",
+        "isCorrect": false
+      }
+    ]
+  }
+]

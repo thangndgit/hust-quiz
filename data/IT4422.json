@@ -1,0 +1,4602 @@
+﻿[
+  {
+    "question": "Trong các khái niệm có liên quan tới hệ thống thông tin quản lý, MIS là viết tắt của cụm từ",
+    "answers": [
+      {
+        "text": "Management Information System",
+        "isCorrect": true
+      },
+      {
+        "text": "Management Innovation System",
+        "isCorrect": false
+      },
+      {
+        "text": "Management Information Statistics",
+        "isCorrect": false
+      },
+      {
+        "text": "Management Information Software",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hệ thống thông tin quản lý (MIS) bao gồm",
+    "answers": [
+      {
+        "text": "Dữ liệu",
+        "isCorrect": false
+      },
+      {
+        "text": "Phần mềm",
+        "isCorrect": false
+      },
+      {
+        "text": "Phần cứng",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 phương án trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Bộ xử lý thông tin trong MIS bao gồm",
+    "answers": [
+      {
+        "text": "Cơ sở dữ liệu và cơ sở mô hình",
+        "isCorrect": false
+      },
+      {
+        "text": "Bộ xử lý trung tâm",
+        "isCorrect": false
+      },
+      {
+        "text": "Dữ liệu đến và thông tin đi",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 phương án trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Lý do nào sau đây không phải là lý do chính cho sự phổ biến của các hệ thống hỗ trợ ra quyết định",
+    "answers": [
+      {
+        "text": "Chi phí phần cứng máy tính giảm",
+        "isCorrect": false
+      },
+      {
+        "text": "Sự ra đời của các hệ thống quản lý cơ sở dữ liệu",
+        "isCorrect": false
+      },
+      {
+        "text": "Sự gia tăng của số lượng lập trình viên",
+        "isCorrect": true
+      },
+      {
+        "text": "Các nhà quản lý được đào tạo về kỹ thuật phân tích",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Toàn vẹn dữ liệu đề cập đến",
+    "answers": [
+      {
+        "text": "Sự đơn giản của dữ liệu",
+        "isCorrect": false
+      },
+      {
+        "text": "Quyền riêng tư của dữ liệu",
+        "isCorrect": false
+      },
+      {
+        "text": "Tính hợp lệ của dữ liệu",
+        "isCorrect": true
+      },
+      {
+        "text": "Tính bảo mật của dữ liệu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Quản lý hàng tồn kho (IC) có liên quan chặt chẽ nhất tới",
+    "answers": [
+      {
+        "text": "Kiểm soát chất lượng",
+        "isCorrect": false
+      },
+      {
+        "text": "Quản lý chất lượng",
+        "isCorrect": false
+      },
+      {
+        "text": "Kiểm soát gia công",
+        "isCorrect": false
+      },
+      {
+        "text": "Quản lý vật tư",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Trong các khái niệm có liên quan tới hệ thống thông tin quản lý, MRP là viết tắt của cụm từ",
+    "answers": [
+      {
+        "text": "Material Requirement Planning",
+        "isCorrect": true
+      },
+      {
+        "text": "Monitoring and Reporting Program",
+        "isCorrect": false
+      },
+      {
+        "text": "Material Resource Planning",
+        "isCorrect": false
+      },
+      {
+        "text": "Manufacturing resource planning",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong các khái niệm có liên quan tới hệ thống thông tin quản lý, MRP II là viết tắt của cụm từ",
+    "answers": [
+      {
+        "text": "Material Requirement Planning",
+        "isCorrect": false
+      },
+      {
+        "text": "Monitoring and Reporting Program",
+        "isCorrect": false
+      },
+      {
+        "text": "Material Resource Planning",
+        "isCorrect": false
+      },
+      {
+        "text": "Manufacturing resource planning",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Trong các khái niệm có liên quan tới hệ thống thông tin quản lý, CRM là viết tắt của cụm từ",
+    "answers": [
+      {
+        "text": "Customer Relationship Management",
+        "isCorrect": true
+      },
+      {
+        "text": "Customer Relationship Marketing",
+        "isCorrect": false
+      },
+      {
+        "text": "Client Relationship Marketing",
+        "isCorrect": false
+      },
+      {
+        "text": "Customer Resource Management",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong các khái niệm có liên quan tới hệ thống thông tin quản lý, SCM là viết tắt của cụm từ",
+    "answers": [
+      {
+        "text": "Supply Chain Management",
+        "isCorrect": true
+      },
+      {
+        "text": "Software Configuration Management",
+        "isCorrect": false
+      },
+      {
+        "text": "Source Code Mangement",
+        "isCorrect": false
+      },
+      {
+        "text": "Supply Chain Marketing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong các khái niệm có liên quan tới hệ thống xử lý giao dịch, TPS là viết tắt của cụm từ",
+    "answers": [
+      {
+        "text": "Transaction Processing System",
+        "isCorrect": true
+      },
+      {
+        "text": "Test Procedure Specification",
+        "isCorrect": false
+      },
+      {
+        "text": "Transactions Per Second",
+        "isCorrect": false
+      },
+      {
+        "text": "Technical Product Specification",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong các khái niệm có liên quan tới hệ thống xử lý giao dịch, MES là viết tắt của cụm từ",
+    "answers": [
+      {
+        "text": "Manufacturing Execution System",
+        "isCorrect": true
+      },
+      {
+        "text": "Management and Engineering Services",
+        "isCorrect": false
+      },
+      {
+        "text": "Monitoring and Evaluation System",
+        "isCorrect": false
+      },
+      {
+        "text": "Manufacturing Extension Systems",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong các khái niệm có liên quan tới hệ thống xử lý giao dịch, PLM là viết tắt của cụm từ",
+    "answers": [
+      {
+        "text": "Product Lifecycle Management",
+        "isCorrect": true
+      },
+      {
+        "text": "Product Line Manager",
+        "isCorrect": false
+      },
+      {
+        "text": "Product Line Management",
+        "isCorrect": false
+      },
+      {
+        "text": "Production Line Maintenance",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong các khái niệm có liên quan tới hệ thống xử lý giao dịch, WMS là viết tắt của cụm từ",
+    "answers": [
+      {
+        "text": "Warehouse Management System",
+        "isCorrect": true
+      },
+      {
+        "text": "Workflow Management System",
+        "isCorrect": false
+      },
+      {
+        "text": "Website Management System",
+        "isCorrect": false
+      },
+      {
+        "text": "Workforce Management Software",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong các khái niệm có liên quan tới hệ thống xử lý giao dịch, PCS là viết tắt của cụm từ",
+    "answers": [
+      {
+        "text": "Process Control Systems",
+        "isCorrect": true
+      },
+      {
+        "text": "Process Control Solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Product Configuration System",
+        "isCorrect": false
+      },
+      {
+        "text": "Product Cost System",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đặc điểm nào KHÔNG phải của hệ thống TPS?",
+    "answers": [
+      {
+        "text": "Tính real-time",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ tin cậy thấp",
+        "isCorrect": true
+      },
+      {
+        "text": "Xử lý có kiểm soát",
+        "isCorrect": false
+      },
+      {
+        "text": "Khả năng xử lý hàng loạt",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hạn chế của hệ thống TPS là gì?",
+    "answers": [
+      {
+        "text": "Quản lý tự động",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng tốc độ giao dịch",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng hiệu quả chi phí",
+        "isCorrect": false
+      },
+      {
+        "text": "Cần cả thiết bị phần cứng để triển khai",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đối tượng người dùng của hệ thống TPS là ai?",
+    "answers": [
+      {
+        "text": "Quản lý, giám sát",
+        "isCorrect": true
+      },
+      {
+        "text": "Nhân viên kho",
+        "isCorrect": false
+      },
+      {
+        "text": "Tài xế vận chuyển",
+        "isCorrect": false
+      },
+      {
+        "text": "Kế toán",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Sự khác biệt giữa TPS và MIS là gì?",
+    "answers": [
+      {
+        "text": "TPS sử dụng data do MIS cung cấp",
+        "isCorrect": false
+      },
+      {
+        "text": "MIS sử dụng dữ liệu cho TPS cung cấp, TPS lấy và xử lý data thô từ người dùng",
+        "isCorrect": true
+      },
+      {
+        "text": "TPS cung cấp thông tin cho người quản lý, giúp đưa ra chiến lược, kế hoạch",
+        "isCorrect": false
+      },
+      {
+        "text": "Các hoạt động của TPS và MIS là giống nhau",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đặc điểm của hệ thống TPS là?",
+    "answers": [
+      {
+        "text": "Việc triển khai, sử dụng TPS là đơn giản, phù hợp với mọi doanh nghiệp",
+        "isCorrect": false
+      },
+      {
+        "text": "TPS cần cả phần cứng và phần mềm để triển khai",
+        "isCorrect": true
+      },
+      {
+        "text": "Việc tích hợp TPS vào hệ thống là đơn giản",
+        "isCorrect": false
+      },
+      {
+        "text": "Giúp giảm tốc độ xử lý giao dịch",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào đúng về hệ thống PCS?",
+    "answers": [
+      {
+        "text": "Nằm dưới TPS",
+        "isCorrect": true
+      },
+      {
+        "text": "Nằm trên MIS",
+        "isCorrect": false
+      },
+      {
+        "text": "Nằm trên DSS",
+        "isCorrect": false
+      },
+      {
+        "text": "Nằm trên TPS",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Sự khác biệt giữa IC và WMS là gì?",
+    "answers": [
+      {
+        "text": "IC chỉ quan tâm tới hàng tồn kho",
+        "isCorrect": true
+      },
+      {
+        "text": "WMS chỉ quan tâm tới hoạt động đóng gói, vận chuyển hàng hóa",
+        "isCorrect": false
+      },
+      {
+        "text": "IC thường sử dụng cho kho nhập khẩu",
+        "isCorrect": false
+      },
+      {
+        "text": "IC bao gồm WMS",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mục tiêu của hệ thống MIS là gì?",
+    "answers": [
+      {
+        "text": "Quản lý hàng tồn kho",
+        "isCorrect": false
+      },
+      {
+        "text": "Kiểm soát, tổ chức, lập kế hoạch",
+        "isCorrect": true
+      },
+      {
+        "text": "Cung cấp thông tin cho nhân viên kho",
+        "isCorrect": false
+      },
+      {
+        "text": "Đưa ra quyết định thay người quản lý",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "IC có thể bao gồm hoạt động nào?",
+    "answers": [
+      {
+        "text": "Theo dõi hàng tồn trong kho real-time",
+        "isCorrect": true
+      },
+      {
+        "text": "Quản lý lương, thưởng của nhân viên",
+        "isCorrect": false
+      },
+      {
+        "text": "Hỗ trợ đưa ra quyết định",
+        "isCorrect": false
+      },
+      {
+        "text": "Quản lý số ngày nghỉ phép của nhân viên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "WMS KHÔNG thể bao gồm hoạt động nào?",
+    "answers": [
+      {
+        "text": "Quản lý vị trí hàng trong kho",
+        "isCorrect": false
+      },
+      {
+        "text": "Quản lý việc đóng gói, vận chuyển hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Quản lý hồ sơ nhân viên",
+        "isCorrect": true
+      },
+      {
+        "text": "Quản lý tất cả mọi thứ về kho",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhận định đúng về chuyển đổi số?",
+    "answers": [
+      {
+        "text": "chuyển đổi đố là quá trình thay đổi tổng thể và toàn diện của cá nhân, tổ chức về cách sống, cách làm việc và phương thức sản xuất dựa trên các công nghệ số. ",
+        "isCorrect": true
+      },
+      {
+        "text": "chuyển đổi đố là quá trình số hoá sản phẩm và cập nhật công nghệ của một công ty.",
+        "isCorrect": false
+      },
+      {
+        "text": "chuyển đổi số là  tối ưu hóa quy trình đã có, theo mô hình hoạt động đã có, để cung cấp dịch vụ đã có.",
+        "isCorrect": false
+      },
+      {
+        "text": "cả 3 ý trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Chiến lược của một doanh nghiệp phần mềm không gồm điều nào sau đây?",
+    "answers": [
+      {
+        "text": "Mục tiêu",
+        "isCorrect": false
+      },
+      {
+        "text": "Tầm nhìn",
+        "isCorrect": false
+      },
+      {
+        "text": "Cách thức",
+        "isCorrect": true
+      },
+      {
+        "text": "Mục đích",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có thể phân loại HTTT trong doanh nghiệp",
+    "answers": [
+      {
+        "text": "Theo cấp độ kinh doanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Theo chức năng kinh doanh ",
+        "isCorrect": false
+      },
+      {
+        "text": "Theo quy trình nghiệp vụ",
+        "isCorrect": false
+      },
+      {
+        "text": "cả 3 ý trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Trong thực tế, Hệ thống thông tin là một tập hợp con của CNTT, đúng hay sai ?",
+    "answers": [
+      {
+        "text": "Đúng ",
+        "isCorrect": false
+      },
+      {
+        "text": "Sai",
+        "isCorrect": true
+      },
+      {
+        "isCorrect": false
+      },
+      {
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không là một phân hệ phần mềm EIS?",
+    "answers": [
+      {
+        "text": "ECM",
+        "isCorrect": false
+      },
+      {
+        "text": "EAM",
+        "isCorrect": false
+      },
+      {
+        "text": "ERM",
+        "isCorrect": true
+      },
+      {
+        "text": "EDMS",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Khi thiết kế hệ thống, cần tập trung chủ yếu vào: ",
+    "answers": [
+      {
+        "text": "Hệ thống",
+        "isCorrect": false
+      },
+      {
+        "text": "Quy Trình",
+        "isCorrect": false
+      },
+      {
+        "text": "Công nghệ",
+        "isCorrect": false
+      },
+      {
+        "text": "cả 3 ý trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Hệ thống thông tin có mấy thành phần?",
+    "answers": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mục tiêu cuối cùng của viêc sử dụng hệ thống thông tin quản lý là gì? ",
+    "answers": [
+      {
+        "text": "Gia tăng lợi nhuận và giá trị doanh nghiệp",
+        "isCorrect": true
+      },
+      {
+        "text": "Dễ dàng quản lý Cơ sở hạ tầng thông tin",
+        "isCorrect": false
+      },
+      {
+        "text": "cung cấp thông tin cho ban lãnh đạo",
+        "isCorrect": false
+      },
+      {
+        "text": "B và C",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là một nhóm chức năng của MIS?",
+    "answers": [
+      {
+        "text": "Giúp đưa ra quyết định",
+        "isCorrect": false
+      },
+      {
+        "text": "Giúp so sánh hiệu quả kinh doanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Tìm ra vấn đề",
+        "isCorrect": false
+      },
+      {
+        "text": "phân tích rủi ro",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Điều nào sau đây là đúng vể MRP và ERP",
+    "answers": [
+      {
+        "text": "ERP là một phần mở rộng của hệ thống MRP",
+        "isCorrect": true
+      },
+      {
+        "text": "MRP không thể nằm trong ERP",
+        "isCorrect": false
+      },
+      {
+        "text": "MRP giúp kiểm soát tài nguyên của công ty",
+        "isCorrect": false
+      },
+      {
+        "text": "A và B",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Để quản lý các lần mượn sách ở thư viện thì nên dùng Loại HTTT nào",
+    "answers": [
+      {
+        "text": "POS",
+        "isCorrect": false
+      },
+      {
+        "text": "MIS",
+        "isCorrect": false
+      },
+      {
+        "text": "TPS",
+        "isCorrect": true
+      },
+      {
+        "text": "DSS",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ý nào sai",
+    "answers": [
+      {
+        "text": "TPS và MIS cho biết sự khác biệt giữa hai loại dựa trên loại người \r\ndùng, hoạt động và tạo báo cáo và loại dữ liệu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Các hoạt động do TPS thực hiện khác với MIS",
+        "isCorrect": false
+      },
+      {
+        "text": "MIS và TSP đều sử dụng dữ liệu thô",
+        "isCorrect": true
+      },
+      {
+        "text": "Các tài liệu do hệ thống xử lý giao dịch và hệ thống thông tin quản  lý tạo ra cũng khác nhau",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các loại hệ thống hỗ trợ quyết định",
+    "answers": [
+      {
+        "text": "DSS hướng giao tiếp",
+        "isCorrect": false
+      },
+      {
+        "text": "DSS hướng tri thức ",
+        "isCorrect": false
+      },
+      {
+        "text": "DSS hướng tài liệu",
+        "isCorrect": false
+      },
+      {
+        "text": "cả 3 ý trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu là nhận định đúng về MIS và DSS",
+    "answers": [
+      {
+        "text": "MIS chủ yếu giải quyết vấn đề có cấu trúc, DSS hỗ trợ giải quyết các vấn đề bán cấu trúc",
+        "isCorrect": true
+      },
+      {
+        "text": "MIS nhấn mạnh sự thay đổi , linh hoạt và phản ứng nhanh",
+        "isCorrect": false
+      },
+      {
+        "text": "DSS cung cấp báo cáo cố định theo lịch, dựa trên luồng dữ liệu thường xuyên",
+        "isCorrect": false
+      },
+      {
+        "text": "cả 3 ý trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mục đích của DMP là gì",
+    "answers": [
+      {
+        "text": "Tìm kiếm khách hàng tiềm năng",
+        "isCorrect": true
+      },
+      {
+        "text": "Thu hút, cá nhân hoá trải nghiệm của khách hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "phân tích thói quen khách hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "quản lý và nuôi dưỡng khách hàng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong các loại HTTT: DSS, TPS, MIS, ESS; loại HTTT ở mức quản lý thấp nhất là",
+    "answers": [
+      {
+        "text": "DSS",
+        "isCorrect": false
+      },
+      {
+        "text": "TPS",
+        "isCorrect": true
+      },
+      {
+        "text": "MIS",
+        "isCorrect": false
+      },
+      {
+        "text": "ESS",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "POS (Point-of-sale) là ví dụ điển hình cho loại HTTT nào",
+    "answers": [
+      {
+        "text": "TPS",
+        "isCorrect": true
+      },
+      {
+        "text": "MIS",
+        "isCorrect": false
+      },
+      {
+        "text": "DSS",
+        "isCorrect": false
+      },
+      {
+        "text": "ESS",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đầu vào cho hệ thống MIS là",
+    "answers": [
+      {
+        "text": "Kế hoạch chiến lược, chính sách doanh nghiệp",
+        "isCorrect": false
+      },
+      {
+        "text": "Thông tin từ Hệ thống xử lý giao dịch (TPS)",
+        "isCorrect": false
+      },
+      {
+        "text": "Nguồn bên ngoài như báo cáo thường niên, báo cáo tài chính của đối thủ cạnh tranh...",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các đáp án đều đúng",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Các khía cạnh chính của phần mềm CRM",
+    "answers": [
+      {
+        "text": "Operational",
+        "isCorrect": false
+      },
+      {
+        "text": "Analytical",
+        "isCorrect": false
+      },
+      {
+        "text": "Collaborative",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các đáp án đều đúng",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu là nhận định đúng về CRM, DMP và CDP",
+    "answers": [
+      {
+        "text": "Không có điểm khác nhau giữa CRM, DMP và CDP",
+        "isCorrect": false
+      },
+      {
+        "text": "CDP giúp thu hút và cá nhân\r\nhóa tất cả các giai đoạn của trải\r\nnghiệm khách hàng",
+        "isCorrect": true
+      },
+      {
+        "text": "CRM được xây dựng để tìm\r\nkiếm khách hàng tiềm năng, trong khi DMP tập trung vào việc giao tiếp với khách hàng đã biết, quản lý và nuôi dưỡng khách hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "CRM là phiên bản nâng cao của CDP, tốn nhiều chi phí hơn CDP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây sai khi nói về Primary Industry",
+    "answers": [
+      {
+        "text": "Tự động hóa làm giảm nhu cầu lao động",
+        "isCorrect": false
+      },
+      {
+        "text": "Khai thác mỏ, đanh bắt cá, nông nghiệp, lâm nghiệp và khai thác dầu khí đều là những ngành công nghiệp chính",
+        "isCorrect": false
+      },
+      {
+        "text": "Thu hoạch tài nguyên thiên nhiên sau này được sử dụng để sản xuất sản phẩm",
+        "isCorrect": false
+      },
+      {
+        "text": "Sản xuất nguyên liệu thành thành phẩm",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây sai khi nói về Secondary Industry",
+    "answers": [
+      {
+        "text": "Ngành nghề dịch vụ phát triển",
+        "isCorrect": true
+      },
+      {
+        "text": "Đổi mới công nghệ đã dẫn đến tự động hóa với thiết kế hỗ trợ máy tính",
+        "isCorrect": false
+      },
+      {
+        "text": "Quặng vàng và bạc được tinh chế thành đồ trang sức",
+        "isCorrect": false
+      },
+      {
+        "text": "Sản xuất đang gia tăng sử dụng ít công nhân hơn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đầu không phải là đầu vào của một hệ thống tiếp thị và bán hàng",
+    "answers": [
+      {
+        "text": "Dữ liệu khách hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Dữ liệu đặt hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Đơn giá",
+        "isCorrect": false
+      },
+      {
+        "text": "Nhân sự",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là một EA Framework",
+    "answers": [
+      {
+        "text": "TOGAF",
+        "isCorrect": false
+      },
+      {
+        "text": "BCM",
+        "isCorrect": true
+      },
+      {
+        "text": "Zachman",
+        "isCorrect": false
+      },
+      {
+        "text": "MODAF",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là lợi ích của EA Framework",
+    "answers": [
+      {
+        "text": "Dễ dàng hơn để tìm yếu tố mới",
+        "isCorrect": false
+      },
+      {
+        "text": "Dễ dàng quản lý hơn",
+        "isCorrect": true
+      },
+      {
+        "text": "Dễ dàng tìm thấy các yếu tốc hiện có",
+        "isCorrect": false
+      },
+      {
+        "text": "Thúc đẩy tái sử dụng các thực thành kiến trúc tốt nhất",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là 1 trong 5 tính năng chính của hệ thống ERP",
+    "answers": [
+      {
+        "text": "Cơ sở dữ liệu chung",
+        "isCorrect": false
+      },
+      {
+        "text": "UX/UI nhất quán",
+        "isCorrect": false
+      },
+      {
+        "text": "Tự động hóa",
+        "isCorrect": false
+      },
+      {
+        "text": "Giảm chi phí",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là 1 trong 6 nhược điểm của hệ thống ERP",
+    "answers": [
+      {
+        "text": "Chi phí hệ thống",
+        "isCorrect": false
+      },
+      {
+        "text": "Khó phân tích dữ liệu",
+        "isCorrect": true
+      },
+      {
+        "text": "Nhu cầu đào tạo",
+        "isCorrect": false
+      },
+      {
+        "text": "Bảo trì",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là lựa chọn và tích hợp Module trong ERP",
+    "answers": [
+      {
+        "text": "Tích hợp các quy trình kinh doanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Tích hợp tương tác với khách hàng\r",
+        "isCorrect": false
+      },
+      {
+        "text": "Tích hợp với nhân viên",
+        "isCorrect": true
+      },
+      {
+        "text": "Tích hợp với nhà cung cấp dịch vụ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "SAP R/3 bao gồm mấy loại  ứng dụng chính",
+    "answers": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là 1 trong mục 3 tiêu vận hành của doanh nghiệp",
+    "answers": [
+      {
+        "text": "Kỹ thuật",
+        "isCorrect": false
+      },
+      {
+        "text": "Thời gian",
+        "isCorrect": true
+      },
+      {
+        "text": "Tài chính",
+        "isCorrect": false
+      },
+      {
+        "text": "Tổ chức",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Quản trị doanh nghiệp không bao gồm mối quan hệ nào",
+    "answers": [
+      {
+        "text": "Đối tác kinh doanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Người lao động",
+        "isCorrect": true
+      },
+      {
+        "text": "Môi trường",
+        "isCorrect": false
+      },
+      {
+        "text": "Cổ đông",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Chức năng không thuộc hệ thống xử lý giao dịch",
+    "answers": [
+      {
+        "text": "Đầu vào",
+        "isCorrect": false
+      },
+      {
+        "text": "Đầu ra",
+        "isCorrect": false
+      },
+      {
+        "text": "Xử lý",
+        "isCorrect": false
+      },
+      {
+        "text": "Kiểm soát dữ liệu",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Hệ thống xử lý giao dịch có bao nhiêu tính năng",
+    "answers": [
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Lợi ích của việc sử dụng hệ thống xử lý giao dịch không bao gồm",
+    "answers": [
+      {
+        "text": "Quản lý tự động",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng tốc độ giao dịch",
+        "isCorrect": false
+      },
+      {
+        "text": "Tích hợp hiệu quả",
+        "isCorrect": true
+      },
+      {
+        "text": "Tăng hiệu quả chi phí",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "MIS có bao nhiêu nhóm chức năng",
+    "answers": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Phát triển EA gồm bao nhiêu bước?",
+    "answers": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các nhóm tài liệu của EA không bao gồm?",
+    "answers": [
+      {
+        "text": "Considerations",
+        "isCorrect": false
+      },
+      {
+        "text": "Standards",
+        "isCorrect": false
+      },
+      {
+        "text": "Visions",
+        "isCorrect": false
+      },
+      {
+        "text": "Analysis",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là 1 loại Artifact của EA?",
+    "answers": [
+      {
+        "text": "principles",
+        "isCorrect": false
+      },
+      {
+        "text": "design document",
+        "isCorrect": true
+      },
+      {
+        "text": "guidelines",
+        "isCorrect": false
+      },
+      {
+        "text": "technology reference models",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhóm tài liệu Considerations gồm loại Artifact nào?",
+    "answers": [
+      {
+        "text": "principles",
+        "isCorrect": true
+      },
+      {
+        "text": "solution overviews",
+        "isCorrect": false
+      },
+      {
+        "text": "business capability models",
+        "isCorrect": false
+      },
+      {
+        "text": "guidelines",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Roadmap artifact thuộc nhóm tài liệu nào?",
+    "answers": [
+      {
+        "text": "Considerations",
+        "isCorrect": false
+      },
+      {
+        "text": "Visions",
+        "isCorrect": true
+      },
+      {
+        "text": "Outlines",
+        "isCorrect": false
+      },
+      {
+        "text": "Landscapes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có mấy cách phân loại cơ cấu tổ chức",
+    "answers": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu là đặc điểm cơ cấu tổ chức theo chức năng ?",
+    "answers": [
+      {
+        "text": "Tổ chức các hoạt động doanh nghiệp theo logic kinh doanh",
+        "isCorrect": true
+      },
+      {
+        "text": "Tôn trọng sự đa dạng, đề cao việc tích hợp các thành phần không đồng nhất",
+        "isCorrect": false
+      },
+      {
+        "text": "Đảm bảo phát triển chuyên môn và giảm chi phí cơ cấu",
+        "isCorrect": false
+      },
+      {
+        "text": "hông phân cấp: ra lệnh trực tiếp",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "EA là viết tắt của gì?",
+    "answers": [
+      {
+        "text": "Enterprise Architecture ",
+        "isCorrect": true
+      },
+      {
+        "text": "Enterprise Arts",
+        "isCorrect": false
+      },
+      {
+        "text": "Electric Architecture",
+        "isCorrect": false
+      },
+      {
+        "text": "Electric Art",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Sự khác nhau giữa công nghệ thông tin và hệ thống thông tin",
+    "answers": [
+      {
+        "text": "2 cái là một",
+        "isCorrect": false
+      },
+      {
+        "text": "HTTT bao hàm CNTT",
+        "isCorrect": true
+      },
+      {
+        "text": "CNTT bao hàm HTTT",
+        "isCorrect": false
+      },
+      {
+        "text": "HTTT và CNTT không liên quan",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "EIA là gì?",
+    "answers": [
+      {
+        "text": "quy trình và giao thức để quản lý việc trao đổi thông tin trong toàn công ty",
+        "isCorrect": true
+      },
+      {
+        "text": "giao thức để quản lý việc trao đổi thông tin trong toàn công ty",
+        "isCorrect": false
+      },
+      {
+        "text": "quy trình để quản lý việc trao đổi thông tin trong toàn công ty",
+        "isCorrect": false
+      },
+      {
+        "text": "quy trình và giao thức để trao đổi thông tin trong toàn công ty",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Vòng đời hệ thống truyền thống bao gồm mấy giai đoạn",
+    "answers": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Cung cấp cho người dùng sự hỗ trợ, đào tạo, phát triển ứng dụng, tài liệu, lựa chọn và thiết lập thiết bị, tiêu chuẩn, hỗ trợ kỹ thuật và khắc phục sự cố là khái niệm của?",
+    "answers": [
+      {
+        "text": "Information center",
+        "isCorrect": true
+      },
+      {
+        "text": "Information Service Unit",
+        "isCorrect": false
+      },
+      {
+        "text": "Chief Information Officer (CIO)",
+        "isCorrect": false
+      },
+      {
+        "text": "Enterprise Architecture ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "MIS là gì",
+    "answers": [
+      {
+        "text": "Hệ thống thông tin quản lý",
+        "isCorrect": true
+      },
+      {
+        "text": "Hệ thống quản lý giao dịch",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ thống hỗ trợ quyết định",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ thống thông tin điều hành",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "hệ thống thông tin được sử dụng để tạo điều kiện chia sẻ hiệu quả tài liệu và kiến thức giữa các nhóm và cá nhân trong một doanh nghiệp là hệ thống gì",
+    "answers": [
+      {
+        "text": "Hệ thống thông tin quản lý",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ thống quản lý giao dịch",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ thống hỗ trợ quyết định",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ thống cộng tác doanh nghiệp ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "\"cách một công ty tạo, chỉnh sửa và phân tích các quy trình có thể dự đoán được tạo nên cốt lõi của hoạt động kinh doanh của mình.\" là khái niệm của:",
+    "answers": [
+      {
+        "text": "Quản lý quy trình kinh doanh (BPM)",
+        "isCorrect": true
+      },
+      {
+        "text": "Quy trình hỗ trợ khách hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "quy trình kinh doanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Giai đoạn vận hành",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các loại quyết định trong DSS là gì? ",
+    "answers": [
+      {
+        "text": "Quyết định dựa trên logic, Quyết định dựa trên số liệu, Các quyết định có cấu trúc",
+        "isCorrect": false
+      },
+      {
+        "text": "Quyết định dựa trên logic, Quyết định dựa trên số liệu, Các quyết định bán cấu trúc",
+        "isCorrect": false
+      },
+      {
+        "text": "Các quyết định bán cấu trúc, Các quyết định có cấu trúc, Các quyết định phi cấu trúc",
+        "isCorrect": true
+      },
+      {
+        "text": "Quyết định dựa trên logic, Quyết định dựa trên số liệu, Các quyết định phi cấu trúc",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các levels ra quyết định trong DSS là gì? ",
+    "answers": [
+      {
+        "text": "Quản lý cấp cao, Quản lý cấp trung, Quản lý cấp thấp, Nhân viên cá nhân",
+        "isCorrect": false
+      },
+      {
+        "text": "Quản lý cấp cao, Đội ngũ quản lý cấp trung và dự án, Đội ngũ quản lý vận hành và dự án, Nhân viên cá nhân",
+        "isCorrect": true
+      },
+      {
+        "text": "Quản lý cấp cao, Quản lý cấp trung, Quản lý cấp thấp, Quản lý dự án",
+        "isCorrect": false
+      },
+      {
+        "text": "Quản lý cấp cao, Quản lý cấp trung, Quản lý cấp thấp, Quản lý cá nhân",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong DSS, tần suất ra quyết định Strategic, Tactical, Operational lần lượt theo thứ tự như thế nào?",
+    "answers": [
+      {
+        "text": "Từ thấp đến cao",
+        "isCorrect": true
+      },
+      {
+        "text": "Từ cao đến thấp",
+        "isCorrect": false
+      },
+      {
+        "text": "Không đổi",
+        "isCorrect": false
+      },
+      {
+        "text": "Biến động ngẫu nhiên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các loại hệ thống hỗ trợ quyết định là gì? ",
+    "answers": [
+      {
+        "text": "DSS hướng logic, DSS hướng số liệu, DSS hướng kết quả, DSS dựa trên mô hình",
+        "isCorrect": false
+      },
+      {
+        "text": "DSS hướng logic, DSS hướng số liệu, DSS hướng kết quả, DSS hướng tài liệu",
+        "isCorrect": false
+      },
+      {
+        "text": "DSS hướng logic, DSS hướng số liệu, DSS hướng kết quả, DSS dựa trên mô hình, DSS hướng tài liệu",
+        "isCorrect": false
+      },
+      {
+        "text": "DSS hướng tri thức, DSS theo hướng dữ liệu, DSS hướng giao tiếp,  DSS hướng tài liệu,  DSS dựa trên mô hình",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải nhược điểm của mô hình hóa trong DSS? ",
+    "answers": [
+      {
+        "text": "Giả định về thực tế có thể không chính xác",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ chính xác của dự đoán thường không đáng tin cậy",
+        "isCorrect": false
+      },
+      {
+        "text": "Nhiều rủi ro hơn so với các hệ thống thực",
+        "isCorrect": true
+      },
+      {
+        "text": "Đòi hỏi tư duy trừu tượng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các thành phần của DSS là?",
+    "answers": [
+      {
+        "text": "DBS, Model, MMS, Data, DBMS",
+        "isCorrect": false
+      },
+      {
+        "text": "DBS, Model, MMS, Data, ESS",
+        "isCorrect": false
+      },
+      {
+        "text": "DBS, Model, MMS, Data, GDSS",
+        "isCorrect": false
+      },
+      {
+        "text": "DBMS, Model, MMS, Data, DGMS",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là đặc điểm của DSS dựa trên mô hình?",
+    "answers": [
+      {
+        "text": "Quyết định dựa trên mô hình sử dụng một mô hình để giải quyết vấn đề hoặc hỗ trợ ra quyết định",
+        "isCorrect": false
+      },
+      {
+        "text": "Phân tích tìm kiếm mục tiêu",
+        "isCorrect": true
+      },
+      {
+        "text": "Chủ yếu là các hệ thống độc lập",
+        "isCorrect": false
+      },
+      {
+        "text": "Sử dụng một lý thuyết hoặc mô hình toán để thực hiện",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các thành phần của Model trong DSS dựa trên mô hình là gì?",
+    "answers": [
+      {
+        "text": "Model-driven, Model based, MMS, Model language, MIS",
+        "isCorrect": false
+      },
+      {
+        "text": "Model-driven, Model based, MMS, Model language, MSI",
+        "isCorrect": false
+      },
+      {
+        "text": "Model-driven, Model based, MMS, Model language, MSS",
+        "isCorrect": false
+      },
+      {
+        "text": "Model directory, Model based, MMS, Model language, Model execution, integration and command",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là 1 giá trị kinh doanh của DSS?",
+    "answers": [
+      {
+        "text": "Giúp đỡ với các quyết định trong quản lý chuỗi cung ứng",
+        "isCorrect": false
+      },
+      {
+        "text": "Giúp đỡ với các quyết định trong quản lý quan hệ khách hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Giúp đỡ với các quyết định trong quản lý số liệu",
+        "isCorrect": true
+      },
+      {
+        "text": "Trực quan hóa dữ liệu: Trình bày dữ liệu dưới dạng đồ họa, để giúp người dùng xem các mẫu và mối quan hệ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là 1 lợi ích chính của DSS?",
+    "answers": [
+      {
+        "text": "Khả năng hỗ trợ giải quyết vấn đề phức tạp",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ chính xác của dự đoán đáng tin cậy",
+        "isCorrect": true
+      },
+      {
+        "text": "Khả năng thử một số chiến lược khác nhau theo các cấu hình khác nhau",
+        "isCorrect": false
+      },
+      {
+        "text": "Quyết định khách quan - nhất quán và khách quan hơn các quyết định được đưa ra theo trực giác",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là 1 nhiệm vụ của ESS?",
+    "answers": [
+      {
+        "text": "Xác định tầm nhìn tổng thể",
+        "isCorrect": false
+      },
+      {
+        "text": "Quy hoạch chiến lược",
+        "isCorrect": false
+      },
+      {
+        "text": "tổ chức và nhân sự chiến lược",
+        "isCorrect": false
+      },
+      {
+        "text": "Quản lý rủi ro",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là 1 đặc điểm của ESS?",
+    "answers": [
+      {
+        "text": "Phân tích tìm kiếm mục tiêu",
+        "isCorrect": true
+      },
+      {
+        "text": "Dễ sử dụng",
+        "isCorrect": false
+      },
+      {
+        "text": "Khả năng khoan xuống",
+        "isCorrect": false
+      },
+      {
+        "text": " Hỗ trợ nhu cầu dữ liệu bên ngoài",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là 1 giá trị kinh doanh của ESS?",
+    "answers": [
+      {
+        "text": "Khả năng phân tích, so sánh và làm nổi bật xu hướng",
+        "isCorrect": false
+      },
+      {
+        "text": "Trực quan hóa dữ liệu",
+        "isCorrect": true
+      },
+      {
+        "text": "Tăng khoảng kiểm soát quản lý cấp trên, giám sát tốt hơn",
+        "isCorrect": false
+      },
+      {
+        "text": "Giao diện đồ họa cho phép người dùng xem xét dữ liệu nhanh hơn và hiểu rõ hơn, tăng tốc độ ra quyết định",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là 1 đặc điểm của EIS?",
+    "answers": [
+      {
+        "text": "Dễ sử dụng.",
+        "isCorrect": false
+      },
+      {
+        "text": " Tóm tắt",
+        "isCorrect": false
+      },
+      {
+        "text": "Mô phỏng",
+        "isCorrect": true
+      },
+      {
+        "text": "Chất lượng thông tin: linh hoạt",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải 1 lợi ích chính của EIS? ",
+    "answers": [
+      {
+        "text": "Khả năng thử một số chiến lược khác nhau theo các cấu hình khác nhau",
+        "isCorrect": true
+      },
+      {
+        "text": "Cho phép lập kế hoạch",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiết kiệm thời gian cho người dùng",
+        "isCorrect": false
+      },
+      {
+        "text": "Cung cấp sự kiểm soát tốt hơn trong tổ chức",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải 1 năng lực kỹ thuật của EIS?",
+    "answers": [
+      {
+        "text": "Làm nổi bật các chỉ số vấn đề",
+        "isCorrect": false
+      },
+      {
+        "text": " Tạo thông tin ở cấp độ chi tiết khác nhau",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiển thị xu hướng, tỷ lệ và độ lệch",
+        "isCorrect": false
+      },
+      {
+        "text": " Liên kết với quy trình kinh doanh giá trị gia tăng",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải 1 khả năng của BI?",
+    "answers": [
+      {
+        "text": " Thay đổi hành vi ra quyết định để đạt được lợi nhuận và các mục tiêu kinh doanh khác",
+        "isCorrect": false
+      },
+      {
+        "text": "Tổ chức và nhân sự chiến lược",
+        "isCorrect": true
+      },
+      {
+        "text": " Tích lũy thông tin",
+        "isCorrect": false
+      },
+      {
+        "text": "Phát triển kiến thức về hoạt động",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải 1 lợi ích chính của BIS? ",
+    "answers": [
+      {
+        "text": "Báo cáo nhanh hơn, chính xác hơn",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng chất lượng và năng lực truyền thông",
+        "isCorrect": true
+      },
+      {
+        "text": "Cải thiện việc ra quyết định",
+        "isCorrect": false
+      },
+      {
+        "text": " Quy trình hiệu quả hơn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải 1 tính năng chính của hệ thống ERP?",
+    "answers": [
+      {
+        "text": "Phát triển kiến thức về hoạt động",
+        "isCorrect": true
+      },
+      {
+        "text": "Phân tích dữ liệu",
+        "isCorrect": false
+      },
+      {
+        "text": "Tích hợp quy trình nghiệp vụ",
+        "isCorrect": false
+      },
+      {
+        "text": " Tự động hóa",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải 1 tiêu chuẩn phân loại hệ thống ERP?",
+    "answers": [
+      {
+        "text": "Theo lĩnh vực kinh doanh.",
+        "isCorrect": true
+      },
+      {
+        "text": "Theo đơn đặt hàng trong hay ngoài nước",
+        "isCorrect": false
+      },
+      {
+        "text": "Mức độ tích hợp",
+        "isCorrect": false
+      },
+      {
+        "text": "Theo mã nguồn mở/ đóng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đặc điểm nào sau đây của Bussiness Transaction là không đúng?",
+    "answers": [
+      {
+        "text": "Các giao dịch có thể được đo lường bằng tiền hoặc tương đương",
+        "isCorrect": false
+      },
+      {
+        "text": "Chỉ liên quan tới một sự kiện xảy ra bên trong tổ chức đó",
+        "isCorrect": true
+      },
+      {
+        "text": "Giao dịch chỉ được thực hiện cho chủ thể, không cho bất kì cá nhân nào",
+        "isCorrect": false
+      },
+      {
+        "text": "Được hỗ trợ bằng các tài liệu được ủy quyền & hợp pháp liên quan đến sự kiện hoặc giao dịch đã nhập",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là ví dụ về hệ thống xử lý giao dịch?",
+    "answers": [
+      {
+        "text": "Hệ thống đặt trước vé xem phim",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ thống đầu cuối điểm bán hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ thống cho mượn của thư viện",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ thống quản lý lớp học của sinh viên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Có mấy mức Hệ thống thông tin dựa trên hệ thống phân cấp của một tổ chức?",
+    "answers": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Lợi ích từ kiến trúc thông tin doanh nghiệp EIA bao gồm:",
+    "answers": [
+      {
+        "text": "Tạo điều kiện thuận lợi cho việc đánh giá các ứng dụng được đóng gói để “phù hợp” trong tổ chức ",
+        "isCorrect": false
+      },
+      {
+        "text": "Dễ dàng tích hợp dữ liệu của  công ty vào môi trường hệ thống ",
+        "isCorrect": false
+      },
+      {
+        "text": "Thuận lợi chia sẻ thông tin đơn vị kinh doanh vì các mô hình được phát triển từ quan điểm toàn doanh nghiệp",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các đáp án đều đúng",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Một vòng đời của hệ thống truyền thống không có bước nào?",
+    "answers": [
+      {
+        "text": "Tạo mẫu",
+        "isCorrect": false
+      },
+      {
+        "text": "Gói phần mềm",
+        "isCorrect": false
+      },
+      {
+        "text": "Phát triển người dùng cuối",
+        "isCorrect": false
+      },
+      {
+        "text": "Triển khai phần mềm",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Khi công ty muốn chuyển sang nhà cung cấp mới, sẽ sử dụng hệ thống thông tin nào để dự báo lợi tức đầu tư ?",
+    "answers": [
+      {
+        "text": "TPS",
+        "isCorrect": false
+      },
+      {
+        "text": "DSS",
+        "isCorrect": false
+      },
+      {
+        "text": "MIS",
+        "isCorrect": false
+      },
+      {
+        "text": "ESS",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải yếu tố mà DSS sử dụng ?",
+    "answers": [
+      {
+        "text": "mô hình phân tích",
+        "isCorrect": false
+      },
+      {
+        "text": "Cơ sở dữ liệu chuyên ngành",
+        "isCorrect": false
+      },
+      {
+        "text": "Xử lý giao dịch trực tuyến",
+        "isCorrect": true
+      },
+      {
+        "text": "hiểu biết của chính người ra quyết định",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tại sao CRM lại quan trọng ?",
+    "answers": [
+      {
+        "text": "Thị trường bão hòa",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiêu chuẩn khách hàng cao",
+        "isCorrect": false
+      },
+      {
+        "text": "Kỳ vọng của khách hàng về tính minh bạch của thị trường",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 đáp án trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "E-commerce là gì ?",
+    "answers": [
+      {
+        "text": "Là nơi sử dụng mạng để kết nối mọi người với nhau",
+        "isCorrect": false
+      },
+      {
+        "text": "Là tất cả các nơi thực hiện kinh doanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Là nơi diễn ra các giao dịch kinh doanh thông qua internet",
+        "isCorrect": true
+      },
+      {
+        "text": "Cả A và B",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Sự khác biệt giữa E-commerse và B-Commerse?",
+    "answers": [
+      {
+        "text": "B-commerce tiến hàng kinh doanh trên internet không chỉ là mua bán mà còn dịch vụ khách hàng và hợp tác với đối tác kinh doanh",
+        "isCorrect": false
+      },
+      {
+        "text": "E-commerce là phần nhỏ hơn của B-commerce",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả A và B đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "không đáp án nào đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "hình thức giao dịch bên mua (buy-side e-commerce) là gì?",
+    "answers": [
+      {
+        "text": "Bất kỳ giao tiếp trung gian điện tử nào giữa doanh nghiệp và các bên liên quan",
+        "isCorrect": false
+      },
+      {
+        "text": "doanh nghiệp sử dụng phương tiện điện tử để bán sản phẩm cho khách hàng của mình",
+        "isCorrect": false
+      },
+      {
+        "text": "doanh nghiệp sử dụng phương tiện điện tử để mua sản phẩm từ các nhà cung cấp của mình",
+        "isCorrect": true
+      },
+      {
+        "text": "không ý nào trong 3 ý trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Câu trả lời nào là sai khi nói về yếu tố để tăng được hiệu quả của thương mại điện tử (e-commerce) ?",
+    "answers": [
+      {
+        "text": "Tranh giành thị phần với các doanh nghiệp sử dụng e-commerce",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng tốc độ cung ứng sản phẩm",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng tốc độ cung ứng sản phẩm",
+        "isCorrect": true
+      },
+      {
+        "text": "Cả A và B",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là một loại giao dịch điện tử ?",
+    "answers": [
+      {
+        "text": "B2B",
+        "isCorrect": false
+      },
+      {
+        "text": "B2C",
+        "isCorrect": false
+      },
+      {
+        "text": "C2B",
+        "isCorrect": true
+      },
+      {
+        "text": "C2C",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là loại giao dịch điện tử mà Shoppee Việt Nam sử dụng?",
+    "answers": [
+      {
+        "text": "B2B",
+        "isCorrect": false
+      },
+      {
+        "text": "B2C",
+        "isCorrect": false
+      },
+      {
+        "text": "C2C",
+        "isCorrect": true
+      },
+      {
+        "text": "C2B",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "điểm mạnh của giao dịch B2B là gì?",
+    "answers": [
+      {
+        "text": "Tiếp cận được nhiều đối tượng hơn",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiết kiệm được chi phí",
+        "isCorrect": false
+      },
+      {
+        "text": "Thúc đẩy tỷ lệ chuyển đổi",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 phương án trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu là chiến thuật của loại hình kinh doanh Clicks And Bricks",
+    "answers": [
+      {
+        "text": "Tích hợp thương mại điện tử một phần",
+        "isCorrect": false
+      },
+      {
+        "text": "Tách hoàn toàn",
+        "isCorrect": false
+      },
+      {
+        "isCorrect": true
+      },
+      {
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ưu điểm của Clicks And Mortars",
+    "answers": [
+      {
+        "text": "Nâng cao trải nghiệm khách hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Giảm chi phí digital marketing",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng thêm thu nhập cho doanh nghiệp",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 phương án trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Yếu tố hạn chế sự phát triển của E-commerce ?",
+    "answers": [
+      {
+        "text": "Sức hấp dẫn của hình thức mua hàng truyền thống",
+        "isCorrect": false
+      },
+      {
+        "text": "Hàng hóa không đầy đủ so với kinh doanh truyền thống",
+        "isCorrect": false
+      },
+      {
+        "text": "Đối tượng tiềm năng để hỗ trợ phát triển cho thương mại điện tử còn thấp",
+        "isCorrect": true
+      },
+      {
+        "text": "Thiếu sự tiện lợi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là loại E-commerce theo bản chất của giao dịch",
+    "answers": [
+      {
+        "text": "M-commerce",
+        "isCorrect": false
+      },
+      {
+        "text": "L-commerce",
+        "isCorrect": false
+      },
+      {
+        "text": "Y-Commerce",
+        "isCorrect": true
+      },
+      {
+        "text": "mCommerce",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hệ thống nào giúp chúng ta lựa chọn sản phẩm",
+    "answers": [
+      {
+        "text": "office automation system",
+        "isCorrect": false
+      },
+      {
+        "text": "transaction processing system",
+        "isCorrect": false
+      },
+      {
+        "text": "decision support system",
+        "isCorrect": true
+      },
+      {
+        "text": "management information system",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải đầu ra của hệ thống thông tin quản lý (MIS)",
+    "answers": [
+      {
+        "text": "Báo cáo theo lịch trinh",
+        "isCorrect": false
+      },
+      {
+        "text": "Báo cáo chỉ báo",
+        "isCorrect": false
+      },
+      {
+        "text": "Báo cáo ngoại lệ",
+        "isCorrect": false
+      },
+      {
+        "text": "Thông tin tài chính",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải đầu vào của hệ thống thông tin quản lý (MIS)",
+    "answers": [
+      {
+        "text": "Kế hoạch chiến lược hoặc chính sách doanh nghiệp",
+        "isCorrect": false
+      },
+      {
+        "text": "Báo cáo nhu cầu",
+        "isCorrect": true
+      },
+      {
+        "text": "Hệ thống xử lý giao dịch (TPS)",
+        "isCorrect": false
+      },
+      {
+        "text": "Nguồn bên ngòai",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là mối quan hệ giữa e-commerce(EC) và e-business (EB)",
+    "answers": [
+      {
+        "text": "Giao nhau",
+        "isCorrect": false
+      },
+      {
+        "text": "EC tương đương EB",
+        "isCorrect": false
+      },
+      {
+        "text": "EC là một phần của EB",
+        "isCorrect": false
+      },
+      {
+        "text": "EB là một phần của EC",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Điểm khác nhau giữa e-commerce và e-business",
+    "answers": [
+      {
+        "text": "EC chỉ bao gồm việc mua và bán các sản phẩm, dịch \r\nvụ và thông tin thông qua mạng",
+        "isCorrect": false
+      },
+      {
+        "text": "EB bao gồm cả phục vụ khách hàng,  hợp tác với các đối \r\ntác kinh doanh và thực hiện các giao dịch điện tử trong một tổ chức",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả A và B đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Cả A và B đều sai",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các thành phần chính của Customer relation management (CRM)?",
+    "answers": [
+      {
+        "text": "Thông tin, quy trình, công nghệ",
+        "isCorrect": false
+      },
+      {
+        "text": "Thông tin, quy trình, công nghệ, khách hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Quy trình, hệ thống, thông tin",
+        "isCorrect": false
+      },
+      {
+        "text": "Thông tin, quy trình, công nghệ, con người",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải tính năng chính của hệ thống ERP",
+    "answers": [
+      {
+        "text": "Quản lí thông tin",
+        "isCorrect": true
+      },
+      {
+        "text": "Cơ sở dữ liệu chung",
+        "isCorrect": false
+      },
+      {
+        "text": " Phân tích dữ liệu",
+        "isCorrect": false
+      },
+      {
+        "text": " Tích hợp quy trình nghiệp vụ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Điểm khác nhau giữa MIS(Hệ thống thông tin quản \r\nlý) và DSS (Hệ thống hỗ trợ quyết \r\nđịnh)",
+    "answers": [
+      {
+        "text": "MIS chủ yếu giải quyết các vấn đề \r\ncó cấu trúc ",
+        "isCorrect": false
+      },
+      {
+        "text": "DSS hỗ trợ các vấn đề bán cấu trúc \r\nvà phi cấu trúc ",
+        "isCorrect": false
+      },
+      {
+        "text": "MIS cung cấp các báo cáo thường \r\ncố định, theo lịch trình",
+        "isCorrect": false
+      },
+      {
+        "text": "MIS nhấn mạnh sự thay đổi, linh \r\nhoạt và phản ứng nhanh ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải thành phần của Business Process Management?",
+    "answers": [
+      {
+        "text": "Phân tích Quy trình",
+        "isCorrect": false
+      },
+      {
+        "text": "Dữ liệu",
+        "isCorrect": true
+      },
+      {
+        "text": "Con người",
+        "isCorrect": false
+      },
+      {
+        "text": "Công nghệ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ví dụ nào là 1 Transactions (Giao dịch) ?",
+    "answers": [
+      {
+        "text": "Siena College đăng ký sinh viên \r\nvào các lớp học",
+        "isCorrect": false
+      },
+      {
+        "text": "Văn phòng bác sĩ lên lịch thăm \r\nbệnh nhân",
+        "isCorrect": false
+      },
+      {
+        "text": "Times Union Center bán vé \r\ncho khách hàng",
+        "isCorrect": true
+      },
+      {
+        "text": "Times Union Center kiểm tra vé \r\ntại cửa",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải input của doanh nghiệp?",
+    "answers": [
+      {
+        "text": "Nguyên liệu",
+        "isCorrect": false
+      },
+      {
+        "text": "Con người",
+        "isCorrect": false
+      },
+      {
+        "text": "Thông tin",
+        "isCorrect": false
+      },
+      {
+        "text": "Sản phẩm",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Điều nào sau đây KHÔNG phải là mục tiêu của hệ thống xử lý giao dịch?",
+    "answers": [
+      {
+        "text": "Nắm bắt, xử lý và lưu trữ các giao dịch",
+        "isCorrect": false
+      },
+      {
+        "text": "Sản xuất nhiều loại tài liệu liên quan đến hoạt động kinh doanh hằng ngày",
+        "isCorrect": true
+      },
+      {
+        "text": "Giảm các công việc thủ công liên quan đến xử lý giao dịch kinh doanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Tạo các báo cáo tiêu chuẩn được sử dụng để ra quyết định quản lý",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Cái nào không phải là thành phần hoặc không phải là miền của kiến ​​trúc doanh nghiệp?",
+    "answers": [
+      {
+        "text": "Kiến trúc kinh doanh\r\n",
+        "isCorrect": false
+      },
+      {
+        "text": "Kiến trúc thông tin",
+        "isCorrect": false
+      },
+      {
+        "text": "\r\nKiến trúc ứng dụng",
+        "isCorrect": false
+      },
+      {
+        "text": "Kiến trúc hướng dịch vụ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu là mục tiêu chính của kiến ​​trúc doanh nghiệp?",
+    "answers": [
+      {
+        "text": "Giúp cho viêc tổ chức hiệu quả nhất có thể",
+        "isCorrect": false
+      },
+      {
+        "text": "\r\nĐể sắp xếp chiến lược kinh doanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Để tăng cường sự linh hoạt của doanh nghiệp và công nghệ ",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các đáp án trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "TOGAF là gì?",
+    "answers": [
+      {
+        "text": "Một cách tiếp cận chung từng bước để phát triển kiến ​​trúc doanh nghiệp",
+        "isCorrect": false
+      },
+      {
+        "text": "Một phương pháp và khuôn mẫu để phát triển kiến ​​trúc doanh nghiệp.",
+        "isCorrect": false
+      },
+      {
+        "text": "The Open Group Architecture Framework",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các đáp án trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Có bao nhiêu giai đoạn trong ADM?",
+    "answers": [
+      {
+        "text": "10",
+        "isCorrect": true
+      },
+      {
+        "text": "11",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "IaaS là từ viết tắt của?",
+    "answers": [
+      {
+        "text": "International as a Service",
+        "isCorrect": false
+      },
+      {
+        "text": "Intel as a Service",
+        "isCorrect": false
+      },
+      {
+        "text": "Intelligent as a Service",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrastructure as a Service",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Thuật ngữ nào sau đây nói về vấn đề mang thiết bị cá nhân trong doanh nghiệp",
+    "answers": [
+      {
+        "text": "Green Computing",
+        "isCorrect": false
+      },
+      {
+        "text": "Cloud Computing",
+        "isCorrect": false
+      },
+      {
+        "text": "PaaS",
+        "isCorrect": false
+      },
+      {
+        "text": "\r\nBYOD",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Hệ thống thông tin loại MIS cung cấp thông tin cho:",
+    "answers": [
+      {
+        "text": "Quản lý cấp cao",
+        "isCorrect": false
+      },
+      {
+        "text": "Nhân viên nhân sự",
+        "isCorrect": false
+      },
+      {
+        "text": "Nhân viên vận hành",
+        "isCorrect": false
+      },
+      {
+        "text": "Quản lý cấp trung",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Một khách hàng đặt mua 2 sản phẩm, và thông báo về việc thay đổi địa chỉ lưu trú. Nhập các loại dữ liệu này vào hệ thống không được xem là hoạt động cơ bản của:",
+    "answers": [
+      {
+        "text": "Hệ thống xử lý giao dịch (TPS)",
+        "isCorrect": true
+      },
+      {
+        "text": "Hệ thống thông tin quản lý (MIS)",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ thống hỗ trợ ra quyết định",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các đáp án trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mối quan hệ giữa hệ thống xử lý giao dịch (TPS) và hệ thống thông tin quản lý (MIS) là:",
+    "answers": [
+      {
+        "text": "\r\nDữ liệu MIS được chia sẻ trực tuyến cho các xử lý TPS",
+        "isCorrect": false
+      },
+      {
+        "text": "Dữ liệu TPS được chia sẻ trực tuyến cho các xử lý MIS",
+        "isCorrect": false
+      },
+      {
+        "text": "Dữ liệu MIS được chia sẻ thường xuyên cho các xử lý TPS",
+        "isCorrect": false
+      },
+      {
+        "text": "Dữ liệu TPS được chia sẻ thường xuyên cho các xử lý MIS",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": " \r\nCách nào chính xác, đầy đủ nhất để nhận biết các quy tắc quản lý HTTT của DN:",
+    "answers": [
+      {
+        "text": "Phỏng vấn ban giám đốc và những người sử dụng hệ thống",
+        "isCorrect": false
+      },
+      {
+        "text": "Phỏng vấn những người quản lý, phân tích tài liệu và quan sát thực tế",
+        "isCorrect": false
+      },
+      {
+        "text": "Phỏng vấn những người quản lý và những người sử dụng hệ thống",
+        "isCorrect": false
+      },
+      {
+        "text": "\r\nPhỏng vấn các chuyên viên đã từng thiết kế cho hệ thống này",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu là hệ thống ERP mã nguồn mở?",
+    "answers": [
+      {
+        "text": "Adempiere 3.4",
+        "isCorrect": true
+      },
+      {
+        "text": "SAP",
+        "isCorrect": false
+      },
+      {
+        "text": "Microsoft Dynamics AX",
+        "isCorrect": false
+      },
+      {
+        "text": "\r\nOracle",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Điểm cốt lõi của hệ thống ERP là gì?",
+    "answers": [
+      {
+        "text": "Sử dụng cơ sở dữ liệu tập trung chung",
+        "isCorrect": true
+      },
+      {
+        "text": "Giải quyết vấn đề “ốc đảo thông tin”",
+        "isCorrect": false
+      },
+      {
+        "text": "Sử dụng các phần mềm của cùng một nhà cung cấp",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các lựa chọn đều đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hệ thống hoạch định nguồn lực doanh nghiệp (ERP) có nguồn gốc từ hệ thống nào?",
+    "answers": [
+      {
+        "text": "Materials Requirements Planning",
+        "isCorrect": true
+      },
+      {
+        "text": "Manufacturing Resources Planning",
+        "isCorrect": false
+      },
+      {
+        "text": "Manufacturing Requirements Planning",
+        "isCorrect": false
+      },
+      {
+        "text": "Materials Resources Planning",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong một công ty định hướng quy trình, luồng thông tin và hoạt động quản lý là ____________, phù hợp với dòng nguyên liệu và sản phẩm.",
+    "answers": [
+      {
+        "text": "chiều ngang qua các chức năng",
+        "isCorrect": true
+      },
+      {
+        "text": "chiều dọc từ quản lý cấp cao nhất xuống thông qua cấu trúc quản lý phân cấp",
+        "isCorrect": false
+      },
+      {
+        "text": "chiều dọc thông qua các chức năng",
+        "isCorrect": false
+      },
+      {
+        "text": "chiều ngang từ tiếp thị và bán hàng đến hàng tồn kho và sản xuất",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "EA là gì ?",
+    "answers": [
+      {
+        "text": "Bản thiết kế khái niệm và cấu trúc của tổ chức",
+        "isCorrect": true
+      },
+      {
+        "text": "Bản thiết kế xây dựng của tổ chức",
+        "isCorrect": false
+      },
+      {
+        "text": "Bản thiết kế tài chính của tổ chức",
+        "isCorrect": false
+      },
+      {
+        "text": "Không đáp án nào đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "EA Artifact là gì",
+    "answers": [
+      {
+        "text": "Là tài sản của doanh nghiệp",
+        "isCorrect": false
+      },
+      {
+        "text": "Là giá trị doanh nghiệp mang lại",
+        "isCorrect": false
+      },
+      {
+        "text": "Là mục tiêu doanh nghiệp",
+        "isCorrect": false
+      },
+      {
+        "text": "Là tài liệu cấu trúc riêng biệt cấu thành cấu trúc doanh nghiệp",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Quy tắc không có trong kinh doanh",
+    "answers": [
+      {
+        "text": "Consideration",
+        "isCorrect": false
+      },
+      {
+        "text": "Standards",
+        "isCorrect": true
+      },
+      {
+        "text": "Visions",
+        "isCorrect": false
+      },
+      {
+        "text": "Outlines",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Quy tắc không có trong CNTT",
+    "answers": [
+      {
+        "text": "Standards",
+        "isCorrect": false
+      },
+      {
+        "text": "Visions",
+        "isCorrect": true
+      },
+      {
+        "text": "Landscapes",
+        "isCorrect": false
+      },
+      {
+        "text": "Designs",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Vị trí EA Practice ?",
+    "answers": [
+      {
+        "text": "Đầu vào cho quản lý chiến lược",
+        "isCorrect": false
+      },
+      {
+        "text": "Đầu vào cho quản lý dự án",
+        "isCorrect": false
+      },
+      {
+        "text": "Laà trung gian giữa quản lý chiến lược và quản lý dự án",
+        "isCorrect": true
+      },
+      {
+        "text": "không đáp án nào đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "EA Practive là gì ?",
+    "answers": [
+      {
+        "text": "Là một hoạt động phát triển độc lập trong doanh nghiệp không có sự liên quan các bộ phận khác",
+        "isCorrect": false
+      },
+      {
+        "text": "Là một hoạt động phát triển đồng thời phụ phuộc vào quy trình tổ chức",
+        "isCorrect": false
+      },
+      {
+        "text": "Là hoạt động độc lập đòi hỏi tích hợp vào quy trình tổ chức",
+        "isCorrect": true
+      },
+      {
+        "text": "Khái niệm khác",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hệ thống không bao gồm chức năng nào ?",
+    "answers": [
+      {
+        "text": "Input",
+        "isCorrect": false
+      },
+      {
+        "text": "Output",
+        "isCorrect": false
+      },
+      {
+        "text": "proccessing",
+        "isCorrect": false
+      },
+      {
+        "text": "integration",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Cấp độ của MIS trong IS là gì ?",
+    "answers": [
+      {
+        "text": "Top level",
+        "isCorrect": false
+      },
+      {
+        "text": "Middle Level",
+        "isCorrect": true
+      },
+      {
+        "text": "Low Level",
+        "isCorrect": false
+      },
+      {
+        "text": "MIS không thuộc IS",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "MIS được xây dựng lên từ IS đúng hay sai ?",
+    "answers": [
+      {
+        "text": "Đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Sai",
+        "isCorrect": false
+      },
+      {
+        "isCorrect": false
+      },
+      {
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Kiến trúc sư phần mềm và trúc sư cơ sở hạ tầng ",
+    "answers": [
+      {
+        "isCorrect": false
+      },
+      {
+        "isCorrect": false
+      },
+      {
+        "isCorrect": false
+      },
+      {
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có bao nhiêu cấp độ của HTTT",
+    "answers": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có bao nhiêu thành phần BPM - Bussiness Process Management",
+    "answers": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là một kiểu TPS - Transactions Processing System",
+    "answers": [
+      {
+        "text": "Xử lý đơn vị",
+        "isCorrect": false
+      },
+      {
+        "text": "Xử lý theo lô",
+        "isCorrect": false
+      },
+      {
+        "text": "Xử lý giao dịch trực tuyến",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả B và C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Hệ thống MES có phạm vi rộng hơn ERP đúng hay sai ?",
+    "answers": [
+      {
+        "text": "Đúng",
+        "isCorrect": false
+      },
+      {
+        "text": "Sai",
+        "isCorrect": true
+      },
+      {
+        "isCorrect": false
+      },
+      {
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có bao nhiêu quy trình hoạt động của MIS",
+    "answers": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đầu vào MIS là gì ?",
+    "answers": [
+      {
+        "text": "Kế hoạch chiến lược hoặc chính sách doanh nghiệp",
+        "isCorrect": false
+      },
+      {
+        "text": "TPS",
+        "isCorrect": false
+      },
+      {
+        "text": "Nguồn bên ngoài",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 phương án trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Có bao nhiêu loại quyết định của DSS - Decision Support System ",
+    "answers": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "CDP có phải một CRM hay không ?",
+    "answers": [
+      {
+        "text": "Coó ",
+        "isCorrect": false
+      },
+      {
+        "text": "Không",
+        "isCorrect": true
+      },
+      {
+        "isCorrect": false
+      },
+      {
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "CDP thu thập dữ liệu về khách hàng đúng hay sai ?",
+    "answers": [
+      {
+        "text": "Đúng",
+        "isCorrect": false
+      },
+      {
+        "text": "Sai",
+        "isCorrect": true
+      },
+      {
+        "isCorrect": false
+      },
+      {
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuứ tự triển khai CRM, CDP, DMP là gì ?",
+    "answers": [
+      {
+        "text": "CRM, DMP, CDP",
+        "isCorrect": true
+      },
+      {
+        "text": "DMP, CDP, CRM",
+        "isCorrect": false
+      },
+      {
+        "text": "CRM, CDP, DMP",
+        "isCorrect": false
+      },
+      {
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "CDP thu thập dữ liệu từ mấy nguồn? ",
+    "answers": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mục nào không nằm trong CDP Data Flow?",
+    "answers": [
+      {
+        "text": "Data",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross-Device",
+        "isCorrect": false
+      },
+      {
+        "text": "Segmentation",
+        "isCorrect": false
+      },
+      {
+        "text": "Optimization",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đáp án nào không phải là Use-case của CDP?",
+    "answers": [
+      {
+        "text": "B2B Support",
+        "isCorrect": false
+      },
+      {
+        "text": "Data Validation",
+        "isCorrect": true
+      },
+      {
+        "text": "Digital Advertising Support",
+        "isCorrect": false
+      },
+      {
+        "text": "Advanced Customer Data Management",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đáp án nào không phải lợi ích của CRM dành cho quản lí?",
+    "answers": [
+      {
+        "text": "Bán chéo hiệu quả các sản phẩm khác trên cơ sở hiểu rõ hơn về khách hàng",
+        "isCorrect": true
+      },
+      {
+        "text": "Tăng cường sự chú ý đến khách \r\nhàng bằng cách ưu tiên rõ ràng",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng cường sự chú ý đến khách hàng bằng cách ưu tiên rõ ràng",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiểu rõ hơn về những gì khách hàng và phân khúc khách hàng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là trở ngại trong thành công của CRM?",
+    "answers": [
+      {
+        "text": "Thiếu hướng dẫn",
+        "isCorrect": false
+      },
+      {
+        "text": "Dữ liệu không chính xác",
+        "isCorrect": false
+      },
+      {
+        "text": "Vấn đề tích hợp",
+        "isCorrect": false
+      },
+      {
+        "text": "Chiến lược dài hạn",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "CRM có mấy thành phần chính?",
+    "answers": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thống kê đến năm 2021, Đâu là 4 nhà phát hành phần mềm CRM đạt lợi nhuận tốt nhất?",
+    "answers": [
+      {
+        "text": "SAP, Adobe, Oracle, Microsoft",
+        "isCorrect": false
+      },
+      {
+        "text": "Salesforce, Adobe, Oracle, Microsoft",
+        "isCorrect": true
+      },
+      {
+        "text": "Salesforce, Adobe, Oracle, HubSpot",
+        "isCorrect": false
+      },
+      {
+        "text": "Salesforce, Adobe, Zendesk, Microsoft",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là đặc điểm trưởng thành của CRM có mức độ kém?",
+    "answers": [
+      {
+        "text": "Không có định nghĩa rõ ràng về khách hành",
+        "isCorrect": false
+      },
+      {
+        "text": "Không đánh giá cao mong muốn và mong đợi của khách hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Thông tin có liên quan nhưng không đầy đủ",
+        "isCorrect": true
+      },
+      {
+        "text": "Dữ liệu không thể có và được tổ chức ở các địa điểm khác nhau",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là e-commerce",
+    "answers": [
+      {
+        "text": "Shopee",
+        "isCorrect": false
+      },
+      {
+        "text": "Lazada",
+        "isCorrect": false
+      },
+      {
+        "text": "amazon.com",
+        "isCorrect": false
+      },
+      {
+        "text": "dantri.com.vn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có bao nhiêu mối quan hệ giữa e-commerce và e-business?",
+    "answers": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các chiều của Electronic Ecommerce?",
+    "answers": [
+      {
+        "text": "Sản phẩm được bán, quá trình, khách hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Sản phẩm được bán, Khách hàng, Đại lí phân phối",
+        "isCorrect": false
+      },
+      {
+        "text": "Khách hàng, Đại lí phân phối, Quá trình",
+        "isCorrect": false
+      },
+      {
+        "text": "Sản phẩm được bán, Quá trình, Đại lí phân phối",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải lợi ích của thương mại điện tử đối với doanh nghiệp?",
+    "answers": [
+      {
+        "text": "Tạo điều kiện cạnh tranh, dẫn đến giảm giá",
+        "isCorrect": true
+      },
+      {
+        "text": "Mở rộng thị trường",
+        "isCorrect": false
+      },
+      {
+        "text": "Giảm chi phí viễn thông",
+        "isCorrect": false
+      },
+      {
+        "text": "Giảm hàng tồn kho",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "E-Bay là EC theo kiểu?",
+    "answers": [
+      {
+        "text": "B2B",
+        "isCorrect": false
+      },
+      {
+        "text": "B2C",
+        "isCorrect": false
+      },
+      {
+        "text": "C2B",
+        "isCorrect": false
+      },
+      {
+        "text": "C2C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Sự tiến hóa của thương mại điện tử?",
+    "answers": [
+      {
+        "text": "Brochureware ->  e-Business -> e-Commerce -> e-Enterprise",
+        "isCorrect": false
+      },
+      {
+        "text": "Brochureware  ->  e-Commerce  ->    e-Business   ->    e-Enterprise",
+        "isCorrect": true
+      },
+      {
+        "text": "Brochureware -> e-Enterprise -> e-Commerce -> e-Business",
+        "isCorrect": false
+      },
+      {
+        "text": "Brochureware -> e-Enterprise  -> e-Business -> e-Commerce",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hạn chế phi kỹ thuật của thương mại điện tử?",
+    "answers": [
+      {
+        "text": "Thiếu đủ bảo mật, độ tin cậy, tiêu chuẩn và giao thức truyền thông của hệ thống",
+        "isCorrect": false
+      },
+      {
+        "text": "Băng thông viễn thông không đủ",
+        "isCorrect": false
+      },
+      {
+        "text": "Khó khăn trong việc tích hợp phần mềm internet và thương mại điện tử với một số ứng dụng và cơ sở dữ liệu hiện có",
+        "isCorrect": false
+      },
+      {
+        "text": "Nhiều vấn đề pháp lý chưa được giải quyết",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải ý nghĩa trong cơ cấu tổ chức ma trận ?",
+    "answers": [
+      {
+        "text": "Các vai trò quản lý không cố định",
+        "isCorrect": false
+      },
+      {
+        "text": "Đảm bảo phát triển chuyên môn và giảm chi phí cơ cấu",
+        "isCorrect": false
+      },
+      {
+        "text": "Tập trung vào kết quả và sự đầy đủ của thị trường",
+        "isCorrect": false
+      },
+      {
+        "text": "Các vai trò quản lý cố định và đảm bảo sự phát triển chuyên môn",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu là 1 trong những đầu ra của hệ thống tiếp thị và bán hàng?",
+    "answers": [
+      {
+        "text": "Dữ liệu đặt hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Chiến lược bán hàng",
+        "isCorrect": true
+      },
+      {
+        "text": "Đơn giá",
+        "isCorrect": false
+      },
+      {
+        "text": "Chi phí vận chuyển",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là lợi ích trong EA Framework(Enterprise architecture framework)?",
+    "answers": [
+      {
+        "text": "Giúp tổ chức các yếu tố xây dựng để hỗ trợ các quyết định",
+        "isCorrect": false
+      },
+      {
+        "text": "Dễ dàng tìm thấy các yếu tố hiện có",
+        "isCorrect": false
+      },
+      {
+        "text": "Thúc đẩy tái sử dụng các thực hành kiến trúc tốt nhất",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 phương án trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu là các bước quản lý quy trình kinh doanh",
+    "answers": [
+      {
+        "text": "Thiết kế -> Mô hình hóa -> Thực hiện -> Theo dõi -> Tối ưu hóa ",
+        "isCorrect": true
+      },
+      {
+        "text": "Thiết kế -> Thực hiện -> Mô hình hóa -> Theo dõi -> Tối ưu hóa ",
+        "isCorrect": false
+      },
+      {
+        "text": "Mô hình hóa -> Thiết kế -> Thực hiện -> Theo dõi -> Tối ưu hóa ",
+        "isCorrect": false
+      },
+      {
+        "text": "Thiết kế -> Mô hình hóa -> Theo dõi -> Thực hiện -> Tối ưu hóa",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có bao nhiêu tính năng của WMS",
+    "answers": [
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": true
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là input của MIS",
+    "answers": [
+      {
+        "text": "Kế hoạch chiến lược hoặc chính sách doanh nghiệp",
+        "isCorrect": false
+      },
+      {
+        "text": "Hệ thống xử lý giao dịch",
+        "isCorrect": false
+      },
+      {
+        "text": "Nguồn bên ngoài",
+        "isCorrect": false
+      },
+      {
+        "text": "Báo cáo nhu cầu",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Có mấy loại hệ thống hỗ trợ quyết định",
+    "answers": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là nhược điểm của hệ thống ERP",
+    "answers": [
+      {
+        "text": "Sự phức tạp",
+        "isCorrect": true
+      },
+      {
+        "text": "Không phân tích được dữ liệu",
+        "isCorrect": false
+      },
+      {
+        "text": "Quy trình thủ công",
+        "isCorrect": false
+      },
+      {
+        "text": "Không được tích hợp các quy trình nghiệp vụ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Những hạn chế của thương mại điện tử",
+    "answers": [
+      {
+        "text": "Thiếu đủ bảo mật, độ tin cậy, tiêu chuẩn",
+        "isCorrect": false
+      },
+      {
+        "text": "Băng thông viễn thông không thủ",
+        "isCorrect": false
+      },
+      {
+        "text": "Các công cụ phát triển phần mềm vẫn đang thay đổi và phát triển nhanh chóng",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các đáp án trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Mô hình B2B là gì",
+    "answers": [
+      {
+        "text": "Một mô hình EC",
+        "isCorrect": true
+      },
+      {
+        "text": "Một mô hình EC mà các doanh nghiệp bán cho người dùng cá nhân",
+        "isCorrect": false
+      },
+      {
+        "text": "Người tiêu dùng bán trục tiếp cho người tiêu dùng",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các đáp án đều sai",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Enterprise Resource Planning là gì?",
+    "answers": [
+      {
+        "text": "Là một phần mềm quản lý doanh nghiệp",
+        "isCorrect": true
+      },
+      {
+        "text": "Là phầm mềm quản lý xí nghiệp",
+        "isCorrect": false
+      },
+      {
+        "text": "Là phần mềm CMS",
+        "isCorrect": false
+      },
+      {
+        "text": "Là phầm mềm thương mại điện tử",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải lợi ích của ERC?",
+    "answers": [
+      {
+        "text": "trình bày một cái nhìn toàn diện về các chức năng kinh\r\ndoanh từ một thông tin duy nhất và kiến trúc CNTT",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng luồng thông tin tổ chức",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng khả năng kết hợp kiểm soát quản lý tốt hơn, ra quyết định\r\nnhanh hơn và giảm chi phí",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng khả năng chuyển đổi khách hàng",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Giao dịch kinh doanh là gì ?",
+    "answers": [
+      {
+        "text": "Là trao đổi chứng khoán giữa các doanh nghiệp với nhau",
+        "isCorrect": false
+      },
+      {
+        "text": "Là trai đổi tiền bạc giữa các doanh nghiệp với nhau",
+        "isCorrect": false
+      },
+      {
+        "text": "là sự tương tác trong thế giới thực, thường là giữa một doanh nghiệp với một người hoặc một doanh nghiệp khác, nơi một thứ gì đó được trao\r\nđổi",
+        "isCorrect": true
+      },
+      {
+        "text": "Là trao đổi hàng hóa với các doanh nghiệp với nhau",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải thành phần hệ thống thông tin doanh nghiệp?",
+    "answers": [
+      {
+        "text": "Đầu vào / Đầu ra",
+        "isCorrect": false
+      },
+      {
+        "text": "Các bộ xử lý",
+        "isCorrect": false
+      },
+      {
+        "text": "Môi trường",
+        "isCorrect": false
+      },
+      {
+        "text": "Công nghệ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu là 1 loại thông tin trong hệ thống thông tin ?",
+    "answers": [
+      {
+        "text": "Chiến lược",
+        "isCorrect": true
+      },
+      {
+        "text": "Hỗ trợ",
+        "isCorrect": false
+      },
+      {
+        "text": "Xu hướng",
+        "isCorrect": false
+      },
+      {
+        "text": "Số lượng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Điểm khác nhau giữa CNTT và HTTT ?",
+    "answers": [
+      {
+        "text": "CNTT là tập con của HTTT",
+        "isCorrect": true
+      },
+      {
+        "text": "HTTT là tập con của CNTT",
+        "isCorrect": false
+      },
+      {
+        "text": "CNTT và HTTT khác nhau hoàn toàn",
+        "isCorrect": false
+      },
+      {
+        "text": "CNTT là phần mềm, HTTT là phần cứng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các sàn thượng mại điện tử B2C lớn ở Việt Nam ?",
+    "answers": [
+      {
+        "text": "Shopee",
+        "isCorrect": false
+      },
+      {
+        "text": "Lazada",
+        "isCorrect": false
+      },
+      {
+        "text": "Sendo",
+        "isCorrect": false
+      },
+      {
+        "text": "Amazon",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đặc điểm không là của CRM ?",
+    "answers": [
+      {
+        "text": "Tập trung vào tác động chiến lược hơn là tác động đến hoạt động",
+        "isCorrect": false
+      },
+      {
+        "text": "Lợi ích nói chung là dài hạn hơn là ngay lập tức",
+        "isCorrect": false
+      },
+      {
+        "text": "Lợi ích nói chung là dài hạn hơn là ngay lập tức",
+        "isCorrect": false
+      },
+      {
+        "text": "Quản lý kho",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu là thành phần chính của ERM ?",
+    "answers": [
+      {
+        "text": "Thái độ",
+        "isCorrect": false
+      },
+      {
+        "text": "Quy trình",
+        "isCorrect": true
+      },
+      {
+        "text": "Xu hướng",
+        "isCorrect": false
+      },
+      {
+        "text": "Xử lý",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong ERM, tự động hóa lực lượng bán hàng là ...",
+    "answers": [
+      {
+        "text": "Chia sẻ thông tin dịch vụ khách hàng trên toàn bộ tổ chức",
+        "isCorrect": false
+      },
+      {
+        "text": "Tích hợp chặt chẽ với Tự động hóa lực lượng bán hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Cải thiện hiệu suất bán hàng",
+        "isCorrect": true
+      },
+      {
+        "text": "Cho phép chia sẻ nhiệm vụ, tài liệu, thông tin sản phẩm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Troợ ngại thành công của CRM ?",
+    "answers": [
+      {
+        "text": "Công nghệ",
+        "isCorrect": false
+      },
+      {
+        "text": "Vấn đề tích hợp",
+        "isCorrect": true
+      },
+      {
+        "text": "Con người",
+        "isCorrect": false
+      },
+      {
+        "text": "Thông tin",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải khái niệm miền kiến trúc doanh nghiệp là gì ?",
+    "answers": [
+      {
+        "text": "Kiến trúc doanh nghiệp hướng dẫn các quyết định kinh doanh,\r\nthông tin, quy trình và công nghệ của bạn để thực hiện chiến lược\r\nkinh doanh.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cũng giống như một doanh nghiệp có nhiều phòng ban và nhiều\r\nmiền, bản thân kiến ​​trúc doanh nghiệp có thể được chia nhỏ thành\r\ncác miền.",
+        "isCorrect": false
+      },
+      {
+        "text": "Các kiến ​​trúc sư doanh nghiệp tập trung vào từng lĩnh vực và\r\ncách chúng liên quan với nhau để đưa ra chiến lược của tổ chức\r\ngọi là miền kiến trúc - Domains of Enterprise Architecture",
+        "isCorrect": false
+      },
+      {
+        "text": "Sử dụng HTTT nhằm tối ưu hóa hiệu suất., xác định và giải quyết\r\ncác vấn đề trong công ty trước khi chúng trở thành nghiêm trọng\r\nbằng cách hiểu công ty như một hệ thống.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đặc điểm của DSS ?",
+    "answers": [
+      {
+        "text": "Hỗ trợ",
+        "isCorrect": false
+      },
+      {
+        "text": "Các vấn đề có cấu trúc cao",
+        "isCorrect": false
+      },
+      {
+        "text": "Các vấn đề bán cấu trúc hoặc phi cấu trúc",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các ý trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là 1 phần của tam giác tri thức wisdom?",
+    "answers": [
+      {
+        "text": "Trí tuệ",
+        "isCorrect": false
+      },
+      {
+        "text": "Kiến thức",
+        "isCorrect": false
+      },
+      {
+        "text": "Thông tin",
+        "isCorrect": false
+      },
+      {
+        "text": "Con người",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu là một loại hệ thống hỗ trợ quyết định ?",
+    "answers": [
+      {
+        "text": "DSS hướng giao tiếp",
+        "isCorrect": true
+      },
+      {
+        "text": "DSS hướng con người",
+        "isCorrect": false
+      },
+      {
+        "text": "DSS hướng công nghệ",
+        "isCorrect": false
+      },
+      {
+        "text": "DSS hướng xu hướng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Điều gì sai về giao dịch?",
+    "answers": [
+      {
+        "text": "Các giao dịch này có thể đo lường được bằng tiềnhoặc tương đương",
+        "isCorrect": false
+      },
+      {
+        "text": "Nó liên quan đến một sự kiện xảy ra giữa tổ chức và bên thứ ba( cá nhân , tổ chức .. )",
+        "isCorrect": false
+      },
+      {
+        "text": "Giao dịch được thực hiện cho chủ thể, không cho bất kỳ mục đích cá nhân nào",
+        "isCorrect": false
+      },
+      {
+        "text": "Nó được thực hiện để thực hiện các hoạt động truy cập nội dung của cơ sở dữ liệu",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là 1 lợi ích của EA",
+    "answers": [
+      {
+        "text": "Một kế hoạch chi tiết cho doanh nghiệp có thể được sử dụng để điều chỉnh CNTT với các mục tiêu kinh doanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Một cách để tối ưu hóa hiệu suất doanh nghiệp",
+        "isCorrect": false
+      },
+      {
+        "text": "Một cách để xây dựng hệ thống doanh nghiệp",
+        "isCorrect": true
+      },
+      {
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các quyết định có cấu trúc của DSS là gì?",
+    "answers": [
+      {
+        "text": "Quyết định thường xuyên với các thủ tục nhất định",
+        "isCorrect": true
+      },
+      {
+        "text": "Chỉ có một phần của quyết định có câu trả lời rõ ràng được cung cấp bởi các thủ tục được chấp nhận",
+        "isCorrect": false
+      },
+      {
+        "text": "Các quyết định mới lạ, không thường xuyên đòi hỏi sự phán xét và hiểu biết",
+        "isCorrect": false
+      },
+      {
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ví dụ về quyết định bán cấu trúc của DSS?",
+    "answers": [
+      {
+        "text": "Restock inventory; xác định ưu đãi đặc biệt cho khách hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Phân bổ nguồn lực cho các nhà quản lý; Xây dựng kế hoạch marketing ",
+        "isCorrect": true
+      },
+      {
+        "text": "Phê duyệt ngân sách vốn; quyết định các mục tiêu của công ty ",
+        "isCorrect": false
+      },
+      {
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là 1 loại hệ thống hỗ trợ quyết định?",
+    "answers": [
+      {
+        "text": "DSS hướng giao tiếp",
+        "isCorrect": false
+      },
+      {
+        "text": "DSS dựa trên mô hình",
+        "isCorrect": false
+      },
+      {
+        "text": "DSS hướng tài liệu",
+        "isCorrect": false
+      },
+      {
+        "text": "DSS dựa theo phán đoán",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Module nào hỗ trợ toàn bộ quy trình bán và mua hàng từ bắt đầu đến kết thúc",
+    "answers": [
+      {
+        "text": "Quản lý đơn hàng",
+        "isCorrect": true
+      },
+      {
+        "text": "Quản lý bán hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Quản lý mua hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Quản lý dữ liệu cấp cao",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là đặc trưng của hệ thống thông tin",
+    "answers": [
+      {
+        "text": "Stakeholder, Goal, system boundaries, Input, processing, output,\r\nFeedback, Control",
+        "isCorrect": true
+      },
+      {
+        "text": "Goal, Feedback, Control\r",
+        "isCorrect": false
+      },
+      {
+        "text": "Input, processing, output\r",
+        "isCorrect": false
+      },
+      {
+        "text": "Stakeholder, Goal, system boundaries, Input, processing, output",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu có thể là thước đo hiệu quả của hệ thống thông tin",
+    "answers": [
+      {
+        "text": "Tăng trưởng thu nhập, Sự mở rộng thị phần, Nhận thức và sự hài lòng của khách hàng",
+        "isCorrect": true
+      },
+      {
+        "text": "Thị trường có nhiều sản phẩm tương tự công ty đang sản xuất",
+        "isCorrect": false
+      },
+      {
+        "text": "Tổng Input required + Output archieved lớn",
+        "isCorrect": false
+      },
+      {
+        "text": "Tỷ lệ Input required / Output archieved lớn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hệ thống MIS là gì?",
+    "answers": [
+      {
+        "text": "Là hệ thống triển khai quản lý hoạt động kinh doanh của doanh nghiệp (Management Implementation System)",
+        "isCorrect": false
+      },
+      {
+        "text": "Là hệ thống quản lý tích hợp hoạt động kinh doanh của một doanh nghiệp (Management Intergration System)",
+        "isCorrect": false
+      },
+      {
+        "text": "Là hệ thống thông tin quản lý quá trình hoạt động kinh doanh của một doanh nghiệp (Manament Information System)",
+        "isCorrect": true
+      },
+      {
+        "text": "Là hệ thống quản lý đầu tư của doanh nghiệp (Management investment system)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải một layer trong hệ thống SAP R/3 ?",
+    "answers": [
+      {
+        "text": "Database server",
+        "isCorrect": false
+      },
+      {
+        "text": "Application server",
+        "isCorrect": false
+      },
+      {
+        "text": "Presentation server",
+        "isCorrect": false
+      },
+      {
+        "text": "Bussiness server",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải website B2B hoạt động ở Việt Nam?",
+    "answers": [
+      {
+        "text": "Foody",
+        "isCorrect": false
+      },
+      {
+        "text": "Adayroi",
+        "isCorrect": false
+      },
+      {
+        "text": "Shopee",
+        "isCorrect": false
+      },
+      {
+        "text": "Taobao",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải lý do chọn CRM?",
+    "answers": [
+      {
+        "text": "Một cách để xác định, thu hút và giữ chân khách hàng, tài sản lớn nhất của doanh nghiệp.",
+        "isCorrect": false
+      },
+      {
+        "text": "Một mô hình được triển khai rộng rãi để quản lý các tương tác của công ty với khách hàng, khách hàng và triển vọng bán hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Một cách để bán hàng hiệu quả hơn",
+        "isCorrect": true
+      },
+      {
+        "text": "Một chiến lược được sử dụng để tìm hiểu thêm về nhu cầu và hành vi của khách hàng nhằm phát triển mối quan hệ bền chặt hơn với họ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải đặc điểm của giao dịch?",
+    "answers": [
+      {
+        "text": "Giao dịch là một hành động hoặc một loạt các hành động.",
+        "isCorrect": false
+      },
+      {
+        "text": "Nó được thực hiện bởi một người dùng duy nhất để thực hiện các hoạt động truy cập nội dung của cơ sở dữ liệu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Nó là một đơn vị logic của quá trình xử lý dữliệu",
+        "isCorrect": false
+      },
+      {
+        "text": "Giao dịch được tiến hành nhất thiết phải được diễn ra trong quá trình mua bán",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải kho trong \"6 loại kho khác nhau\"?",
+    "answers": [
+      {
+        "text": "Trung tâm phân phối",
+        "isCorrect": false
+      },
+      {
+        "text": "Kho nóng",
+        "isCorrect": true
+      },
+      {
+        "text": "Kho lạnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Kho thông minh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải một trong 8 tính năng của WMS?",
+    "answers": [
+      {
+        "text": "Theo dõi hàng tồn kho",
+        "isCorrect": false
+      },
+      {
+        "text": "Chọn và đóng gói",
+        "isCorrect": false
+      },
+      {
+        "text": "Quản lý lao động",
+        "isCorrect": false
+      },
+      {
+        "text": "Quản lý khách hàng",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Một hệ thống là gì ?",
+    "answers": [
+      {
+        "text": "Là một tập hợp các thành phần liên quan đến nhau",
+        "isCorrect": false
+      },
+      {
+        "text": "Làm việc cùng nhau để đạt được một tập hợp các mục tiêu chung",
+        "isCorrect": false
+      },
+      {
+        "text": "Bằng cách chấp nhận đầu vào và tạo đầu ra trong một quá trình xử lý có tổ chức",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các ý trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Các loại thông tin?",
+    "answers": [
+      {
+        "text": "Thông tin chiến lược",
+        "isCorrect": false
+      },
+      {
+        "text": "Thông tin quản lý",
+        "isCorrect": false
+      },
+      {
+        "text": "Thông tin hoạt động",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các ý trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "CDP là gì?",
+    "answers": [
+      {
+        "text": "Cơ sở dữ liệu CDP được tổ chức xung quanh mọi người thay vì các đối tượng như trang web hoặc sản phẩm.",
+        "isCorrect": false
+      },
+      {
+        "text": "Người dùng được lưu trữ ở cấp độ cá nhân với thông tin nhận dạng cá nhân (PII) như tên, số tài khoản số điện thoại, v.v.",
+        "isCorrect": false
+      },
+      {
+        "text": "CDP có thể chia sẻ dữ liệu của mình với các hệ thống khác thông qua API (Giao diện chương trình ứng dụng) hoặc truy vấn cơ sở dữ liệu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các ý trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Mục tiêu của MIS ?",
+    "answers": [
+      {
+        "text": "Cung cấp cho người quản lý thông tin",
+        "isCorrect": false
+      },
+      {
+        "text": "Hoạt động thường xuyên, định kỳ",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các ý còn lại",
+        "isCorrect": true
+      },
+      {
+        "text": "Kiểm soát, tổ chức và lập kế hoạch tốt hơn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Quản lý quan hệ khách hàng (CRM) là gì?",
+    "answers": [
+      {
+        "text": "Tất cả các ý còn lại",
+        "isCorrect": true
+      },
+      {
+        "text": "Hệ thống CRMtổng hợp dữ liệutừ một loạt cáckênh truyền thôngkhác nhau , bao gồm trang web của công ty, điện thoại, email, trò chuyện trực tiếp, tài liệu tiếp thị và gần đây hơn làphương tiện truyền thông xã hội",
+        "isCorrect": false
+      },
+      {
+        "text": "Chúng cho phép các doanh nghiệp tìm hiểu thêm về đối tượng mục tiêu và cách đáp ứng tốt nhất cho nhu cầu của họ, do đógiữ chân khách hàngvà thúc đẩy tăng trưởng doanh số bán hàng",
+        "isCorrect": false
+      },
+      {
+        "text": "Là một quá trình trong đó một doanh nghiệp hoặc tổ chức khác quản lý các tương tác của mình với khách hàng, thường sử dụngphân tích dữ liệuđể nghiên cứumột lượng lớn thông tin",
+        "isCorrect": false
+      }
+    ]
+  }
+]
