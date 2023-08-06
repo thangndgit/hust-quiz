@@ -7346,23 +7346,6 @@
     ]
   },
   {
-    "question": "Đâu không phải một bước trong quá trình xây dựng hệ thống xem 3D (3D viewing)?",
-    "answers": [
-      {
-        "text": "Thiết lập cấu trúc dữ liệu cho đối tượng 3D",
-        "isCorrect": true
-      },
-      {
-        "text": "Xác định vị trí, hướng của camera trong không gian 3D",
-        "isCorrect": false
-      },
-      {
-        "text": "Áp dụng các phép biến đổi cho đối tượng 3D",
-        "isCorrect": false
-      }
-    ]
-  },
-  {
     "question": "Hermite Curves được sử dụng trong đồ họa máy tính để",
     "answers": [
       {
