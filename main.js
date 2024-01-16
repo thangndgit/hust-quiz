@@ -34,45 +34,24 @@ const shuffleArr = (arr) => {
   return arr;
 };
 
-// const renderQuizzes = (quizzes) => {
-//   const list = document.getElementById("quiz-list");
-//   const questions = shuffleArr(quizzes);
-//   questions.forEach((quiz, id) => {
-//     const answers = shuffleArr(quiz.answers);
-//     console.log(quiz.question);
-//     return (list.innerHTML += `
-//         <li class="quiz">
-//           <h3 class="question" onclick="showAnswer(event)">Câu ${id + 1}: ${toUpperFirstCase(quiz.question)}</h3>
-//           ${answers.reduce(
-//             (str, ans, idx) =>
-//               str +
-//               `<div class="answer" correct=${ans.isCorrect} onclick="checkAnswer(event)">${String.fromCharCode(
-//                 idx + 65
-//               )}. ${toUpperFirstCase(ans.text)}</div>`,
-//             ""
-//           )}
-//         </li>
-//       `);
-//   });
-// };
-
 const renderQuizzes = (quizzes) => {
   const list = document.getElementById("quiz-list");
   const questions = shuffleArr(quizzes);
-  
   questions.forEach((quiz, id) => {
     const answers = shuffleArr(quiz.answers);
-    const questionHTML = `
-      <li class="quiz">
-        <h3 class="question" onclick="showAnswer(event)">Câu ${id + 1}: ${toUpperFirstCase(quiz.question)}</h3>
-        <div class="answers">
-          ${answers.map((ans, idx) => `
-            <div class="answer" correct=${ans.isCorrect} onclick="checkAnswer(event)">
-              ${String.fromCharCode(idx + 65)}. ${toUpperFirstCase(ans.text)}
-            </div>`).join('\n')}
-        </div>
-      </li>
-    `;
-    list.innerHTML += questionHTML;
+    console.log(quiz.question);
+    return (list.innerHTML += `
+        <li class="quiz">
+          <h3 class="question" onclick="showAnswer(event)">Câu ${id + 1}: ${toUpperFirstCase(quiz.question)}</h3>
+          ${answers.reduce(
+            (str, ans, idx) =>
+              str +
+              `<div class="answer" correct=${ans.isCorrect} onclick="checkAnswer(event)">${String.fromCharCode(
+                idx + 65
+              )}. ${toUpperFirstCase(ans.text)}</div>`,
+            ""
+          )}
+        </li>
+      `);
   });
 };
