@@ -32,9 +32,9 @@
   {
     "question": "Đâu là thứ tự đúng của các quá trình trong compiler?",
     "answers": [
-      { "text": "Sinh mã => Phân tích cú pháp => Phân tích từ vựng", "isCorrect": false },
-      { "text": "Phân tích cú pháp => Sinh mã => Phân tích từ vựng", "isCorrect": false },
-      { "text": "Phân tích từ vựng => Phân tích cú pháp => Sinh mã", "isCorrect": true }
+      { "text": "Sinh mã =&gt; Phân tích cú pháp =&gt; Phân tích từ vựng", "isCorrect": false },
+      { "text": "Phân tích cú pháp =&gt; Sinh mã =&gt; Phân tích từ vựng", "isCorrect": false },
+      { "text": "Phân tích từ vựng =&gt; Phân tích cú pháp =&gt; Sinh mã", "isCorrect": true }
     ]
   },
   {
@@ -74,14 +74,14 @@
     ]
   },
   {
-    "question": "Văn phạm S -> AaA, A -> Aa, A -> a có nhập nhằng không?",
+    "question": "Văn phạm S -&gt; AaA, A -&gt; Aa, A -&gt; a có nhập nhằng không?",
     "answers": [
       { "text": "Có", "isCorrect": true },
       { "text": "Không", "isCorrect": false }
     ]
   },
   {
-    "question": "Cho văn phạm E -> E * F | F + E | F, F -> F - F | id. Khẳng định nào dưới đây là đúng?",
+    "question": "Cho văn phạm E -&gt; E * F | F + E | F, F -&gt; F - F | id. Khẳng định nào dưới đây là đúng?",
     "answers": [
       { "text": "* có thứ tự ưu tiên cao hơn +", "isCorrect": false },
       { "text": "- có tứ tự ưu tiên cao hơn *", "isCorrect": true },
@@ -221,10 +221,10 @@
   {
     "question": "Trong các văn phạm dưới đây, văn phạm nào nhập nhằng?",
     "answers": [
-      { "text": "S -> AaA, A -> Aa, A -> a", "isCorrect": true },
-      { "text": "S -> aSb, S -> bSa, S -> c", "isCorrect": false },
-      { "text": "S -> F, S -> (S + F), F -> a", "isCorrect": false },
-      { "text": "S -> 0S, S -> S, S -> 1", "isCorrect": false }
+      { "text": "S -&gt; AaA, A -&gt; Aa, A -&gt; a", "isCorrect": true },
+      { "text": "S -&gt; aSb, S -&gt; bSa, S -&gt; c", "isCorrect": false },
+      { "text": "S -&gt; F, S -&gt; (S + F), F -&gt; a", "isCorrect": false },
+      { "text": "S -&gt; 0S, S -&gt; S, S -&gt; 1", "isCorrect": false }
     ]
   },
   {
@@ -311,10 +311,10 @@
   {
     "question": "Văn phạm nào dưới đây ở dạng chuẩn Chomsky?",
     "answers": [
-      { "text": "X -> Y Z, Y -> a, Z -> bc", "isCorrect": false },
-      { "text": "X -> Y ZW, Y -> a, Z -> b, W -> c", "isCorrect": false },
-      { "text": "X -> Y Z, Y -> WW, Z -> a, W -> b | c", "isCorrect": true },
-      { "text": "X -> aY, Y -> b | c", "isCorrect": false }
+      { "text": "X -&gt; Y Z, Y -&gt; a, Z -&gt; bc", "isCorrect": false },
+      { "text": "X -&gt; Y ZW, Y -&gt; a, Z -&gt; b, W -&gt; c", "isCorrect": false },
+      { "text": "X -&gt; Y Z, Y -&gt; WW, Z -&gt; a, W -&gt; b | c", "isCorrect": true },
+      { "text": "X -&gt; aY, Y -&gt; b | c", "isCorrect": false }
     ]
   },
   {
@@ -327,7 +327,7 @@
     ]
   },
   {
-    "question": "Cho văn phạm S -> aSb, S -> c và xâu aacbb. Hình trạng nào là hình trạng ngay sau (q, 3, S1aS1a, Sbb#)?",
+    "question": "Cho văn phạm S -&gt; aSb, S -&gt; c và xâu aacbb. Hình trạng nào là hình trạng ngay sau (q, 3, S1aS1a, Sbb#)?",
     "answers": [
       { "text": "(q, 3, S1aS1aS2, cbb#)", "isCorrect": false },
       { "text": "(q, 3, S1aS1aS1, aSbbb#)", "isCorrect": true },
@@ -365,10 +365,10 @@
   {
     "question": "Trong các văn phạm dưới đây, văn phạm nào ở dạng chuẩn Chomsky?",
     "answers": [
-      { "text": "X -> Y Z, Y -> a, Z -> bc", "isCorrect": false },
-      { "text": "X -> Y ZW, Y -> a, Z -> b, W -> c", "isCorrect": false },
-      { "text": "X -> Y Z, Y -> WW, Z -> a, W -> b | c", "isCorrect": true },
-      { "text": "X -> Y Y | c, Y -> Z, Z -> a | b", "isCorrect": false }
+      { "text": "X -&gt; Y Z, Y -&gt; a, Z -&gt; bc", "isCorrect": false },
+      { "text": "X -&gt; Y ZW, Y -&gt; a, Z -&gt; b, W -&gt; c", "isCorrect": false },
+      { "text": "X -&gt; Y Z, Y -&gt; WW, Z -&gt; a, W -&gt; b | c", "isCorrect": true },
+      { "text": "X -&gt; Y Y | c, Y -&gt; Z, Z -&gt; a | b", "isCorrect": false }
     ]
   },
   {
@@ -435,7 +435,7 @@
     ]
   },
   {
-    "question": "Cho văn phạm với các sản xuất: S -> aB | bA | ε, A -> aS | bAA, B -> b. Văn phạm này không là LL(1) vì:",
+    "question": "Cho văn phạm với các sản xuất: S -&gt; aB | bA | ε, A -&gt; aS | bAA, B -&gt; b. Văn phạm này không là LL(1) vì:",
     "answers": [
       { "text": "Văn phạm đệ quy phải", "isCorrect": false },
       { "text": "Văn phạm vi phạm điều kiện LL(1)", "isCorrect": true },
@@ -446,10 +446,10 @@
   {
     "question": "Cho văn phạm với các sản xuất S → FR, R → *S | ε, F → id Trong bảng phân tích M của văn phạm, các ô M[S, id] và M[R, *] tương ứng là",
     "answers": [
-      { "text": "{S -> FR} và {R -> ε}", "isCorrect": false },
-      { "text": "{S -> FR} và {} (lỗi)", "isCorrect": false },
-      { "text": "{S -> FR} và {R -> *S}", "isCorrect": true },
-      { "text": "{F -> id} và {R -> ε}", "isCorrect": false }
+      { "text": "{S -&gt; FR} và {R -&gt; ε}", "isCorrect": false },
+      { "text": "{S -&gt; FR} và {} (lỗi)", "isCorrect": false },
+      { "text": "{S -&gt; FR} và {R -&gt; *S}", "isCorrect": true },
+      { "text": "{F -&gt; id} và {R -&gt; ε}", "isCorrect": false }
     ]
   },
   {
@@ -523,8 +523,8 @@
     "answers": [
       { "text": "Định danh", "isCorrect": false },
       { "text": "Begin", "isCorrect": false },
-      { "text": "<=", "isCorrect": true },
-      { "text": "<", "isCorrect": false }
+      { "text": "&lt;=", "isCorrect": true },
+      { "text": "&lt;", "isCorrect": false }
     ]
   },
   {
@@ -561,7 +561,7 @@
     ]
   },
   {
-    "question": "Cho văn phạm:<br>A -> x C B<br>B -> z | A x<br>C -> y B z | ε<br>trong đó {A, B, C} là tập ký hiệu không kết thúc, A là ký hiệu đầu. Giá trị của ô M[C, $] trong bảng phân tích tiền định là",
+    "question": "Cho văn phạm:<br>A -&gt; x C B<br>B -&gt; z | A x<br>C -&gt; y B z | ε<br>trong đó {A, B, C} là tập ký hiệu không kết thúc, A là ký hiệu đầu. Giá trị của ô M[C, $] trong bảng phân tích tiền định là",
     "answers": [
       { "text": "Lỗi", "isCorrect": true },
       { "text": "ε", "isCorrect": false },
@@ -633,7 +633,7 @@
     ]
   },
   {
-    "question": "Xét định nghĩa tựa cú pháp<br>Sản xuất&emsp;&emsp;&emsp;Quy tắc ngữ nghĩa<br>E -> E1 # T&emsp;&emsp;&emsp;E.value = E1.value * T.value<br>E -> T&emsp;&emsp;&emsp;E.value = T.value<br>T -> T1 & F&emsp;&emsp;&emsp;T.value = T1.value + F.value<br>T -> F&emsp;&emsp;&emsp;T.value = F.value<br>F -> num&emsp;&emsp;&emsp;F.value = num.lexvalue<br>Đâu là giá trị thuộc tính value của biểu thức 2 # 3 & 5 # 6 & 4, biết rằng thuộc tính lexvalue của số là giá trị của số đó do bộ phân tích từ vựng lưu trữ",
+    "question": "Xét định nghĩa tựa cú pháp<br>Sản xuất&emsp;&emsp;&emsp;Quy tắc ngữ nghĩa<br>E -&gt; E1 # T&emsp;&emsp;&emsp;E.value = E1.value * T.value<br>E -&gt; T&emsp;&emsp;&emsp;E.value = T.value<br>T -&gt; T1 & F&emsp;&emsp;&emsp;T.value = T1.value + F.value<br>T -&gt; F&emsp;&emsp;&emsp;T.value = F.value<br>F -&gt; num&emsp;&emsp;&emsp;F.value = num.lexvalue<br>Đâu là giá trị thuộc tính value của biểu thức 2 # 3 & 5 # 6 & 4, biết rằng thuộc tính lexvalue của số là giá trị của số đó do bộ phân tích từ vựng lưu trữ",
     "answers": [
       { "text": "40", "isCorrect": false },
       { "text": "160", "isCorrect": true },
@@ -651,7 +651,7 @@
     ]
   },
   {
-    "question": "Cho văn phạm<br>S -> aAbB | bAaB | ε<br>A -> S<br>B -> S<br>Kết quả nào dưới đây là đúng?",
+    "question": "Cho văn phạm<br>S -&gt; aAbB | bAaB | ε<br>A -&gt; S<br>B -&gt; S<br>Kết quả nào dưới đây là đúng?",
     "answers": [
       { "text": "FIRST(A) = FIRST(B) = {a, b, ε}, FOLLOW(A) = {a, b}, FOLLOW(B) = {a, b, $}", "isCorrect": true },
       { "text": "FIRST(A) = {a, b, $}, FIRST(B) = {a, b, ε}, FOLLOW(A) = {a, b}, FOLLOW(B) = {$}", "isCorrect": false },
@@ -663,13 +663,13 @@
     "question": "Cho văn phạm G viết trên EBNF:<br>boolExp → true | false | boolExp {or boolExp} | boolExp {and boolExpr}<br>Khẳng định nào dưới đây là không đúng?",
     "answers": [
       {
-        "text": "Văn phạm G viết dưới dạng BNF là:<br><boolExp> → 'true' | 'false' | <boolExp> 'or' <boolExp> | <boolExp> 'and' <boolExpr>",
+        "text": "Văn phạm G viết dưới dạng BNF là:<br>&lt;boolExp&gt; → 'true' | 'false' | &lt;boolExp&gt; 'or' &lt;boolExp&gt; | &lt;boolExp&gt; 'and' &lt;boolExpr&gt;",
         "isCorrect": false
       },
       { "text": "Văn phạm G là nhập nhằng", "isCorrect": true },
       { "text": "Văn phạm G là đơn nghĩa", "isCorrect": false },
       {
-        "text": "Văn phạm G tương đương với văn phạm:<br><boolExp> → <disjunction> | <disjunction> 'and' <boolExp><br><disjunction> → <primitive> | <primitive> 'or' <disjunction><br><primitive> → 'true' | 'false'",
+        "text": "Văn phạm G tương đương với văn phạm:<br>&lt;boolExp&gt; → &lt;disjunction&gt; | &lt;disjunction&gt; 'and' &lt;boolExp&gt;<br>&lt;disjunction&gt; → &lt;primitive&gt; | &lt;primitive&gt; 'or' &lt;disjunction&gt;<br>&lt;primitive&gt; → 'true' | 'false'",
         "isCorrect": false
       }
     ]
