@@ -561,7 +561,7 @@
     ]
   },
   {
-    "question": "Cho văn phạm:\nA -> x C B\nB -> z | A x\nC -> y B z | ε\ntrong đó {A, B, C} là tập ký hiệu không kết thúc, A là ký hiệu đầu. Giá trị của ô M[C, $] trong bảng phân tích tiền định là",
+    "question": "Cho văn phạm:<br>A -> x C B<br>B -> z | A x<br>C -> y B z | ε<br>trong đó {A, B, C} là tập ký hiệu không kết thúc, A là ký hiệu đầu. Giá trị của ô M[C, $] trong bảng phân tích tiền định là",
     "answers": [
       { "text": "Lỗi", "isCorrect": true },
       { "text": "ε", "isCorrect": false },
@@ -570,7 +570,7 @@
     ]
   },
   {
-    "question": "Chiến lược tối ưu nào có thể áp dụng cho đoạn mã\n(1) i = 4\n(2) t1 = i + 1\n(3) t2 = b[t1]\n(4) a[t1] = t2",
+    "question": "Chiến lược tối ưu nào có thể áp dụng cho đoạn mã<br>(1) i = 4<br>(2) t1 = i + 1<br>(3) t2 = b[t1]<br>(4) a[t1] = t2",
     "answers": [
       { "text": "Loại mã chết", "isCorrect": false },
       { "text": "Loại biểu thức con chung", "isCorrect": false },
@@ -624,7 +624,7 @@
     ]
   },
   {
-    "question": "Có bao nhiêu từ tố (token) và bao nhiêu từ vị (lexeme) trong đoạn chương trình dưới đây:\nprogram ctl;\nvar x:integer; y:integer; z:integer;\nbegin\nx := readI;\ny := readI;\nz := x + y;\ncall writeI(z);\nend.",
+    "question": "Có bao nhiêu từ tố (token) và bao nhiêu từ vị (lexeme) trong đoạn chương trình dưới đây:<br>program ctl;<br>var x:integer; y:integer; z:integer;<br>begin<br>x := readI;<br>y := readI;<br>z := x + y;<br>call writeI(z);<br>end.",
     "answers": [
       { "text": "13 từ tố và 17 từ vị", "isCorrect": false },
       { "text": "13 từ tố và 18 từ vị", "isCorrect": true },
@@ -633,7 +633,7 @@
     ]
   },
   {
-    "question": "Xét định nghĩa tựa cú pháp\nSản xuất\t\t\tQuy tắc ngữ nghĩa\nE -> E1 # T\t\t\tE.value = E1.value * T.value\nE -> T\t\t\tE.value = T.value\nT -> T1 & F\t\t\tT.value = T1.value + F.value\nT -> F\t\t\tT.value = F.value\nF -> num\t\t\tF.value = num.lexvalue\nĐâu là giá trị thuộc tính value của biểu thức 2 # 3 & 5 # 6 & 4, biết rằng thuộc tính lexvalue của số là giá trị của số đó do bộ phân tích từ vựng lưu trữ",
+    "question": "Xét định nghĩa tựa cú pháp<br>Sản xuất&emsp;&emsp;&emsp;Quy tắc ngữ nghĩa<br>E -> E1 # T&emsp;&emsp;&emsp;E.value = E1.value * T.value<br>E -> T&emsp;&emsp;&emsp;E.value = T.value<br>T -> T1 & F&emsp;&emsp;&emsp;T.value = T1.value + F.value<br>T -> F&emsp;&emsp;&emsp;T.value = F.value<br>F -> num&emsp;&emsp;&emsp;F.value = num.lexvalue<br>Đâu là giá trị thuộc tính value của biểu thức 2 # 3 & 5 # 6 & 4, biết rằng thuộc tính lexvalue của số là giá trị của số đó do bộ phân tích từ vựng lưu trữ",
     "answers": [
       { "text": "40", "isCorrect": false },
       { "text": "160", "isCorrect": true },
@@ -642,7 +642,7 @@
     ]
   },
   {
-    "question": "Lựa chọn nào dưới đây là đúng về sự tương ứng của các công cụ ở nhóm 1 với các giai đoạn của compiler\nNhóm 1:\nA. Biểu thức chính quy\nB. Otômat đẩy xuống\nC. Đồ thị dòng điều khiển\nD. Phân phối thanh ghi\nNhóm 2:\n1. Phân tích cú pháp\n2. Sinh mã\n3. Phân tích từ vựng\n4. Tối ưu mã",
+    "question": "Lựa chọn nào dưới đây là đúng về sự tương ứng của các công cụ ở nhóm 1 với các giai đoạn của compiler<br>Nhóm 1:<br>A. Biểu thức chính quy<br>B. Otômat đẩy xuống<br>C. Đồ thị dòng điều khiển<br>D. Phân phối thanh ghi<br>Nhóm 2:<br>1. Phân tích cú pháp<br>2. Sinh mã<br>3. Phân tích từ vựng<br>4. Tối ưu mã",
     "answers": [
       { "text": "A-4, B-1, C-2, D-3", "isCorrect": false },
       { "text": "A-3, B-1, C-4, D-2", "isCorrect": true },
@@ -651,7 +651,7 @@
     ]
   },
   {
-    "question": "Cho văn phạm\nS -> aAbB | bAaB | ε\nA -> S\nB -> S\nKết quả nào dưới đây là đúng?",
+    "question": "Cho văn phạm<br>S -> aAbB | bAaB | ε<br>A -> S<br>B -> S<br>Kết quả nào dưới đây là đúng?",
     "answers": [
       { "text": "FIRST(A) = FIRST(B) = {a, b, ε}, FOLLOW(A) = {a, b}, FOLLOW(B) = {a, b, $}", "isCorrect": true },
       { "text": "FIRST(A) = {a, b, $}, FIRST(B) = {a, b, ε}, FOLLOW(A) = {a, b}, FOLLOW(B) = {$}", "isCorrect": false },
@@ -660,16 +660,16 @@
     ]
   },
   {
-    "question": "Cho văn phạm G viết trên EBNF:\nboolExp → true | false | boolExp {or boolExp} | boolExp {and boolExpr}\nKhẳng định nào dưới đây là không đúng?",
+    "question": "Cho văn phạm G viết trên EBNF:<br>boolExp → true | false | boolExp {or boolExp} | boolExp {and boolExpr}<br>Khẳng định nào dưới đây là không đúng?",
     "answers": [
       {
-        "text": "Văn phạm G viết dưới dạng BNF là:\n<boolExp> → 'true' | 'false' | <boolExp> 'or' <boolExp> | <boolExp> 'and' <boolExpr>",
+        "text": "Văn phạm G viết dưới dạng BNF là:<br><boolExp> → 'true' | 'false' | <boolExp> 'or' <boolExp> | <boolExp> 'and' <boolExpr>",
         "isCorrect": false
       },
       { "text": "Văn phạm G là nhập nhằng", "isCorrect": true },
       { "text": "Văn phạm G là đơn nghĩa", "isCorrect": false },
       {
-        "text": "Văn phạm G tương đương với văn phạm:\n<boolExp> → <disjunction> | <disjunction> 'and' <boolExp>\n<disjunction> → <primitive> | <primitive> 'or' <disjunction>\n<primitive> → 'true' | 'false'",
+        "text": "Văn phạm G tương đương với văn phạm:<br><boolExp> → <disjunction> | <disjunction> 'and' <boolExp><br><disjunction> → <primitive> | <primitive> 'or' <disjunction><br><primitive> → 'true' | 'false'",
         "isCorrect": false
       }
     ]
