@@ -1,0 +1,677 @@
+[
+  {
+    "question": "Ngôn ngữ nào dưới đây có trình dịch hoàn toàn là compiler?",
+    "answers": [
+      { "text": "VISUAL BASIC", "isCorrect": false },
+      { "text": "PYTHON", "isCorrect": false },
+      { "text": "PASCAL", "isCorrect": true },
+      { "text": "RUBY", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Khẳng định nào dưới đây không thể hiện sự khác biệt giữa trình biên dịch (compiler) và trình thông dịch (interpreter)?",
+    "answers": [
+      {
+        "text": "Đầu vào của compiler là toàn bộ chương trình trong khi đầu vào của interpreter là từng dòng lệnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Chương trình viết trên ngôn ngữ dùng trình dịch compiler chạy chậm hơn chương trình viết trên ngôn ngữ dùng trình dịch interpreter.",
+        "isCorrect": true
+      },
+      {
+        "text": "Compiler báo lỗi sau khi phân tích toàn bộ chương trình trong khi interpreter báo lỗi ngay tại dòng lệnh gặp lỗi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Compiler dịch chương trình nguồn ra ngôn ngữ máy, trong khi interpreter dịch ra ngôn ngữ trung gian.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là thứ tự đúng của các quá trình trong compiler?",
+    "answers": [
+      { "text": "Sinh mã => Phân tích cú pháp => Phân tích từ vựng", "isCorrect": false },
+      { "text": "Phân tích cú pháp => Sinh mã => Phân tích từ vựng", "isCorrect": false },
+      { "text": "Phân tích từ vựng => Phân tích cú pháp => Sinh mã", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Loại chương trình hệ thống nào dưới đây tích hợp các mô-đun được biên dịch riêng lẻ của chương trình thành một dạng có thể thực thi được?",
+    "answers": [
+      { "text": "compiler", "isCorrect": false },
+      { "text": "debugger", "isCorrect": false },
+      { "text": "assembler", "isCorrect": false },
+      { "text": "linker", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Một lập trình viên viết nhầm chương trình thành nhân hai số thay vì chia hai số đó, loại trình dịch nào dưới đây phát hiện được lỗi này?",
+    "answers": [
+      { "text": "compiler", "isCorrect": false },
+      { "text": "interpreter", "isCorrect": false },
+      { "text": "cả compiler lẫn interpreter", "isCorrect": false },
+      { "text": "không loại trình dịch nào", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Lớp văn phạm nào dưới đây tương đương với ôtômat hữu hạn?",
+    "answers": [
+      { "text": "Loại 0", "isCorrect": false },
+      { "text": "Loại 1", "isCorrect": false },
+      { "text": "Loại 2", "isCorrect": false },
+      { "text": "Loại 3", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Văn phạm sinh ra 2 cây phân tích cú pháp cho một xâu nào đó gọi là",
+    "answers": [
+      { "text": "Đơn nghĩa", "isCorrect": false },
+      { "text": "Nhập nhằng", "isCorrect": true },
+      { "text": "Phi ngữ cảnh", "isCorrect": false },
+      { "text": "Tuyến tính", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Văn phạm S -> AaA, A -> Aa, A -> a có nhập nhằng không?",
+    "answers": [
+      { "text": "Có", "isCorrect": true },
+      { "text": "Không", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Cho văn phạm E -> E * F | F + E | F, F -> F - F | id. Khẳng định nào dưới đây là đúng?",
+    "answers": [
+      { "text": "* có thứ tự ưu tiên cao hơn +", "isCorrect": false },
+      { "text": "- có tứ tự ưu tiên cao hơn *", "isCorrect": true },
+      { "text": "+ và - có cùng thứ tự ưu tiên", "isCorrect": false },
+      { "text": "+ có thứ tự ưu tiên cao hơn *", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Những công cụ nào dưới đây để biểu diễn cú pháp của ngôn ngữ lập trình?",
+    "answers": [
+      { "text": "Sơ đồ cú pháp", "isCorrect": true },
+      { "text": "Ôtômat tuyến tính giới nội", "isCorrect": false },
+      { "text": "Dạng chuẩn BNF", "isCorrect": true },
+      { "text": "Biểu thức chính quy", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Khẳng định nào dưới đây là đúng trong ngôn ngữ KPL?",
+    "answers": [
+      { "text": "Chương trình bắt buộc phải có dòng đầu chứa tên chương trình.", "isCorrect": true },
+      { "text": "Sau khi khai báo biến vẫn có thể viết khai báo hằng bắt đầu bằng từ khóa CONST", "isCorrect": false },
+      { "text": "Bắt buộc khai báo thủ tục trước khai báo hàm.", "isCorrect": false },
+      {
+        "text": "Chương trình không thể không có phần khai báo (hằng, kiểu, biến, chương trình con).",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Khẳng định nào là sai về chương trình con trong ngôn ngữ KPL?",
+    "answers": [
+      { "text": "Kiểu trả về của hàm chỉ có thể là char hoặc integer.", "isCorrect": false },
+      { "text": "Kiểu của tham số có thể là mảng nếu ta dùng một tên cho nó trong khai báo kiểu.", "isCorrect": true },
+      { "text": "Hàm không tham số khi khai báo không dùng cặp ngoặc đơn.", "isCorrect": false },
+      { "text": "Các hàm chuẩn để đọc vào đều không có tham số.", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Khai báo hằng nào dưới đây là đúng cú pháp của KPL?",
+    "answers": [
+      { "text": "CONST I=1,J=2;", "isCorrect": false },
+      { "text": "CONST I:=1; J:= I+2;", "isCorrect": false },
+      { "text": "CONST I=-1; J=I;", "isCorrect": true },
+      { "text": "CONST I=1; J=I+1;", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Khẳng định nào dưới đây là đúng về kiểu mảng của KPL?",
+    "answers": [
+      { "text": "Ngôn ngữ chỉ cho phép dùng mảng 1 chiều.", "isCorrect": false },
+      { "text": "Ngôn ngữ cho phép dùng mảng với số chiều bất kỳ.", "isCorrect": true },
+      { "text": "Ngôn ngữ cho phép dùng mảng 1 chiều và 2 chiều.", "isCorrect": false },
+      { "text": "Phần tử ở dòng 2, cột 3 của ma trận A được viết là A(.1,3.).", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Biểu thức nào dưới đây là đúng cú pháp của KPL?",
+    "answers": [
+      { "text": "a+-b", "isCorrect": false },
+      { "text": "a-- - --b", "isCorrect": false },
+      { "text": "-5 + a * b", "isCorrect": true },
+      { "text": "5 + f(a) - g()", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Thành phần nào dưới đây không thuộc hình trạng của giải thuật phân tích cú pháp dưới lên quay lui?",
+    "answers": [
+      { "text": "Trạng thái hiện hành", "isCorrect": false },
+      { "text": "Vị trí ký hiệu đang xét", "isCorrect": false },
+      { "text": "Lịch sử gạt - thu gọn", "isCorrect": false },
+      { "text": "Dạng câu trái", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Tập ký hiệu nào dưới đây được dùng trong stack D2 của bộ phân tích cú pháp trên xuống?",
+    "answers": [
+      { "text": "Tập ký hiệu kết thúc của văn phạm", "isCorrect": false },
+      { "text": "Tập ký hiệu không kết thúc của văn phạm", "isCorrect": false },
+      { "text": "Tập tất cả các ký hiệu của văn phạm", "isCorrect": true },
+      { "text": "Tập tất cả các ký hiệu là vế trái sản xuất đệ quy của văn phạm", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Văn phạm A → AA | (A) | ε không thích hợp cho phân tích cú pháp từ trên xuống vì",
+    "answers": [
+      { "text": "Nhập nhằng", "isCorrect": false },
+      { "text": "Đệ quy trái", "isCorrect": true },
+      { "text": "Đệ quy phải", "isCorrect": false },
+      { "text": "Là văn phạm thứ bậc toán tử", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Kết quả của bộ phân tích cú pháp trên xuống là",
+    "answers": [
+      { "text": "Phân tích phải", "isCorrect": false },
+      { "text": "Phân tích trái", "isCorrect": true },
+      { "text": "Nghịch đảo của phân tích phải", "isCorrect": false },
+      { "text": "Nghịch đảo của phân tích trái", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Phương pháp phân tích dưới lên gạt - thu gọn (shift - reduce) có thể gặp xung đột ...",
+    "answers": [
+      { "text": "chỉ trong trường hợp thu gọn với các vế phải khác nhau", "isCorrect": false },
+      { "text": "chỉ khi có các khả năng gạt ký hiệu khác nhau", "isCorrect": false },
+      { "text": "khi có 2 khả năng gạt với thu gọn và khi thu gọn với các vế phải khác nhau", "isCorrect": true },
+      { "text": "chỉ khi có 2 khả năng gạt và thu gọn", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Ngôn ngữ Visual Foxpro còn có các công cụ cho phép tạo form, báo cáo và viết chương trình thao tác dữ liệu. Hãy cho biết Visual Foxpro thuộc thế hệ thứ mấy?",
+    "answers": [
+      { "text": "2", "isCorrect": false },
+      { "text": "3", "isCorrect": false },
+      { "text": "4", "isCorrect": true },
+      { "text": "5", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Từ khoá nào dưới đây có thể thay thế OP trong lệnh máy: OP p q nếu mô tả của lệnh là t:=t+1; s[t]:=s[base(p)+q]; (t là đỉnh stack)",
+    "answers": [
+      { "text": "LA", "isCorrect": false },
+      { "text": "LC", "isCorrect": false },
+      { "text": "LI", "isCorrect": false },
+      { "text": "LV", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Khẳng định nào dưới đây là không đúng cho lớp ngôn ngữ LR(1)",
+    "answers": [
+      { "text": "Thích hợp để phân tích cú pháp quay lui từ dưới lên", "isCorrect": true },
+      { "text": "Là lớp con của lớp ngôn ngữ phi ngữ cảnh", "isCorrect": false },
+      { "text": "Hầu hết các ngôn ngữ lập trình phổ biến thuộc lớp này", "isCorrect": false },
+      { "text": "Được chứa trong lớp LR(k)", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Trong các văn phạm dưới đây, văn phạm nào nhập nhằng?",
+    "answers": [
+      { "text": "S -> AaA, A -> Aa, A -> a", "isCorrect": true },
+      { "text": "S -> aSb, S -> bSa, S -> c", "isCorrect": false },
+      { "text": "S -> F, S -> (S + F), F -> a", "isCorrect": false },
+      { "text": "S -> 0S, S -> S, S -> 1", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Để mô tả hoạt động của giải thuật phân tích dưới lên tiền định người ta dùng",
+    "answers": [
+      { "text": "Trạng thái", "isCorrect": false },
+      { "text": "Stack", "isCorrect": false },
+      { "text": "Hình trạng", "isCorrect": true },
+      { "text": "Phân tích trái", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Khẳng định nào dưới đây là đúng cho lớp ngôn ngữ LL(1)",
+    "answers": [
+      { "text": "Không ngôn ngữ LL(1) nào là ngôn ngữ chính quy", "isCorrect": false },
+      { "text": "Tồn tại ngôn ngữ LL(1) nằm ngoài lớp ngôn ngữ cảm ngữ cảnh", "isCorrect": false },
+      { "text": "Tồn văn phạm đệ quy trái tương đương với văn phạm LL(1)", "isCorrect": true },
+      { "text": "Tồn tại văn phạm LL(1) nhập nhằng", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Các lệnh dưới đây, lệnh nào viết bằng mã ba địa chỉ được giới thiệu?",
+    "answers": [
+      { "text": "t[i+1]:=x", "isCorrect": false },
+      { "text": "t[i]:=y", "isCorrect": true },
+      { "text": "t[i]:=1 + i", "isCorrect": false },
+      { "text": "a:=t[i]+b", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Việc phân tích ngữ nghĩa được tiến hành",
+    "answers": [
+      { "text": "Đồng thời với phân tích cú pháp", "isCorrect": false },
+      { "text": "Sau khi đã biết toàn bộ chương trình đúng cú pháp", "isCorrect": false },
+      { "text": "Vào bất cứ thời điểm nào trong chương trình dịch", "isCorrect": false },
+      { "text": "Trước khi sinh mã đích", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Cấu trúc dữ liệu nào là thích hợp nhất để lưu trữ mã đích?",
+    "answers": [
+      { "text": "Mảng", "isCorrect": false },
+      { "text": "Tệp", "isCorrect": true },
+      { "text": "Danh sách liên kết", "isCorrect": false },
+      { "text": "Stack", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Xử lý nào dưới đây để khử đệ quy trái:",
+    "answers": [
+      { "text": "Chuyển đệ quy trái thành đệ quy phải", "isCorrect": true },
+      { "text": "Thêm ký hiệu kết thúc mới", "isCorrect": false },
+      { "text": "Không được thêm ký hiệu không kết thúc mới", "isCorrect": false },
+      { "text": "Loại bỏ một số sản xuất không đệ quy trái", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Ngôn ngữ để viết chương trình dịch được gọi là",
+    "answers": [
+      { "text": "Ngôn ngữ đích", "isCorrect": false },
+      { "text": "Ngôn ngữ điều khiển", "isCorrect": false },
+      { "text": "Ngôn ngữ nguồn", "isCorrect": false },
+      { "text": "Ngôn ngữ thực hiện", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Đầu vào của bộ sinh phân tích từ vựng là",
+    "answers": [
+      { "text": "Chương trình nguồn", "isCorrect": false },
+      { "text": "Chương trình viết trên mã trung gian", "isCorrect": false },
+      { "text": "Tập các định nghĩa chính quy", "isCorrect": true },
+      { "text": "Văn phạm chính quy", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Thuộc tính kế thừa là thuộc tính nào dưới đây?",
+    "answers": [
+      { "text": ".val của biểu thức số học", "isCorrect": false },
+      { "text": ".code trong sinh mã trung gian", "isCorrect": false },
+      { "text": ".place trong sinh mã trung gian", "isCorrect": false },
+      { "text": "Không thuộc tính nào nói trên", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Văn phạm nào dưới đây ở dạng chuẩn Chomsky?",
+    "answers": [
+      { "text": "X -> Y Z, Y -> a, Z -> bc", "isCorrect": false },
+      { "text": "X -> Y ZW, Y -> a, Z -> b, W -> c", "isCorrect": false },
+      { "text": "X -> Y Z, Y -> WW, Z -> a, W -> b | c", "isCorrect": true },
+      { "text": "X -> aY, Y -> b | c", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Lệnh nào dưới đây có mô tả: s[t+2]:=b; s[t+3]:=pc; s[t+4]:=base(p); b:=t+1; pc:=q; với t là đỉnh stack",
+    "answers": [
+      { "text": "EQ", "isCorrect": false },
+      { "text": "CALL", "isCorrect": true },
+      { "text": "EP", "isCorrect": false },
+      { "text": "EF", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Cho văn phạm S -> aSb, S -> c và xâu aacbb. Hình trạng nào là hình trạng ngay sau (q, 3, S1aS1a, Sbb#)?",
+    "answers": [
+      { "text": "(q, 3, S1aS1aS2, cbb#)", "isCorrect": false },
+      { "text": "(q, 3, S1aS1aS1, aSbbb#)", "isCorrect": true },
+      { "text": "(b, 3, S1aS1a, Sbb#)", "isCorrect": false },
+      { "text": "Không lựa chọn nào đúng", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Đâu là tên của một bộ sinh phân tích cú pháp?",
+    "answers": [
+      { "text": "Lex", "isCorrect": false },
+      { "text": "Flex", "isCorrect": false },
+      { "text": "Bison", "isCorrect": true },
+      { "text": "Compiler - compiler", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Dòng nào dưới đây đúng cú pháp KPL?",
+    "answers": [
+      { "text": "type a := integer;", "isCorrect": false },
+      { "text": "const a =-1; b =-a;", "isCorrect": true },
+      { "text": "const a =-1; b = 1-a;", "isCorrect": false },
+      { "text": "const a :=1; b :=a;", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Giai đoạn nào trong compiler không phụ thuộc máy?",
+    "answers": [
+      { "text": "Phân tích cú pháp", "isCorrect": false },
+      { "text": "Sinh mã trung gian", "isCorrect": false },
+      { "text": "Sinh mã đích", "isCorrect": false },
+      { "text": "Tất cả các giai đoạn nói trên", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Trong các văn phạm dưới đây, văn phạm nào ở dạng chuẩn Chomsky?",
+    "answers": [
+      { "text": "X -> Y Z, Y -> a, Z -> bc", "isCorrect": false },
+      { "text": "X -> Y ZW, Y -> a, Z -> b, W -> c", "isCorrect": false },
+      { "text": "X -> Y Z, Y -> WW, Z -> a, W -> b | c", "isCorrect": true },
+      { "text": "X -> Y Y | c, Y -> Z, Z -> a | b", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Trong những ký hiệu được mô tả dưới đây, ký hiệu nào có thể xuất hiện trong stack D1 của bộ phân tích cú pháp từ trên xuống quay lui?",
+    "answers": [
+      { "text": "Ký hiệu xâu rỗng", "isCorrect": false },
+      { "text": "Ký hiệu kết thúc", "isCorrect": true },
+      { "text": "Số hiệu sản xuất", "isCorrect": false },
+      { "text": "Ký hiệu kết thúc xâu vào", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Phương pháp phân tích Earley sinh ra",
+    "answers": [
+      { "text": "Phân tích trái", "isCorrect": false },
+      { "text": "Phân tích phải", "isCorrect": true },
+      { "text": "Nghịch đảo của phân tích trái", "isCorrect": false },
+      { "text": "Nghịch đảo của phân tích phải", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Cho lệnh KPL a:=1; Nếu thay dấu chấm phẩy bằng dấu chấm hỏi thì lỗi nào sẽ xảy ra?",
+    "answers": [
+      { "text": "Lỗi từ vựng", "isCorrect": true },
+      { "text": "Lỗi cú pháp", "isCorrect": false },
+      { "text": "Lỗi ngữ nghĩa", "isCorrect": false },
+      { "text": "Lỗi trong quá trình sinh mã", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Đồ thị cho thấy mối liên hệ giữa các khối cơ sở gọi là gì?",
+    "answers": [
+      { "text": "Directed acyclic graph", "isCorrect": false },
+      { "text": "View graph", "isCorrect": false },
+      { "text": "Control flow graph", "isCorrect": true },
+      { "text": "Hamiltonian graph", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Loại văn phạm nào không thể phân tích cú pháp theo phương pháp từ dưới lên?",
+    "answers": [
+      { "text": "Nhập nhằng", "isCorrect": false },
+      { "text": "Chứa epsilon sản xuất", "isCorrect": true },
+      { "text": "LR", "isCorrect": false },
+      { "text": "Đệ quy trái", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Kết quả của bộ phân tích cú pháp bottom up quay lui là",
+    "answers": [
+      { "text": "Nghịch đảo của phân tích phải", "isCorrect": false },
+      { "text": "Nghịch đảo của phân tích trái", "isCorrect": false },
+      { "text": "Phân tích phải", "isCorrect": true },
+      { "text": "Phân tích trái", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Compiler có thể phát hiện loại lỗi nào",
+    "answers": [
+      { "text": "Lỗi logic", "isCorrect": false },
+      { "text": "Lỗi cú pháp", "isCorrect": true },
+      { "text": "Cả hai loại", "isCorrect": false },
+      { "text": "Không loại nào nói trên", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Cho văn phạm với các sản xuất: S -> aB | bA | ε, A -> aS | bAA, B -> b. Văn phạm này không là LL(1) vì:",
+    "answers": [
+      { "text": "Văn phạm đệ quy phải", "isCorrect": false },
+      { "text": "Văn phạm vi phạm điều kiện LL(1)", "isCorrect": true },
+      { "text": "Văn phạm nhập nhằng", "isCorrect": false },
+      { "text": "Không phải những lý do nói trên", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Cho văn phạm với các sản xuất S → FR, R → *S | ε, F → id Trong bảng phân tích M của văn phạm, các ô M[S, id] và M[R, *] tương ứng là",
+    "answers": [
+      { "text": "{S -> FR} và {R -> ε}", "isCorrect": false },
+      { "text": "{S -> FR} và {} (lỗi)", "isCorrect": false },
+      { "text": "{S -> FR} và {R -> *S}", "isCorrect": true },
+      { "text": "{F -> id} và {R -> ε}", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Khẳng định nào dưới đây là sai?",
+    "answers": [
+      {
+        "text": "Văn phạm phi ngữ cảnh là nhập nhằng nếu tồn tại một câu có suy dẫn phải và suy dẫn trái giống nhau",
+        "isCorrect": true
+      },
+      { "text": "Bộ phân tích cú pháp LL(k) theo phương pháp top-down", "isCorrect": false },
+      { "text": "Lớp LALR chứa lớp SLR", "isCorrect": false },
+      { "text": "Văn phạm nhập nhằng không là LL(k) với mọi k", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Dãy nào dưới đây chỉ một thứ tự đúng?",
+    "answers": [
+      { "text": "Assembler → Compiler → Preprocessor → Linker", "isCorrect": false },
+      { "text": "Compiler → Assembler → Preprocessor → Linker", "isCorrect": false },
+      { "text": "Preprocessor → Compiler → Assembler → Linker", "isCorrect": true },
+      { "text": "Assembler → Compiler → Linker → Preprocessor", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Trong quá trình dịch, compiler cần tìm ra các … xuất hiện trong chương trình.",
+    "answers": [
+      { "text": "Lớp", "isCorrect": false },
+      { "text": "Đối tượng", "isCorrect": false },
+      { "text": "Lỗi", "isCorrect": true },
+      { "text": "Định danh", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Thành phần thứ mấy trong bộ phân tích cú pháp trên xuống quay lui có thể chứa tất cả các ký hiệu của văn phạm",
+    "answers": [
+      { "text": "1", "isCorrect": false },
+      { "text": "2", "isCorrect": false },
+      { "text": "3", "isCorrect": false },
+      { "text": "4", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Bộ phân tích cú pháp LR thuộc",
+    "answers": [
+      { "text": "Dưới lên", "isCorrect": true },
+      { "text": "Lùi", "isCorrect": false },
+      { "text": "Tiến", "isCorrect": false },
+      { "text": "Trên xuống", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Đâu là kỹ thuật để lệnh if trong KPL có thể phân tích cú pháp bằng phương pháp đệ quy trên xuống",
+    "answers": [
+      { "text": "Nhân tử", "isCorrect": false },
+      { "text": "Nhân tử ngược", "isCorrect": false },
+      { "text": "Nhân tử phải", "isCorrect": true },
+      { "text": "Nhân tử trái", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Công cụ nào dưới đây thích hợp nhất để mô tả các từ tự của một ngôn ngữ lập trình?",
+    "answers": [
+      { "text": "Văn phạm chính quy", "isCorrect": false },
+      { "text": "Bộ phân tích từ vựng", "isCorrect": false },
+      { "text": "Biểu thức chính quy", "isCorrect": true },
+      { "text": "Otômat hữu hạn", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Từ tố nào sau đây có thể được bộ phân tích từ vựng KPL nhận diện mà không cần đọc dư một ký tự?",
+    "answers": [
+      { "text": "Định danh", "isCorrect": false },
+      { "text": "Begin", "isCorrect": false },
+      { "text": "<=", "isCorrect": true },
+      { "text": "<", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Một văn phạm là vô nghĩa nếu",
+    "answers": [
+      { "text": "Tập ký hiệu kết thúc và tập ký hiệu không kết thúc có chứa ký hiệu chung", "isCorrect": true },
+      { "text": "Tồn tại vế trái của sản xuất chứa nhiều hơn một ký hiệu", "isCorrect": false },
+      { "text": "Tồn tại vế trái của một sản xuất là ký hiệu kết thúc", "isCorrect": false },
+      { "text": "Tồn tại vế phải của một sản xuất không chứa ký hiệu kết thúc", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Kỹ thuật tối ưu có thể ứng dụng cho vòng lặp là",
+    "answers": [
+      { "text": "Chuyển các tính toán bất biến trong vòng lặp ra ngoài vòng lặp", "isCorrect": true },
+      { "text": "Thay thế một toán tử bằng toán tử có chi phí tính toán nhỏ hơn", "isCorrect": true },
+      { "text": "Tính giá trị hằng", "isCorrect": true },
+      { "text": "Tất cả các kỹ thuật nói trên", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Phân tích phải là",
+    "answers": [
+      {
+        "text": "Dãy số nguyên là số thứ tự của các sản xuất không đệ quy được dùng trong suy dẫn trái",
+        "isCorrect": false
+      },
+      {
+        "text": "Nghịch đảo của dãy số nguyên là số thứ tự của các sản xuất được dùng trong suy dẫn phải",
+        "isCorrect": true
+      },
+      { "text": "Dãy số nguyên là số thứ tự của các sản xuất được dùng trong suy dẫn phải", "isCorrect": false },
+      { "text": "Không là đối tượng nào nói trên", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Cho văn phạm:\nA -> x C B\nB -> z | A x\nC -> y B z | ε\ntrong đó {A, B, C} là tập ký hiệu không kết thúc, A là ký hiệu đầu. Giá trị của ô M[C, $] trong bảng phân tích tiền định là",
+    "answers": [
+      { "text": "Lỗi", "isCorrect": true },
+      { "text": "ε", "isCorrect": false },
+      { "text": "xCB", "isCorrect": false },
+      { "text": "Ax", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Chiến lược tối ưu nào có thể áp dụng cho đoạn mã\n(1) i = 4\n(2) t1 = i + 1\n(3) t2 = b[t1]\n(4) a[t1] = t2",
+    "answers": [
+      { "text": "Loại mã chết", "isCorrect": false },
+      { "text": "Loại biểu thức con chung", "isCorrect": false },
+      { "text": "Tính giá trị hằng", "isCorrect": true },
+      { "text": "Loại những đoạn mã dư thừa bộ phận", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Cho văn phạm G = ({+,*, (,), id}, {E}, P, E) với P bao gồm các sản xuất: E → E + E |  E * E | (E) | id. Điều nào dưới đây là đúng với văn phạm G?",
+    "answers": [
+      { "text": "Văn phạm là đơn nghĩa", "isCorrect": false },
+      { "text": "Văn phạm là nhập nhằng", "isCorrect": true },
+      { "text": "Văn phạm là LL(1)", "isCorrect": false },
+      { "text": "Văn phạm không là LL(1) nhưng là LL(2)", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Lựa chọn nào dưới đây là mô tả của cán (handle) trong phân tích tiền định từ dưới lên",
+    "answers": [
+      {
+        "text": "Là vị trí của ký hiệu sẽ thực hiện hành động 'gạt' (shift) hoặc 'thu gọn' (reduce) trên dạng câu hiện tại",
+        "isCorrect": false
+      },
+      {
+        "text": "Là ký hiệu không kết thúc xuất hiện ở vế trái của sản xuất chuẩn bị được dùng cho hành động 'thu gọn' (reduce) tiếp theo",
+        "isCorrect": false
+      },
+      {
+        "text": "Là vế phải của sản xuất chuẩn bị được dùng cho hành động 'thu gọn' (reduce) nào đó trong tương lai",
+        "isCorrect": false
+      },
+      {
+        "text": "Là vế phải của sản xuất chuẩn bị được dùng cho hành động 'thu gọn' (reduce) tiếp theo",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Xử lý nào có trong bộ phân tích cú pháp theo phương pháp đệ quy trên xuống cho một tập các sơ đồ cú pháp của một ngôn ngữ lập trình?",
+    "answers": [
+      { "text": "Mỗi nhánh của sơ đồ chuyển thành một lời gọi thủ tục", "isCorrect": false },
+      {
+        "text": "Mỗi ký hiệu kết thúc trên sơ đồ được chuyển thành một đoạn đối chiếu với các sản xuất của văn phạm",
+        "isCorrect": false
+      },
+      {
+        "text": "Mỗi chu trình được chuyển thành câu lệnh lặp hoặc một đoạn đối chiếu từ tố phụ thuộc nút tròn hay nút chữ nhật đứng ở đầu chu trình",
+        "isCorrect": false
+      },
+      { "text": "Mỗi ký hiệu không kết thúc trên sơ đồ được chuyển thành một lời gọi thủ tục", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Có bao nhiêu từ tố (token) và bao nhiêu từ vị (lexeme) trong đoạn chương trình dưới đây:\nprogram ctl;\nvar x:integer; y:integer; z:integer;\nbegin\nx := readI;\ny := readI;\nz := x + y;\ncall writeI(z);\nend.",
+    "answers": [
+      { "text": "13 từ tố và 17 từ vị", "isCorrect": false },
+      { "text": "13 từ tố và 18 từ vị", "isCorrect": true },
+      { "text": "15 từ tố và 20 từ vị", "isCorrect": false },
+      { "text": "13 từ tố và 37 từ vị", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Xét định nghĩa tựa cú pháp\nSản xuất\t\t\tQuy tắc ngữ nghĩa\nE -> E1 # T\t\t\tE.value = E1.value * T.value\nE -> T\t\t\tE.value = T.value\nT -> T1 & F\t\t\tT.value = T1.value + F.value\nT -> F\t\t\tT.value = F.value\nF -> num\t\t\tF.value = num.lexvalue\nĐâu là giá trị thuộc tính value của biểu thức 2 # 3 & 5 # 6 & 4, biết rằng thuộc tính lexvalue của số là giá trị của số đó do bộ phân tích từ vựng lưu trữ",
+    "answers": [
+      { "text": "40", "isCorrect": false },
+      { "text": "160", "isCorrect": true },
+      { "text": "180", "isCorrect": false },
+      { "text": "200", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Lựa chọn nào dưới đây là đúng về sự tương ứng của các công cụ ở nhóm 1 với các giai đoạn của compiler\nNhóm 1:\nA. Biểu thức chính quy\nB. Otômat đẩy xuống\nC. Đồ thị dòng điều khiển\nD. Phân phối thanh ghi\nNhóm 2:\n1. Phân tích cú pháp\n2. Sinh mã\n3. Phân tích từ vựng\n4. Tối ưu mã",
+    "answers": [
+      { "text": "A-4, B-1, C-2, D-3", "isCorrect": false },
+      { "text": "A-3, B-1, C-4, D-2", "isCorrect": true },
+      { "text": "A-3, B-4, C-1, D-2", "isCorrect": false },
+      { "text": "A-2, B-1, C-4, D-3", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Cho văn phạm\nS -> aAbB | bAaB | ε\nA -> S\nB -> S\nKết quả nào dưới đây là đúng?",
+    "answers": [
+      { "text": "FIRST(A) = FIRST(B) = {a, b, ε}, FOLLOW(A) = {a, b}, FOLLOW(B) = {a, b, $}", "isCorrect": true },
+      { "text": "FIRST(A) = {a, b, $}, FIRST(B) = {a, b, ε}, FOLLOW(A) = {a, b}, FOLLOW(B) = {$}", "isCorrect": false },
+      { "text": "FIRST(A) = FIRST(B) = {a, b, ε}, FOLLOW(A) = {a, b}, FOLLOW(B) = Ø", "isCorrect": false },
+      { "text": "FIRST(A) = FIRST(B) = {a, b, ε}, FOLLOW(A) = {a, b}, FOLLOW(B) = {a, b}", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Cho văn phạm G viết trên EBNF:\nboolExp → true | false | boolExp {or boolExp} | boolExp {and boolExpr}\nKhẳng định nào dưới đây là không đúng?",
+    "answers": [
+      {
+        "text": "Văn phạm G viết dưới dạng BNF là:\n<boolExp> → 'true' | 'false' | <boolExp> 'or' <boolExp> | <boolExp> 'and' <boolExpr>",
+        "isCorrect": false
+      },
+      { "text": "Văn phạm G là nhập nhằng", "isCorrect": true },
+      { "text": "Văn phạm G là đơn nghĩa", "isCorrect": false },
+      {
+        "text": "Văn phạm G tương đương với văn phạm:\n<boolExp> → <disjunction> | <disjunction> 'and' <boolExp>\n<disjunction> → <primitive> | <primitive> 'or' <disjunction>\n<primitive> → 'true' | 'false'",
+        "isCorrect": false
+      }
+    ]
+  }
+]
