@@ -1,0 +1,5315 @@
+[
+  {
+    "question": "DPI là viết tắt của",
+    "answers": [
+      {
+        "text": "Dots per inch",
+        "isCorrect": true
+      },
+      {
+        "text": "Digital processing image",
+        "isCorrect": false
+      },
+      {
+        "text": "Data per inch",
+        "isCorrect": false
+      },
+      {
+        "text": "Data processing image",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Công thức tính độ tinh khiết của ánh sáng",
+    "answers": [
+      {
+        "text": "ED - EW",
+        "isCorrect": true
+      },
+      {
+        "text": "ED + EW",
+        "isCorrect": false
+      },
+      {
+        "text": "EW - ED",
+        "isCorrect": false
+      },
+      {
+        "text": "ED * EW",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ngưỡng nghe của người nằm trong khoảng",
+    "answers": [
+      {
+        "text": "20-20000 Hz",
+        "isCorrect": true
+      },
+      {
+        "text": "0-20000 Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "20-22000 Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "20-18000 Hz",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhóm Các phần tử có loại không thuộc thành phần  tạo nên multi media",
+    "answers": [
+      {
+        "text": "Image, Computer",
+        "isCorrect": true
+      },
+      {
+        "text": "Video, Graphic",
+        "isCorrect": false
+      },
+      {
+        "text": "Audio, Text",
+        "isCorrect": false
+      },
+      {
+        "text": "Image, Animation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "... là quy trình chuyển đổi từ tín hiệu analog sang tín hiệu số",
+    "answers": [
+      {
+        "text": "digitizing",
+        "isCorrect": true
+      },
+      {
+        "text": "sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "recording",
+        "isCorrect": false
+      },
+      {
+        "text": "stretching",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": " Thứ tự các bước trong quy trình vận hành của PCM ",
+    "answers": [
+      {
+        "text": "sampling, quantizing, encoding",
+        "isCorrect": true
+      },
+      {
+        "text": "Quantizing, encoding, sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Quantizing, sampling, encoding",
+        "isCorrect": false
+      },
+      {
+        "text": "Không đáp án nào trên đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đáp án nào là sai khi nói về video ?",
+    "answers": [
+      {
+        "text": "cả 3 đáp án trên đều sai",
+        "isCorrect": true
+      },
+      {
+        "text": "yêu cầu VRAM và không gian lưu trữ cao",
+        "isCorrect": false
+      },
+      {
+        "text": "thường yêu cầu nén dữ liệu (CODEC) để cho phép một tệp nhỏ hơn và giải nén để phát",
+        "isCorrect": false
+      },
+      {
+        "text": "Video là ghi hình ảnh thực",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Điều nào sau đây đúng về compression",
+    "answers": [
+      {
+        "text": "Giảm số lượng bytes cần thiết để tiện cho việc lưu trữ",
+        "isCorrect": true
+      },
+      {
+        "text": "Giảm độ rõ nét của bức ảnh phục vụ cho việc lưu trữ",
+        "isCorrect": false
+      },
+      {
+        "text": "Giảm độ phân giải",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả đáp án trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Công cụ để điều phối và tổ chức các chuỗi sự kiện trong game",
+    "answers": [
+      {
+        "text": "Storyboard",
+        "isCorrect": true
+      },
+      {
+        "text": "Simulator",
+        "isCorrect": false
+      },
+      {
+        "text": "Frame",
+        "isCorrect": false
+      },
+      {
+        "text": "Phương án khác",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Định dạng nào sau đây là định dạng cho file video",
+    "answers": [
+      {
+        "text": ".wmv",
+        "isCorrect": true
+      },
+      {
+        "text": ".wav",
+        "isCorrect": false
+      },
+      {
+        "text": ".wma",
+        "isCorrect": false
+      },
+      {
+        "text": ".bmp",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là 3 phương pháp cơ bản thường được sử dụng trong việc tăng cường/ cải thiện hình ảnh (image enhancement)?",
+    "answers": [
+      {
+        "text": "Power law, logarithmic and inverse law",
+        "isCorrect": true
+      },
+      {
+        "text": "Linear, logarithmic and inverse law",
+        "isCorrect": false
+      },
+      {
+        "text": "Linear, logarithmic and power law",
+        "isCorrect": false
+      },
+      {
+        "text": "Linear, exponential and inverse law",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải thuật toán nén ảnh lossless",
+    "answers": [
+      {
+        "text": "Frequency based",
+        "isCorrect": true
+      },
+      {
+        "text": "DPCM",
+        "isCorrect": false
+      },
+      {
+        "text": "LZW",
+        "isCorrect": false
+      },
+      {
+        "text": "Huffman",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Câu nào sau đây sai về histogram của ảnh",
+    "answers": [
+      {
+        "text": "Việc cân bằng histogram của ảnh sẽ làm tăng độ sáng của ảnh đó",
+        "isCorrect": true
+      },
+      {
+        "text": "Chỉ bao gồm các thông tin thống kê",
+        "isCorrect": false
+      },
+      {
+        "text": "Không thể hiện thông tin về vị trí của các pixel ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Các ảnh khác nhau có thể có cùng một histogram",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là phép toán trên các ảnh (Logical Operation)",
+    "answers": [
+      {
+        "text": "Biến đổi Fourier",
+        "isCorrect": true
+      },
+      {
+        "text": "Biến đổi Power-Law (Gamma)",
+        "isCorrect": false
+      },
+      {
+        "text": "Biến đổi Logarithmic",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả ba phương án trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong 1 lược đồ ảnh, trục y biểu diễn đại lượng nào",
+    "answers": [
+      {
+        "text": "Tần số của các cường độ mức xám.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mật độ điểm ảnh.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cường độ mức xám",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các ý trên đều đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Lược đồ xám (histogram) chuẩn của ảnh là",
+    "answers": [
+      {
+        "text": "Xác suất xuất hiện của các mức xám( từ 0 đến 255) trong ảnh số",
+        "isCorrect": true
+      },
+      {
+        "text": "Phân bố mức xám trên bề mặt ảnh số",
+        "isCorrect": false
+      },
+      {
+        "text": "Số lượng mức xám có trong ảnh số",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 đều sai",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Bộ lọc trung vị là ?",
+    "answers": [
+      {
+        "text": "Bộ lọc phi tuyến",
+        "isCorrect": true
+      },
+      {
+        "text": "Bộ lọc thông thấp",
+        "isCorrect": false
+      },
+      {
+        "text": "Bộ lọc tuyến tính",
+        "isCorrect": false
+      },
+      {
+        "text": "Bộ lọc thông cao",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây đúng?",
+    "answers": [
+      {
+        "text": "Hiệu chỉnh gamma là phép biến đổi nhằm tăng cường độ tương phản ảnh.",
+        "isCorrect": true
+      },
+      {
+        "text": "Độ tương phản của ảnh càng cao thì ảnh càng sáng.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hai ảnh khác nhau thì có histogram khác nhau.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cân bằng histogram không dùng để tăng cường độ tương phản ảnh.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hình ảnh kỹ thuật số được biểu diễn như thế nào?",
+    "answers": [
+      {
+        "text": "Bằng các giá trị liên tục",
+        "isCorrect": false
+      },
+      {
+        "text": "Là tập hợp hữu hạn của các giá trị kỹ thuật số gọi là pixel",
+        "isCorrect": true
+      },
+      {
+        "text": "Bằng tín hiệu analog",
+        "isCorrect": false
+      },
+      {
+        "text": "Bằng các phần tử vật lý",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "DIP' trong xử lý hình ảnh kỹ thuật số viết tắt cho từ nào?",
+    "answers": [
+      {
+        "text": "Direct Image Printing",
+        "isCorrect": false
+      },
+      {
+        "text": "Data Input Processing",
+        "isCorrect": false
+      },
+      {
+        "text": "Digital Image Processing",
+        "isCorrect": true
+      },
+      {
+        "text": "Dynamic Image Provisioning",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Cảm biến hình ảnh trong máy ảnh kỹ thuật số thường sử dụng thiết bị nào?",
+    "answers": [
+      {
+        "text": "LCD",
+        "isCorrect": false
+      },
+      {
+        "text": "LED",
+        "isCorrect": false
+      },
+      {
+        "text": "CCD (Charged Coupled Device)",
+        "isCorrect": true
+      },
+      {
+        "text": "Cảm biến cảm ứng điện trở",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mục đích của lượng tử hóa trong xử lý hình ảnh kỹ thuật số là gì?",
+    "answers": [
+      {
+        "text": "Nén hình ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Chuyển đổi tín hiệu biên độ liên tục thành số",
+        "isCorrect": true
+      },
+      {
+        "text": "Tăng độ phân giải hình ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Giảm kích thước hình ảnh để lưu trữ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Độ phân giải pixel trong hình ảnh kỹ thuật số được định nghĩa như thế nào?",
+    "answers": [
+      {
+        "text": "Số bit trên mỗi pixel",
+        "isCorrect": false
+      },
+      {
+        "text": "Tổng số lượng pixel trong hình ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Kích thước của mỗi pixel",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ sâu màu của hình ảnh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Xử lý hình thái trong xử lý hình ảnh kỹ thuật số thường được sử dụng để làm gì?",
+    "answers": [
+      {
+        "text": "Tăng cường cân bằng màu",
+        "isCorrect": false
+      },
+      {
+        "text": "Trích xuất các thành phần hình ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Nén kích thước hình ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Chuyển đổi định dạng hình ảnh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong xử lý hình ảnh kỹ thuật số, 'lấy mẫu' có nghĩa là gì?",
+    "answers": [
+      {
+        "text": "Chọn một phần nhỏ của hình ảnh để xử lý",
+        "isCorrect": false
+      },
+      {
+        "text": "Chuyển hình ảnh thành màu xám",
+        "isCorrect": false
+      },
+      {
+        "text": "Số hóa giá trị tọa độ của hình ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Giảm độ phân giải để dễ xử lý hơn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Độ phân giải mức xám trong một hình ảnh chỉ ra điều gì",
+    "answers": [
+      {
+        "text": "Mức độ sáng của hình ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Số lượng các sắc thái xám khác nhau trong hình ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Tỷ lệ tương phản giữa màu đen và trắng",
+        "isCorrect": false
+      },
+      {
+        "text": "Mật độ pixel trong hình ảnh xám",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ứng dụng nào sau đây của xử lý hình ảnh kỹ thuật số trong lĩnh vực y tế?",
+    "answers": [
+      {
+        "text": "Tạo hoạt hình",
+        "isCorrect": false
+      },
+      {
+        "text": "Điều hướng vệ tinh",
+        "isCorrect": false
+      },
+      {
+        "text": "Thay đổi màu sắc trong ảnh chụp",
+        "isCorrect": false
+      },
+      {
+        "text": "Cải thiện hình ảnh để chẩn đoán tốt hơn",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Mục tiêu chính của nén hình ảnh trong xử lý hình ảnh kỹ thuật số là gì?",
+    "answers": [
+      {
+        "text": "Tăng cường chất lượng hình ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Giảm kích thước tệp mà không mất thông tin quan trọng",
+        "isCorrect": true
+      },
+      {
+        "text": "Chuyển hình ảnh thành màu đen và trắng",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng tốc độ tải hình ảnh trên trình duyệt web",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mô hình màu nào là mô hình phụ gia?",
+    "answers": [
+      {
+        "text": "CMY",
+        "isCorrect": false
+      },
+      {
+        "text": "RGB",
+        "isCorrect": true
+      },
+      {
+        "text": "YIQ",
+        "isCorrect": false
+      },
+      {
+        "text": "HLS",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong mô hình màu RGB, màu nào được tạo ra khi không có ánh sáng?",
+    "answers": [
+      {
+        "text": "Trắng",
+        "isCorrect": false
+      },
+      {
+        "text": "Đen",
+        "isCorrect": true
+      },
+      {
+        "text": "Đỏ",
+        "isCorrect": false
+      },
+      {
+        "text": "Xanh lá",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Chức năng chính của trục 'Y' trong mô hình màu YIQ là gì?",
+    "answers": [
+      {
+        "text": "Màu sắc",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ sáng",
+        "isCorrect": true
+      },
+      {
+        "text": "Độ bão hòa",
+        "isCorrect": false
+      },
+      {
+        "text": "Hue (Màu sắc màu)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mô hình màu CMY thường được sử dụng trong thiết bị nào?",
+    "answers": [
+      {
+        "text": "Màn hình máy tính",
+        "isCorrect": false
+      },
+      {
+        "text": "Máy ảnh kỹ thuật số",
+        "isCorrect": false
+      },
+      {
+        "text": "Máy in",
+        "isCorrect": true
+      },
+      {
+        "text": "Máy quét",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong mô hình màu HSV, 'V' (Value) chỉ đến yếu tố nào?",
+    "answers": [
+      {
+        "text": "Màu sắc màu",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ bão hòa",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ sáng",
+        "isCorrect": true
+      },
+      {
+        "text": "Độ tương phản",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Điểm đặc biệt của mô hình màu HLS so với HSV là gì?",
+    "answers": [
+      {
+        "text": "HLS sử dụng độ sáng và độ bão hòa",
+        "isCorrect": false
+      },
+      {
+        "text": "HLS dựa trên khái niệm màu sắc trực quan",
+        "isCorrect": false
+      },
+      {
+        "text": "HLS có biểu diễn hình nón đôi",
+        "isCorrect": true
+      },
+      {
+        "text": "HLS tập trung vào độ tương phản",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mô hình màu nào được thiết kế để \"tuyến tính nhận thức\"?",
+    "answers": [
+      {
+        "text": "RGB",
+        "isCorrect": false
+      },
+      {
+        "text": "CMYK",
+        "isCorrect": false
+      },
+      {
+        "text": "Luv",
+        "isCorrect": true
+      },
+      {
+        "text": "Lab",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mô hình màu CIE XYZ dựa trên cơ sở nào?",
+    "answers": [
+      {
+        "text": "Ba màu sắc chính",
+        "isCorrect": false
+      },
+      {
+        "text": "Ba nguyên tắc tưởng tượng",
+        "isCorrect": true
+      },
+      {
+        "text": "Độ sáng và độ bão hòa",
+        "isCorrect": false
+      },
+      {
+        "text": "Hue và độ sáng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Chức năng chính của mô hình màu Lab là gì?",
+    "answers": [
+      {
+        "text": "Phù hợp cho in ấn",
+        "isCorrect": false
+      },
+      {
+        "text": "Dựa trên nhận thức màu sắc của con người",
+        "isCorrect": true
+      },
+      {
+        "text": "Dùng cho màn hình hiển thị",
+        "isCorrect": false
+      },
+      {
+        "text": "Mô tả màu sắc trong môi trường ngoại thất",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong mô hình màu CMY, thêm mực in có tác động gì?",
+    "answers": [
+      {
+        "text": "Tăng độ sáng",
+        "isCorrect": false
+      },
+      {
+        "text": "Giảm độ sáng",
+        "isCorrect": true
+      },
+      {
+        "text": "Tăng độ bão hòa",
+        "isCorrect": false
+      },
+      {
+        "text": "Giảm độ bão hòa",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Âm thanh được định nghĩa là gì?",
+    "answers": [
+      {
+        "text": "Một loại sóng ánh sáng",
+        "isCorrect": false
+      },
+      {
+        "text": "Một loại năng lượng tạo ra cảm nhận nghe",
+        "isCorrect": true
+      },
+      {
+        "text": "Một dạng của sóng điện từ",
+        "isCorrect": false
+      },
+      {
+        "text": "Một loại tín hiệu kỹ thuật số",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Yếu tố nào không phải là một phần của nhận thức âm thanh?",
+    "answers": [
+      {
+        "text": "Cao độ",
+        "isCorrect": false
+      },
+      {
+        "text": "Thời lượng",
+        "isCorrect": false
+      },
+      {
+        "text": "Âm lượng",
+        "isCorrect": false
+      },
+      {
+        "text": "Màu sắc",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Áp suất âm thanh được đo bằng đơn vị nào?",
+    "answers": [
+      {
+        "text": "Hertz (Hz)",
+        "isCorrect": false
+      },
+      {
+        "text": "Decibel (dB)",
+        "isCorrect": true
+      },
+      {
+        "text": "Pascal (Pa)",
+        "isCorrect": false
+      },
+      {
+        "text": "Newton (N)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tần suất của một âm thanh cho biết điều gì?",
+    "answers": [
+      {
+        "text": "Độ to của âm thanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ cao của âm thanh",
+        "isCorrect": true
+      },
+      {
+        "text": "Màu sắc của âm thanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Hướng của âm thanh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Biên độ của một âm thanh quyết định yếu tố nào?",
+    "answers": [
+      {
+        "text": "Âm lượng",
+        "isCorrect": true
+      },
+      {
+        "text": "Cao độ",
+        "isCorrect": false
+      },
+      {
+        "text": "Màu sắc",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ dài",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Quá trình chuyển đổi âm thanh từ dạng tương tự sang dạng số được gọi là gì?",
+    "answers": [
+      {
+        "text": "Sampling",
+        "isCorrect": true
+      },
+      {
+        "text": "Encoding",
+        "isCorrect": false
+      },
+      {
+        "text": "Quantization",
+        "isCorrect": false
+      },
+      {
+        "text": "Companding",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Điều chế mã xung (PCM) được sử dụng để làm gì?",
+    "answers": [
+      {
+        "text": "Nén âm thanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Tạo hiệu ứng âm thanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Chuyển đổi tín hiệu tương tự thành tín hiệu số",
+        "isCorrect": true
+      },
+      {
+        "text": "Cải thiện chất lượng âm thanh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Companding' trong xử lý âm thanh có nghĩa là gì?",
+    "answers": [
+      {
+        "text": "Kết hợp nén và giãn nở tín hiệu",
+        "isCorrect": true
+      },
+      {
+        "text": "So sánh và phân loại tín hiệu",
+        "isCorrect": false
+      },
+      {
+        "text": "Kết hợp mã hóa và giải mã",
+        "isCorrect": false
+      },
+      {
+        "text": "Tạo và phân tích tín hiệu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ưu điểm chính của PCM là gì?",
+    "answers": [
+      {
+        "text": "Giảm nhiễu và méo do kênh truyền",
+        "isCorrect": true
+      },
+      {
+        "text": "Tăng cường chất lượng âm thanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Giảm kích thước tệp âm thanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Cung cấp nhiều hiệu ứng âm thanh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "ADPCM (Adaptive Differential Pulse Code Modulation) khác với DPCM ở điểm nào chính?",
+    "answers": [
+      {
+        "text": "Sử dụng bước lượng tử hóa cố định",
+        "isCorrect": false
+      },
+      {
+        "text": "Chỉ mã hóa sự khác biệt giữa các mẫu",
+        "isCorrect": false
+      },
+      {
+        "text": "Điều chỉnh kích thước bước lượng tử hóa",
+        "isCorrect": true
+      },
+      {
+        "text": "Sử dụng thuật toán nén không mất mát",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tìm câu trả lời đúng trong các câu sau",
+    "answers": [
+      {
+        "text": "Nén âm thanh là một hình thức nén dữ liệu được thiết kế để giảm kích thước và tăng chất lượng của tệp âm thanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Nén được thực hiện bởi một chương trình sử dụng thuật toán để xác định cách nén hoặc giải nén dữ liệu",
+        "isCorrect": true
+      },
+      {
+        "text": "Nén âm thanh còn được gọi là nén giải động",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 đáp trên đều đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Kỹ thuật nén/giải nén audio nào dưới đây không phải là loseless compression?",
+    "answers": [
+      {
+        "text": "Direct Stream Transfer (DST)",
+        "isCorrect": false
+      },
+      {
+        "text": "Dolby TrueHD",
+        "isCorrect": false
+      },
+      {
+        "text": "MP3",
+        "isCorrect": true
+      },
+      {
+        "text": "DTS-HD Master Audio",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Dải giọng nói bình thường của con người giao động trong khoảng nào",
+    "answers": [
+      {
+        "text": "500Hz-20kHz",
+        "isCorrect": false
+      },
+      {
+        "text": "500Hz-2kHz",
+        "isCorrect": true
+      },
+      {
+        "text": "50Hz-2kHz",
+        "isCorrect": false
+      },
+      {
+        "text": "50Hz-20kHz",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Câu nào sau đây là chính xác về MPEG/Audio Compression",
+    "answers": [
+      {
+        "text": "Là một tiêu chuẩn nén âm thanh chung không đưa ra giả định về bản chất của nguồn âm thanhmà khai thác những hạn chế về tri giác của hệ thống thính giác của con người",
+        "isCorrect": false
+      },
+      {
+        "text": "Được thông qua bởi Tổ chức Tiêu chuẩn Quốc tế và Ủy ban Kỹ thuật Điện Quốc tế (ISO / IEC) năm 1992.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mặt nạ tần số luôn được sử dụng trong MPEG.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 đáp trên đều đúng",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là một câu đúng để nói về cấu trúc của MPEG/Audio Compression",
+    "answers": [
+      {
+        "text": "Gồm 3 lớp độc lập",
+        "isCorrect": false
+      },
+      {
+        "text": "Lớp I sử dụng mã hóa băng tần con",
+        "isCorrect": false
+      },
+      {
+        "text": "Lớp II sử dụng mã hóa chuyển đổi",
+        "isCorrect": true
+      },
+      {
+        "text": "Lớp II sử dụng cả mã hóa băng tần con và mã hóa chuyển đổi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Định nghĩa về nén ảnh",
+    "answers": [
+      {
+        "text": "Nén hình ảnh là một quá trình được áp dụng cho một ảnh đồ họa để giảm thiểu kích thước của nó theo byte xuống ngưỡng thấp nhất có thể",
+        "isCorrect": false
+      },
+      {
+        "text": "Nén hình ảnh là một quá trình được áp dụng cho một ảnh đồ họa để giảm thiểu kích thước của nó theo byte mà mắt vẫn có thể quan sát được",
+        "isCorrect": false
+      },
+      {
+        "text": "Nén hình ảnh là một quá trình được áp dụng cho một ảnh đồ họa để giảm thiểu kích thước của nó theo byte mà không làm giảm chất lượng hình ảnh xuống dưới ngưỡng có thể chấp nhận được",
+        "isCorrect": true
+      },
+      {
+        "text": "Không có phương án nào chính xác",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đơn vị để đánh giá khả năng nén ảnh",
+    "answers": [
+      {
+        "text": "Bit",
+        "isCorrect": false
+      },
+      {
+        "text": "Pixel",
+        "isCorrect": false
+      },
+      {
+        "text": "kB",
+        "isCorrect": false
+      },
+      {
+        "text": "Entropy",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Kỹ thuật nén/giải nén image nào dưới đây không phải là loseless compression?",
+    "answers": [
+      {
+        "text": "Huffman",
+        "isCorrect": false
+      },
+      {
+        "text": "LSW",
+        "isCorrect": false
+      },
+      {
+        "text": "Predictive",
+        "isCorrect": true
+      },
+      {
+        "text": "DPCM",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Câu nào sau đây là không chính xác về JPEG Standard",
+    "answers": [
+      {
+        "text": "Là một kỹ thuật nén mất mát",
+        "isCorrect": false
+      },
+      {
+        "text": "Dựa trên DCT",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiệu suất nén chấp nhận được trong phạm vi 8:1",
+        "isCorrect": true
+      },
+      {
+        "text": "Không phải là một thuật toán mà là một framework với một số thuật toán và cài đặt người dùng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là đuôi của file ảnh",
+    "answers": [
+      {
+        "text": "MP4",
+        "isCorrect": true
+      },
+      {
+        "text": "PNG",
+        "isCorrect": false
+      },
+      {
+        "text": "JPEG",
+        "isCorrect": false
+      },
+      {
+        "text": "GIF",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ảnh động GIF sử dụng kỹ thuật nén nào",
+    "answers": [
+      {
+        "text": "Huffman",
+        "isCorrect": false
+      },
+      {
+        "text": "LSW",
+        "isCorrect": true
+      },
+      {
+        "text": "Predictive",
+        "isCorrect": false
+      },
+      {
+        "text": "DPCM",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong nén hình ảnh, dư thừa mã hóa (Coding Redundancy) là gì?",
+    "answers": [
+      {
+        "text": "Là dư thừa không gian giữa các pixel.",
+        "isCorrect": false
+      },
+      {
+        "text": "Là dư thừa tâm lý thị giác.",
+        "isCorrect": false
+      },
+      {
+        "text": "Là hệ thống các ký hiệu đại diện cho thông tin.",
+        "isCorrect": true
+      },
+      {
+        "text": "Là dư thừa thông tin không cần thiết.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán Huffman trong nén hình ảnh được sử dụng để:",
+    "answers": [
+      {
+        "text": "Loại bỏ sự dư thừa tần số cao.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mã hóa dựa trên tần số của các ký tự tương ứng.",
+        "isCorrect": true
+      },
+      {
+        "text": "Chuyển đổi hình ảnh từ không gian sang miền tần số.",
+        "isCorrect": false
+      },
+      {
+        "text": "Giảm kích thước hình ảnh mà không làm giảm chất lượng.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Định dạng video nào giữ được chất lượng cao và phù hợp để lưu trữ dữ liệu trong thời gian dài?",
+    "answers": [
+      {
+        "text": "MP4",
+        "isCorrect": true
+      },
+      {
+        "text": "AVI",
+        "isCorrect": false
+      },
+      {
+        "text": "MOV",
+        "isCorrect": false
+      },
+      {
+        "text": "WMV",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Codec (bộ giải mã/giải mã) là gì trong video?",
+    "answers": [
+      {
+        "text": "Tiêu chuẩn nén và giải nén dữ liệu video",
+        "isCorrect": true
+      },
+      {
+        "text": "Một loại camera chuyên dụng",
+        "isCorrect": false
+      },
+      {
+        "text": "Công cụ chỉnh sửa video",
+        "isCorrect": false
+      },
+      {
+        "text": "Phần mềm phát video trực tuyến",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đặc điểm nào sau đây không phải là một phần của quá trình sản xuất video?",
+    "answers": [
+      {
+        "text": "Chia sẻ video lên mạng xã hội",
+        "isCorrect": true
+      },
+      {
+        "text": "Biên tập video",
+        "isCorrect": false
+      },
+      {
+        "text": "Chụp ảnh video",
+        "isCorrect": false
+      },
+      {
+        "text": "Kịch bản hóa",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong animation, khái niệm \"keyframe\" (khung chính) đề cập đến điều gì?",
+    "answers": [
+      {
+        "text": "Khung hình đánh dấu sự thay đổi trong animation",
+        "isCorrect": true
+      },
+      {
+        "text": "Khung hình cuối cùng của animation",
+        "isCorrect": false
+      },
+      {
+        "text": "Khung hình đầu tiên của animation",
+        "isCorrect": false
+      },
+      {
+        "text": "Khung hình chỉ có nền không động",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Loại animation nào được tạo ra bằng cách sử dụng hình ảnh vật lý hoặc đối tượng thực để tạo ra hiệu ứng chuyển động?",
+    "answers": [
+      {
+        "text": "Stop-motion animation",
+        "isCorrect": true
+      },
+      {
+        "text": "2D animation",
+        "isCorrect": false
+      },
+      {
+        "text": "3D animation",
+        "isCorrect": false
+      },
+      {
+        "text": "Cell animation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật ngữ nào được sử dụng để mô tả việc áp dụng các hiệu ứng chuyển động tự nhiên vào animation, như đào tạo vật lý, trọng lực, và ma sát?",
+    "answers": [
+      {
+        "text": "Dynamics",
+        "isCorrect": true
+      },
+      {
+        "text": "Rigging",
+        "isCorrect": false
+      },
+      {
+        "text": "Morphing",
+        "isCorrect": false
+      },
+      {
+        "text": "Tweening",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Định dạng tập tin nào thường được sử dụng để lưu trữ animation có độ phân giải cao và hỗ trợ nhiều layer (lớp) và kênh alpha (độ trong suốt)?",
+    "answers": [
+      {
+        "text": "FLA",
+        "isCorrect": true
+      },
+      {
+        "text": "GIF",
+        "isCorrect": false
+      },
+      {
+        "text": "SWF",
+        "isCorrect": false
+      },
+      {
+        "text": "MOV",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Khái niệm \"Squash and Stretch\" trong animation áp dụng vào việc gì?",
+    "answers": [
+      {
+        "text": "Tạo ra hiệu ứng nhấp nhô cho các đối tượng",
+        "isCorrect": true
+      },
+      {
+        "text": "Tạo ra hiệu ứng biến dạng cho các đối tượng",
+        "isCorrect": false
+      },
+      {
+        "text": "Tạo ra hiệu ứng mờ mờ cho các đối tượng",
+        "isCorrect": false
+      },
+      {
+        "text": "Tạo ra hiệu ứng xoay cho các đối tượng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Định dạng hình ảnh nào hỗ trợ tính năng lưu trữ hình ảnh có độ phân giải cao nhất mà không làm mất thông tin hình ảnh ban đầu?",
+    "answers": [
+      {
+        "text": "TIFF",
+        "isCorrect": true
+      },
+      {
+        "text": "BMP",
+        "isCorrect": false
+      },
+      {
+        "text": "JPEG",
+        "isCorrect": false
+      },
+      {
+        "text": "PNG",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật ngữ nào được sử dụng để mô tả việc giảm kích thước của hình ảnh mà vẫn giữ được chất lượng hình ảnh tốt nhất có thể?",
+    "answers": [
+      {
+        "text": "Downsampling",
+        "isCorrect": true
+      },
+      {
+        "text": "Aliasing",
+        "isCorrect": false
+      },
+      {
+        "text": "Upsampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Resampling",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Loại phép biến đổi nào được sử dụng để làm mờ hình ảnh một cách đều đặn và trơn tru, giúp làm giảm độ sắc nét và chi tiết của hình ảnh?",
+    "answers": [
+      {
+        "text": "Blur",
+        "isCorrect": true
+      },
+      {
+        "text": "Sharpening",
+        "isCorrect": false
+      },
+      {
+        "text": "Noise reduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Saturation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong xử lý ảnh kỹ thuật số, phép biến đổi Fourier được sử dụng để làm gì?",
+    "answers": [
+      {
+        "text": "Biến đổi từ miền không gian sang miền tần số",
+        "isCorrect": true
+      },
+      {
+        "text": "Phát hiện biên cạnh trong ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Biến đổi không gian màu của ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Làm mịn (smoothing) hoặc làm sắc nét (sharpening) ảnh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong ngữ cảnh của xử lý ảnh kỹ thuật số, kernel (nhân) trong việc thực hiện các phép toán như convolution và filtering đề cập đến điều gì?",
+    "answers": [
+      {
+        "text": "Một kích thước cố định dùng để thực hiện các phép biến đổi",
+        "isCorrect": true
+      },
+      {
+        "text": "Một bức ảnh 3 chiều",
+        "isCorrect": false
+      },
+      {
+        "text": "Một loại mô phỏng hình dạng và màu sắc",
+        "isCorrect": false
+      },
+      {
+        "text": "Một đoạn mã máy tính để xử lý ảnh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong xử lý ảnh kỹ thuật số, hàm tính histogram được sử dụng để làm gì?",
+    "answers": [
+      {
+        "text": "Đo đạc phân phối của các mức xám trong ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Phân tích cấu trúc của vật thể trong ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng cường độ tương phản của ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Làm mờ ảnh để giảm nhiễu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong năm nào xuất hiện trò chơi video \"Pong\" đánh dấu sự ra đời của ngành công nghiệp trò chơi điện tử?",
+    "answers": [
+      {
+        "text": "1972",
+        "isCorrect": true
+      },
+      {
+        "text": "1980",
+        "isCorrect": false
+      },
+      {
+        "text": "1965",
+        "isCorrect": false
+      },
+      {
+        "text": "1991",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Công ty nào phát triển và phát hành trò chơi \"Super Mario Bros.\" cho hệ máy Nintendo Entertainment System (NES)?",
+    "answers": [
+      {
+        "text": "Nintendo",
+        "isCorrect": true
+      },
+      {
+        "text": "Sega",
+        "isCorrect": false
+      },
+      {
+        "text": "Capcom",
+        "isCorrect": false
+      },
+      {
+        "text": "Atari",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Người sáng lập của hãng phát triển game \"Blizzard Entertainment\" là ai?",
+    "answers": [
+      {
+        "text": "Mike Morhaime",
+        "isCorrect": true
+      },
+      {
+        "text": "Gabe Newell",
+        "isCorrect": false
+      },
+      {
+        "text": "Tim Sweeney",
+        "isCorrect": false
+      },
+      {
+        "text": "Shigeru Miyamoto",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mô hình màu nào cho các thiết bị sao chép cứng",
+    "answers": [
+      {
+        "text": "CMY",
+        "isCorrect": true
+      },
+      {
+        "text": "RGB",
+        "isCorrect": false
+      },
+      {
+        "text": "HSV",
+        "isCorrect": false
+      },
+      {
+        "text": "HLS",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hệ màu tự nhiên viết tắt là gì",
+    "answers": [
+      {
+        "text": "NCS",
+        "isCorrect": true
+      },
+      {
+        "text": "MCS",
+        "isCorrect": false
+      },
+      {
+        "text": "RGB",
+        "isCorrect": false
+      },
+      {
+        "text": "CMY",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hệ thống trật tự màu gồm",
+    "answers": [
+      {
+        "text": "MCS, NCS",
+        "isCorrect": true
+      },
+      {
+        "text": "MCS,RGB",
+        "isCorrect": false
+      },
+      {
+        "text": "MCS, HLS",
+        "isCorrect": false
+      },
+      {
+        "text": "NCS,HLS",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "NCS là viết tắt của gì?",
+    "answers": [
+      {
+        "text": "Natural Color System",
+        "isCorrect": true
+      },
+      {
+        "text": "Native Color System",
+        "isCorrect": false
+      },
+      {
+        "text": "Natural Color Source",
+        "isCorrect": false
+      },
+      {
+        "text": "Native Color Source",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "CMY không có màu gì",
+    "answers": [
+      {
+        "text": "Mint",
+        "isCorrect": true
+      },
+      {
+        "text": "Yellow",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyan",
+        "isCorrect": false
+      },
+      {
+        "text": "Magenta",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hue là:",
+    "answers": [
+      {
+        "text": "Đặc điểm rõ ràng nhất của một màu sắc",
+        "isCorrect": true
+      },
+      {
+        "text": "Đặc điểm rõ ràng nhất của một mô hình",
+        "isCorrect": false
+      },
+      {
+        "text": "Đặc điểm rõ ràng nhất của một thuộc tính",
+        "isCorrect": false
+      },
+      {
+        "text": "Đặc điểm rõ ràng nhất của một bộ màu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Chroma là gì",
+    "answers": [
+      {
+        "text": "là độ tinh khiết của màu sắc",
+        "isCorrect": true
+      },
+      {
+        "text": "là độ đậm của màu sắc",
+        "isCorrect": false
+      },
+      {
+        "text": "là độ bão hòa của màu sắc",
+        "isCorrect": false
+      },
+      {
+        "text": "là độ sáng của màu sắc",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "RGB không có màu nào",
+    "answers": [
+      {
+        "text": "Yellow",
+        "isCorrect": true
+      },
+      {
+        "text": "Red",
+        "isCorrect": false
+      },
+      {
+        "text": "Green",
+        "isCorrect": false
+      },
+      {
+        "text": "Blue",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hệ thống Tristimulus có nguồn gốc từ",
+    "answers": [
+      {
+        "text": "RGB",
+        "isCorrect": true
+      },
+      {
+        "text": "CMY",
+        "isCorrect": false
+      },
+      {
+        "text": "HSV",
+        "isCorrect": false
+      },
+      {
+        "text": "HLS",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tập đoàn Tektronix sử dụng mô hình màu nào",
+    "answers": [
+      {
+        "text": "HLS",
+        "isCorrect": true
+      },
+      {
+        "text": "RGB",
+        "isCorrect": false
+      },
+      {
+        "text": "CMY",
+        "isCorrect": false
+      },
+      {
+        "text": "HSV",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "đâu không phải lợi thế của DIMENTION 2D/3D ",
+    "answers": [
+      {
+        "text": "Dễ tạo",
+        "isCorrect": true
+      },
+      {
+        "text": "Ít tốn thời gian",
+        "isCorrect": false
+      },
+      {
+        "text": "Chi phí sản xuất ít",
+        "isCorrect": false
+      },
+      {
+        "text": "Dễ thay đổi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có bao nhiêu nguyên tắc trong Animation",
+    "answers": [
+      {
+        "text": "12",
+        "isCorrect": true
+      },
+      {
+        "text": "11",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hiệu ứng đặc biệt viết tắt là gì",
+    "answers": [
+      {
+        "text": "SFX",
+        "isCorrect": true
+      },
+      {
+        "text": "VFX",
+        "isCorrect": false
+      },
+      {
+        "text": "RFX",
+        "isCorrect": false
+      },
+      {
+        "text": "BFX",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "VFX là gì",
+    "answers": [
+      {
+        "text": "Hiệu ứng kỹ thuật số",
+        "isCorrect": true
+      },
+      {
+        "text": "Hiệu ứng đặc biệt",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiệu ứng di chuyển",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiệu ứng không gian",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Timing là",
+    "answers": [
+      {
+        "text": "mất bao lâu để di chuyển tư thế quan trọng này sang tư thế quan trọng khác",
+        "isCorrect": true
+      },
+      {
+        "text": "mất bao lâu để di chuyển từ vị trí này sang vị trí khác",
+        "isCorrect": false
+      },
+      {
+        "text": "mất bao lâu để chạy hết một khung hình",
+        "isCorrect": false
+      },
+      {
+        "text": "mất bao lâu để vật thể rơi từ trên xuống dưới",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là nhược điểm của ảnh kỹ thuật số",
+    "answers": [
+      {
+        "text": "Việc lạm dụng bản quyền dễ dàng chỉ bằng cách nhấp chuột",
+        "isCorrect": false
+      },
+      {
+        "text": "Phóng to ảnh đến kích thước nhất định có thể làm ảnh hưởng đến chất lượng ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Tốn nhiều bộ nhớ để lưu trữ và xử lý chất lượng hình ảnh tốt",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các đáp án trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Với tai người bình thường, miền nghe được nằm trong khoảng nào sau đây?",
+    "answers": [
+      {
+        "text": "0 dB đến 130 dB",
+        "isCorrect": true
+      },
+      {
+        "text": "1.3 dB đến 120 dB",
+        "isCorrect": false
+      },
+      {
+        "text": "1 dB đến 130 dB",
+        "isCorrect": false
+      },
+      {
+        "text": "1 dB đến 120 dB",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "MIDI viết tắt của cụm từ nào trong các cụm từ sau đây?",
+    "answers": [
+      {
+        "text": "Musical Interface Digital Instrument",
+        "isCorrect": false
+      },
+      {
+        "text": "Model Instrument Digital Interface",
+        "isCorrect": false
+      },
+      {
+        "text": "Musical Instrument Digital Interface",
+        "isCorrect": true
+      },
+      {
+        "text": "Musical Instrument Digital Internet",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là một định dạng âm thanh?",
+    "answers": [
+      {
+        "text": "MP4",
+        "isCorrect": false
+      },
+      {
+        "text": "JPG",
+        "isCorrect": false
+      },
+      {
+        "text": "WAV",
+        "isCorrect": true
+      },
+      {
+        "text": "RAW",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tỉ lệ nén của MPEG là?",
+    "answers": [
+      {
+        "text": "6 trên 1",
+        "isCorrect": true
+      },
+      {
+        "text": "5 trên 1",
+        "isCorrect": false
+      },
+      {
+        "text": "3 trên 1",
+        "isCorrect": false
+      },
+      {
+        "text": "2 trên 1",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là nước có doanh thu lớn nhất trong lĩnh vực mobile gaming trong các nước dưới đây?",
+    "answers": [
+      {
+        "text": "Nhật Bản",
+        "isCorrect": false
+      },
+      {
+        "text": "Anh",
+        "isCorrect": false
+      },
+      {
+        "text": "Mỹ",
+        "isCorrect": false
+      },
+      {
+        "text": "Trung Quốc",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu là định dạng nén mất mát trong xử lý audio?",
+    "answers": [
+      {
+        "text": "MPEG-1 Audio Layer III",
+        "isCorrect": true
+      },
+      {
+        "text": "mp4",
+        "isCorrect": false
+      },
+      {
+        "text": "Dolby TrueHD",
+        "isCorrect": false
+      },
+      {
+        "text": "DST",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là định dạng mở trong nén Audio?",
+    "answers": [
+      {
+        "text": "Mpeg",
+        "isCorrect": true
+      },
+      {
+        "text": "Jpeg",
+        "isCorrect": false
+      },
+      {
+        "text": "Direct Stream Transfer",
+        "isCorrect": false
+      },
+      {
+        "text": "DTS-HD Master Audio",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Cơ sở để nén âm thanh là gì?",
+    "answers": [
+      {
+        "text": "Cả 3 đáp án",
+        "isCorrect": true
+      },
+      {
+        "text": "mặt nạ tần số",
+        "isCorrect": false
+      },
+      {
+        "text": "mặt nạ tạm thời",
+        "isCorrect": false
+      },
+      {
+        "text": "khả năng nghe con người phụ thuộc tần số",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Sampling, Quantization, Coding là các quá trình xử lý của ...",
+    "answers": [
+      {
+        "text": "ADC",
+        "isCorrect": true
+      },
+      {
+        "text": "DSP system",
+        "isCorrect": false
+      },
+      {
+        "text": "Digital signal procesing",
+        "isCorrect": false
+      },
+      {
+        "text": "DAC",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tín hiệu được chuyển đổi từ miền không gian sang miền tần số thông qua phép biến đổi nào?",
+    "answers": [
+      {
+        "text": "Fourier",
+        "isCorrect": true
+      },
+      {
+        "text": "Convolution",
+        "isCorrect": false
+      },
+      {
+        "text": "linear",
+        "isCorrect": false
+      },
+      {
+        "text": "Không thể chuyển đổi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có bao nhiêu level xử lý ảnh?",
+    "answers": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là một hệ màu?",
+    "answers": [
+      {
+        "text": "BVG",
+        "isCorrect": true
+      },
+      {
+        "text": "CMYK",
+        "isCorrect": false
+      },
+      {
+        "text": "YCbCr",
+        "isCorrect": false
+      },
+      {
+        "text": "HSV",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": " Halftone là kĩ thuật sử dụng cho...",
+    "answers": [
+      {
+        "text": "Hình ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Tín hiệu liên tục",
+        "isCorrect": false
+      },
+      {
+        "text": "âm thanh",
+        "isCorrect": false
+      },
+      {
+        "text": "video",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhược điểm của hệ thống multimedia",
+    "answers": [
+      {
+        "text": "Triển khai, nâng cấp phức tạp",
+        "isCorrect": true
+      },
+      {
+        "text": "Dễ phát sinh lỗi khi sử dụng",
+        "isCorrect": false
+      },
+      {
+        "text": "Công nghệ cần phát triển liên tục",
+        "isCorrect": false
+      },
+      {
+        "text": "Khó tiếp cận để sử dụng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tại sao nén dữ liệu là cần thiết?",
+    "answers": [
+      {
+        "text": "Vì giúp truyền cùng nội dung dữ liệu trong ít bit hơn",
+        "isCorrect": true
+      },
+      {
+        "text": "Vì giảm được dung lượng lưu trữ, băng thông đường truyền",
+        "isCorrect": false
+      },
+      {
+        "text": "Vì nó mã hóa dữ liệu, tăng khả năng bảo mật",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 đáp án trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là nhược điểm của việc sử dụng đa phương tiện trong phần mềm?",
+    "answers": [
+      {
+        "text": "khó dùng",
+        "isCorrect": true
+      },
+      {
+        "text": "mất thời gian",
+        "isCorrect": false
+      },
+      {
+        "text": "tốn kém",
+        "isCorrect": false
+      },
+      {
+        "text": "phức tạp",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải ứng dụng của xử lý tín hiệu số?",
+    "answers": [
+      {
+        "text": "tóm tắt văn bản",
+        "isCorrect": true
+      },
+      {
+        "text": "mã hóa âm thanh",
+        "isCorrect": false
+      },
+      {
+        "text": "nén dữ liệu",
+        "isCorrect": false
+      },
+      {
+        "text": "xử lý ảnh kỹ thuật số",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tốc độ tối đa của kênh không nhiễu có băng thông 1000Hz và 4 mức tín hiệu là?",
+    "answers": [
+      {
+        "text": "4000 bps",
+        "isCorrect": true
+      },
+      {
+        "text": "3000 bps",
+        "isCorrect": false
+      },
+      {
+        "text": "5000 bps",
+        "isCorrect": false
+      },
+      {
+        "text": "6000 bps",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "DPS là viết tắt của từ gì?",
+    "answers": [
+      {
+        "text": "Digital Signal Processing",
+        "isCorrect": true
+      },
+      {
+        "text": "Data Signal Processing",
+        "isCorrect": false
+      },
+      {
+        "text": "Danger Signal Processing",
+        "isCorrect": false
+      },
+      {
+        "text": "Dirty Signal Processing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hình ảnh có độ phân giải 320000 pixel và tỉ lệ khung hình 1:2 thì có số hàng và cột là bao nhiêu?",
+    "answers": [
+      {
+        "text": "400 và 800",
+        "isCorrect": true
+      },
+      {
+        "text": "350 và 700",
+        "isCorrect": false
+      },
+      {
+        "text": "300 và 600",
+        "isCorrect": false
+      },
+      {
+        "text": "450 và 900",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Bộ 3 màu cơ bản là gì?",
+    "answers": [
+      {
+        "text": "Đỏ Lục Lam",
+        "isCorrect": true
+      },
+      {
+        "text": "Lục Lam Tím",
+        "isCorrect": false
+      },
+      {
+        "text": "Đỏ Tím Lam",
+        "isCorrect": false
+      },
+      {
+        "text": "Đỏ Cam Vàng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đại lượng nào cho biết số rung động trong 1 giây?",
+    "answers": [
+      {
+        "text": "Tần số",
+        "isCorrect": true
+      },
+      {
+        "text": "Biên độ",
+        "isCorrect": false
+      },
+      {
+        "text": "Chu Kỳ",
+        "isCorrect": false
+      },
+      {
+        "text": "Cường độ âm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "256 mức tín hiệu riêng biệt thì cần gán mã bao nhiêu bit?",
+    "answers": [
+      {
+        "text": "8 bit",
+        "isCorrect": true
+      },
+      {
+        "text": "9bit",
+        "isCorrect": false
+      },
+      {
+        "text": "7 bit",
+        "isCorrect": false
+      },
+      {
+        "text": "6 bit",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "MPEG là gì?",
+    "answers": [
+      {
+        "text": "Tiêu chuẩn nén âm thanh",
+        "isCorrect": true
+      },
+      {
+        "text": "Tiêu chuẩn nén hình ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiêu chuẩn nén văn bản",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiêu chuẩn nén video",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là cách mở rộng MPEG?",
+    "answers": [
+      {
+        "text": "Mã hóa hình ảnh không nén",
+        "isCorrect": true
+      },
+      {
+        "text": "Hỗ trợ âm thanh đa kênh",
+        "isCorrect": false
+      },
+      {
+        "text": "Tốc độ âm thanh nén",
+        "isCorrect": false
+      },
+      {
+        "text": "Tỷ lệ lấy mẫu âm thanh thấp hơn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là 1 bước của thuật toán JPEG?",
+    "answers": [
+      {
+        "text": "Chuyển không gian màu từ [Y, Cb, Cr] sang [R, G, B]",
+        "isCorrect": true
+      },
+      {
+        "text": "Lượng tử hóa",
+        "isCorrect": false
+      },
+      {
+        "text": "Tách",
+        "isCorrect": false
+      },
+      {
+        "text": "Mã hóa Entropy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Loại Frame nào sau đâu không thuộc Raw Frame?",
+    "answers": [
+      {
+        "text": "E-Frame",
+        "isCorrect": true
+      },
+      {
+        "text": "P-Frame",
+        "isCorrect": false
+      },
+      {
+        "text": "I-Frame",
+        "isCorrect": false
+      },
+      {
+        "text": "B-Frame",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nguyên tắc 'Arcs' trong animation đề cập đến điều gì?",
+    "answers": [
+      {
+        "text": "Đường cong tự nhiên của chuyển động",
+        "isCorrect": true
+      },
+      {
+        "text": "Sự giảm tốc và tăng tốc",
+        "isCorrect": false
+      },
+      {
+        "text": "Sự chuẩn bị trước",
+        "isCorrect": false
+      },
+      {
+        "text": "Sự co dãn và căng ra của đối tượng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là nguyên tắc của animation",
+    "answers": [
+      {
+        "text": "Gradient",
+        "isCorrect": true
+      },
+      {
+        "text": "Timing",
+        "isCorrect": false
+      },
+      {
+        "text": "Squash + stretch",
+        "isCorrect": false
+      },
+      {
+        "text": "Follow through and overlap",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Dự án đa phương tiện không được xác định là tuyến tính khi?",
+    "answers": [
+      {
+        "text": "Nó không tương tác",
+        "isCorrect": false
+      },
+      {
+        "text": "Người dùng không có quyền kiểm soát nội dung đang được hiển thị cho họ",
+        "isCorrect": false
+      },
+      {
+        "text": "Người dùng có quyền kiểm soát nội dung đang được hiển thị cho họ",
+        "isCorrect": true
+      },
+      {
+        "text": "Cả A và B đều đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhận định nào là đúng khi nói về cách xác định dự án phi tuyến tính?",
+    "answers": [
+      {
+        "text": "Nó là tương tác",
+        "isCorrect": false
+      },
+      {
+        "text": "Người dùng có quyền kiểm soát nội dung đang được hiển thị cho họ",
+        "isCorrect": false
+      },
+      {
+        "text": "Người dùng được kiểm soát điều hướng",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả đáp án trên đều đúng",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là nhược điểm của hệ thống đa phương tiện (Multimedia)?",
+    "answers": [
+      {
+        "text": "Phức tạp để tạo",
+        "isCorrect": false
+      },
+      {
+        "text": "Mất thời gian",
+        "isCorrect": false
+      },
+      {
+        "text": "Sử dụng là tốn kém",
+        "isCorrect": false
+      },
+      {
+        "text": "Khó sử dụng",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Ưu điểm của hệ thống đa phương tiện (Multimedia)?",
+    "answers": [
+      {
+        "text": "Giao diện trực quan",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiệu quả chi phí",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả A và B đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Cả A và B đều sai",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là thành phần chính của Multimedia?",
+    "answers": [
+      {
+        "text": "Một phương tiện dựa trên máy tính",
+        "isCorrect": false
+      },
+      {
+        "text": "Đồ họa, hoạt ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Giao tiếp hiệu quả",
+        "isCorrect": false
+      },
+      {
+        "text": "Tương tác",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải 1 loại Animation?",
+    "answers": [
+      {
+        "text": "Cel animation",
+        "isCorrect": false
+      },
+      {
+        "text": "Path animation",
+        "isCorrect": false
+      },
+      {
+        "text": "Round animation",
+        "isCorrect": true
+      },
+      {
+        "text": "Cả 3 đáp án đều là các loại Animation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Một tài liệu Game Design Document thường dài bao nhiêu trang?",
+    "answers": [
+      {
+        "text": "2 - 4 trang",
+        "isCorrect": false
+      },
+      {
+        "text": "20 - 40 trang",
+        "isCorrect": true
+      },
+      {
+        "text": "200 - 400 trang",
+        "isCorrect": false
+      },
+      {
+        "text": "100 - 200 trang",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các yếu tố phổ biến giữa tất cả các trò chơi do Crawford xác định, không bao gồm yếu tố nào?",
+    "answers": [
+      {
+        "text": "Đại diện",
+        "isCorrect": false
+      },
+      {
+        "text": "Sự tương tác",
+        "isCorrect": false
+      },
+      {
+        "text": "Kết hợp",
+        "isCorrect": true
+      },
+      {
+        "text": "Xung đột",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là ưu điểm của mô hình MDA?",
+    "answers": [
+      {
+        "text": "Chung và đa năng",
+        "isCorrect": false
+      },
+      {
+        "text": "Giúp xác định rõ ràng tính thẩm mỹ của trò chơi",
+        "isCorrect": false
+      },
+      {
+        "text": "Nhấn mạnh vai trò của động lực để kích hoạt thẩm mỹ",
+        "isCorrect": false
+      },
+      {
+        "text": "Cung cấp các công cụ thiết kế",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Các mức độ chuyển đổi màu xám cơ bản không bao gồm?",
+    "answers": [
+      {
+        "text": "Tuyến tính",
+        "isCorrect": false
+      },
+      {
+        "text": "Hàm bậc 2",
+        "isCorrect": true
+      },
+      {
+        "text": "Logarit",
+        "isCorrect": false
+      },
+      {
+        "text": "Hàm mũ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Cách để tạo ra một animation",
+    "answers": [
+      {
+        "text": "Di chuyển một đối tượng liên tiếp trên màn hình",
+        "isCorrect": false
+      },
+      {
+        "text": "Chụp liên tiếp một đối tượng",
+        "isCorrect": false
+      },
+      {
+        "text": "Di chuyển một đối tượng theo một đường dẫn xác định trước trên màn hình",
+        "isCorrect": true
+      },
+      {
+        "text": "Chiếu liên tiếp các ảnh lên màn hình",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Lợi thế của 3D Animation",
+    "answers": [
+      {
+        "text": "Độ chính xác cao",
+        "isCorrect": false
+      },
+      {
+        "text": "Có thể tái sử dụng",
+        "isCorrect": true
+      },
+      {
+        "text": "Có nhiều ý tưởng thay đổi",
+        "isCorrect": false
+      },
+      {
+        "text": "Chi phí sản xuất ít",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là định dạng nén mất mát trong xử lý audio?",
+    "answers": [
+      {
+        "text": "MPEG-1 Audio Layer III",
+        "isCorrect": true
+      },
+      {
+        "text": "mp4",
+        "isCorrect": false
+      },
+      {
+        "text": "Dolby TrueHD",
+        "isCorrect": false
+      },
+      {
+        "text": "DST",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là định dạng mở trong nén Audio?",
+    "answers": [
+      {
+        "text": "Mpeg",
+        "isCorrect": true
+      },
+      {
+        "text": "Jpeg",
+        "isCorrect": false
+      },
+      {
+        "text": "Direct Stream Transfer",
+        "isCorrect": false
+      },
+      {
+        "text": "DTS-HD Master Audio",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Cơ sở để nén âm thanh là gì?",
+    "answers": [
+      {
+        "text": "khả năng nghe con người phụ thuộc tần số",
+        "isCorrect": false
+      },
+      {
+        "text": "mặt nạ tần số",
+        "isCorrect": false
+      },
+      {
+        "text": "mặt nạ tạm thời",
+        "isCorrect": false
+      },
+      {
+        "text": "cả 3 đáp án",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Sampling, Quantization, Coding là các quá trình xử lý của ...",
+    "answers": [
+      {
+        "text": "DSP system",
+        "isCorrect": false
+      },
+      {
+        "text": "ADC",
+        "isCorrect": true
+      },
+      {
+        "text": "Digital signal procesing",
+        "isCorrect": false
+      },
+      {
+        "text": "DAC",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tín hiệu được chuyển đổi từ miền không gian sang miền tần số thông qua phép biến đổi nào?",
+    "answers": [
+      {
+        "text": "Fourier",
+        "isCorrect": true
+      },
+      {
+        "text": "Convolution",
+        "isCorrect": false
+      },
+      {
+        "text": "linear",
+        "isCorrect": false
+      },
+      {
+        "text": "Không thể chuyển đổi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Có bao nhiêu level xử lý ảnh?",
+    "answers": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là một hệ màu?",
+    "answers": [
+      {
+        "text": "CMYK",
+        "isCorrect": false
+      },
+      {
+        "text": "BVG",
+        "isCorrect": true
+      },
+      {
+        "text": "YCbCr",
+        "isCorrect": false
+      },
+      {
+        "text": "HSV",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": " Halftone là kĩ thuật sử dụng cho...",
+    "answers": [
+      {
+        "text": "Tín hiệu liên tục",
+        "isCorrect": false
+      },
+      {
+        "text": "hình ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "âm thanh",
+        "isCorrect": false
+      },
+      {
+        "text": "video",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhược điểm của hệ thống multimedia",
+    "answers": [
+      {
+        "text": "Khó tiếp cận để sử dụng",
+        "isCorrect": false
+      },
+      {
+        "text": "Dễ phát sinh lỗi khi sử dụng",
+        "isCorrect": false
+      },
+      {
+        "text": "Công nghệ cần phát triển liên tục",
+        "isCorrect": false
+      },
+      {
+        "text": "Triển khai, nâng cấp phức tạp",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Tại sao nén dữ liệu là cần thiết?",
+    "answers": [
+      {
+        "text": "Vì giảm được dung lượng lưu trữ, băng thông đường truyền",
+        "isCorrect": false
+      },
+      {
+        "text": "Vì giúp truyền cùng nội dung dữ liệu trong ít bit hơn",
+        "isCorrect": true
+      },
+      {
+        "text": "Vì nó mã hóa dữ liệu, tăng khả năng bảo mật",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả 3 đáp án trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đặc điểm nào không phải của PCM?",
+    "answers": [
+      {
+        "text": "Miễn nhiễm với nhiễu và méo do kênh tạo ra",
+        "isCorrect": false
+      },
+      {
+        "text": "Điều chế mã xung làm giảm băng thông đường truyền",
+        "isCorrect": true
+      },
+      {
+        "text": "Bộ lặp có thể được sử dụng dọc theo kênh truyền",
+        "isCorrect": false
+      },
+      {
+        "text": "Đảm bảo chất lượng đường truyền đồng đều",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "MPEG nén một bộ khung thô thành bao nhiêu khung khác nhau?",
+    "answers": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào về animation sau đây là đúng?",
+    "answers": [
+      {
+        "text": "Là cấu trúc các quy tắc trong thiết kế game",
+        "isCorrect": false
+      },
+      {
+        "text": "Là nhân vật 2 chiều",
+        "isCorrect": false
+      },
+      {
+        "text": "Là chuỗi các hoạt ảnh chuyển động liên tiếp",
+        "isCorrect": true
+      },
+      {
+        "text": "Không phải các phương án trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là ưu điểm khi sử dụng audio?",
+    "answers": [
+      {
+        "text": "Phù hợp với tất cả các thiết bị",
+        "isCorrect": true
+      },
+      {
+        "text": "Đảm bảo thông tin quan trọng được chú ý",
+        "isCorrect": false
+      },
+      {
+        "text": "Có thể giao tiếp trực tiếp hơn với các phương tiện truyền thông khác",
+        "isCorrect": false
+      },
+      {
+        "text": "Thêm hấp dẫn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tìn hiệu bao gốm các loại nào?",
+    "answers": [
+      {
+        "text": "Tín hiệu số và tín hiệu tương tự",
+        "isCorrect": true
+      },
+      {
+        "text": "Tín hiệu số",
+        "isCorrect": false
+      },
+      {
+        "text": "Tín hiệu tương tự",
+        "isCorrect": false
+      },
+      {
+        "text": "Tín hiệu điện tử",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ảnh xám thông dụng có độ sâu màu là bao nhiêu bit?",
+    "answers": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "32",
+        "isCorrect": false
+      },
+      {
+        "text": "64",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Vì sao video sử dụng hệ màu YCbCr thay vì RGB?",
+    "answers": [
+      {
+        "text": "Tỷ lệ nén tốt hơn",
+        "isCorrect": true
+      },
+      {
+        "text": "Độ tương phản cao hơn",
+        "isCorrect": false
+      },
+      {
+        "text": "Chất lượng màu tốt hơn",
+        "isCorrect": false
+      },
+      {
+        "text": "Độ sáng tốt hơn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Sử dụng Filter - Convolution trong sử lý ảnh có tác dụng gì?",
+    "answers": [
+      {
+        "text": "Sharpening",
+        "isCorrect": false
+      },
+      {
+        "text": "Blurring",
+        "isCorrect": false
+      },
+      {
+        "text": "Edge detection",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả đáp án trên đều đúng",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Với bộ lọc Mean filter, sử dụng mặt nạ kích thước nào sau đây cho ra kết quả mờ nhất?",
+    "answers": [
+      {
+        "text": "3x3",
+        "isCorrect": false
+      },
+      {
+        "text": "7x7",
+        "isCorrect": false
+      },
+      {
+        "text": "9x9",
+        "isCorrect": true
+      },
+      {
+        "text": "5x5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mục đích chính của cân bằng Histogram là gì?",
+    "answers": [
+      {
+        "text": "Làm mờ",
+        "isCorrect": false
+      },
+      {
+        "text": "Tăng cường ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Điều chỉnh độ tương phản",
+        "isCorrect": false
+      },
+      {
+        "text": "Không đáp án nào ở trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Dự án đa phương tiện không được xác định là tuyến tính khi?",
+    "answers": [
+      {
+        "text": "Nó không tương tác",
+        "isCorrect": false
+      },
+      {
+        "text": "Người dùng không có quyền kiểm soát nội dung đang được hiển thị cho họ",
+        "isCorrect": false
+      },
+      {
+        "text": "Người dùng có quyền kiểm soát nội dung đang được hiển thị cho họ",
+        "isCorrect": true
+      },
+      {
+        "text": "Cả A và B đều đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nhận định nào là đúng khi nói về cách xác định dự án phi tuyến tính?",
+    "answers": [
+      {
+        "text": "Nó là tương tác",
+        "isCorrect": false
+      },
+      {
+        "text": "Người dùng có quyền kiểm soát nội dung đang được hiển thị cho họ",
+        "isCorrect": false
+      },
+      {
+        "text": "Người dùng được kiểm soát điều hướng",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả đáp án trên đều đúng",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là nhược điểm của hệ thống đa phương tiện (Multimedia)?",
+    "answers": [
+      {
+        "text": "Phức tạp để tạo",
+        "isCorrect": false
+      },
+      {
+        "text": "Mất thời gian",
+        "isCorrect": false
+      },
+      {
+        "text": "Sử dụng là tốn kém",
+        "isCorrect": false
+      },
+      {
+        "text": "Khó sử dụng",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Ưu điểm của hệ thống đa phương tiện (Multimedia)?",
+    "answers": [
+      {
+        "text": "Giao diện trực quan",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiệu quả chi phí",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả A và B đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Cả A và B đều sai",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là thành phần chính của Multimedia?",
+    "answers": [
+      {
+        "text": "Một phương tiện dựa trên máy tính",
+        "isCorrect": false
+      },
+      {
+        "text": "Đồ họa, hoạt ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Giao tiếp hiệu quả",
+        "isCorrect": false
+      },
+      {
+        "text": "Tương tác",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải 1 loại Animation?",
+    "answers": [
+      {
+        "text": "Cel animation",
+        "isCorrect": false
+      },
+      {
+        "text": "Path animation",
+        "isCorrect": false
+      },
+      {
+        "text": "Round animation",
+        "isCorrect": true
+      },
+      {
+        "text": "Cả 3 đáp án đều là các loại Animation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Một tài liệu Game Design Document thường dài bao nhiêu trang?",
+    "answers": [
+      {
+        "text": "2 - 4 trang",
+        "isCorrect": false
+      },
+      {
+        "text": "20 - 40 trang",
+        "isCorrect": true
+      },
+      {
+        "text": "200 - 400 trang",
+        "isCorrect": false
+      },
+      {
+        "text": "100 - 200 trang",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các yếu tố phổ biến giữa tất cả các trò chơi do Crawford xác định, không bao gồm yếu tố nào?",
+    "answers": [
+      {
+        "text": "Đại diện",
+        "isCorrect": false
+      },
+      {
+        "text": "Sự tương tác",
+        "isCorrect": false
+      },
+      {
+        "text": "Kết hợp",
+        "isCorrect": true
+      },
+      {
+        "text": "Xung đột",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là ưu điểm của mô hình MDA?",
+    "answers": [
+      {
+        "text": "Chung và đa năng",
+        "isCorrect": false
+      },
+      {
+        "text": "Giúp xác định rõ ràng tính thẩm mỹ của trò chơi",
+        "isCorrect": false
+      },
+      {
+        "text": "Nhấn mạnh vai trò của động lực để kích hoạt thẩm mỹ",
+        "isCorrect": false
+      },
+      {
+        "text": "Cung cấp các công cụ thiết kế",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Các mức độ chuyển đổi màu xám cơ bản không bao gồm?",
+    "answers": [
+      {
+        "text": "Tuyến tính",
+        "isCorrect": false
+      },
+      {
+        "text": "Hàm bậc 2",
+        "isCorrect": true
+      },
+      {
+        "text": "Logarit",
+        "isCorrect": false
+      },
+      {
+        "text": "Hàm mũ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Định dạng (format) nào sau đây không phải của file âm thanh?",
+    "answers": [
+      {
+        "text": "wav",
+        "isCorrect": false
+      },
+      {
+        "text": "mp4",
+        "isCorrect": true
+      },
+      {
+        "text": "mp3",
+        "isCorrect": false
+      },
+      {
+        "text": "aac",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là phát biểu đúng về nén không mất mát (lossless compression)?",
+    "answers": [
+      {
+        "text": "Các tệp âm thanh nén thường yêu cầu nhiều dung lượng lưu trữ hơn các tệp được mã hóa mất",
+        "isCorrect": false
+      },
+      {
+        "text": "thường được ưa chuộng bởi người dùng muốn sao lưu đĩa CD âm thanh gốc",
+        "isCorrect": false
+      },
+      {
+        "text": "một bản sao hoàn hảo có thể được khôi phục trong trường hợp mất hoặc hỏng đĩa CD",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả ba đáp án trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Bề mặt của ốc ai người (màng basilar) được lót bằng bao nhiêu tế bào thần kinh?",
+    "answers": [
+      {
+        "text": "10000",
+        "isCorrect": false
+      },
+      {
+        "text": "15000",
+        "isCorrect": false
+      },
+      {
+        "text": "20000",
+        "isCorrect": true
+      },
+      {
+        "text": "25000",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải đặc trưng của MPEG?",
+    "answers": [
+      {
+        "text": "Thuật toán nén mất mát, nhưng tổn thất là không liên quan về mặt nhận thức",
+        "isCorrect": false
+      },
+      {
+        "text": "Nén mà không liên quan đến nguồn dữ liệu âm thanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Tỷ lệ nén 30 trên 1",
+        "isCorrect": true
+      },
+      {
+        "text": "Tỷ lệ nén 6 trên 1",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đài FM Truyền vệ tinh và phát sóng âm thanh truyền hình sử dụng chuẩn nén âm thanh nào sau đây?",
+    "answers": [
+      {
+        "text": "DOLBY AC-1",
+        "isCorrect": true
+      },
+      {
+        "text": "DOLBY AC-2",
+        "isCorrect": false
+      },
+      {
+        "text": "DOLBY AC-3",
+        "isCorrect": false
+      },
+      {
+        "text": "MPEG",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Chúng ta cần những công cục gì để tạo MIDI",
+    "answers": [
+      {
+        "text": "Bàn phím midi / Phần mềm bàn phím Midi",
+        "isCorrect": false
+      },
+      {
+        "text": "Phần mềm trình tự",
+        "isCorrect": false
+      },
+      {
+        "text": "Bộ tổng hợp âm thanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả ba đáp án trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Âm thanh MPEG đã được mở rộng theo những cách nào?",
+    "answers": [
+      {
+        "text": "Hỗ trợ âm thanh đa kênh",
+        "isCorrect": false
+      },
+      {
+        "text": "Tốc độ âm thanh nén",
+        "isCorrect": false
+      },
+      {
+        "text": "Tỷ lệ lấy mẫu âm thanh thấp hơn",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả ba đáp án trên",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Những thuận lợi của MIDI không bao gồm?",
+    "answers": [
+      {
+        "text": "Các tệp MIDI nhỏ hơn các tệp âm thanh kỹ thuật số đó",
+        "isCorrect": false
+      },
+      {
+        "text": "Chi phí rẻ",
+        "isCorrect": true
+      },
+      {
+        "text": "Các tệp MIDI được nhúng trong các trang web tải và phát nhanh hơn",
+        "isCorrect": false
+      },
+      {
+        "text": "Nếu nguồn âm thanh MIDI có chất lượng cao – âm thanh tốt hơn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Âm thanh MPEG không hỗ trợ tần số lấy mẫu nào? (kHz)",
+    "answers": [
+      {
+        "text": "32",
+        "isCorrect": false
+      },
+      {
+        "text": "44.1",
+        "isCorrect": false
+      },
+      {
+        "text": "24",
+        "isCorrect": true
+      },
+      {
+        "text": "48",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không là một định đạng nén không mất mất âm thanh?",
+    "answers": [
+      {
+        "text": "FAAC",
+        "isCorrect": true
+      },
+      {
+        "text": "ALAC",
+        "isCorrect": false
+      },
+      {
+        "text": "FLAC",
+        "isCorrect": false
+      },
+      {
+        "text": "LPAC",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải loại dư thừa dữ liệu được sử dụng cho nén hình ảnh?",
+    "answers": [
+      {
+        "text": "Ratio redundancy",
+        "isCorrect": true
+      },
+      {
+        "text": "Coding redundancy",
+        "isCorrect": false
+      },
+      {
+        "text": "Interpixel redundancy",
+        "isCorrect": false
+      },
+      {
+        "text": "Psychovisual redundancy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Với thuật toán Huffman, đâu là mệnh đề đúng?",
+    "answers": [
+      {
+        "text": "Ký tự xuất hiện thường xuyên nhất nhận được mã nhỏ nhất",
+        "isCorrect": true
+      },
+      {
+        "text": "Ký tự xuất hiện thường xuyên nhất nhận được mã lớn nhất",
+        "isCorrect": false
+      },
+      {
+        "text": "Ký tự xuất hiện ít thường xuyên nhất nhận được mã nhỏ nhất",
+        "isCorrect": false
+      },
+      {
+        "text": "Các ký tự nhận được mã bằng nhau",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là một bước trong thuật toán nén ảnh của JPEG?",
+    "answers": [
+      {
+        "text": "Nhận diện các thực thể trong ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Chia hình ảnh đầu vào thành các khối nhỏ hơn",
+        "isCorrect": false
+      },
+      {
+        "text": "Lượng tử hóa",
+        "isCorrect": false
+      },
+      {
+        "text": "Mã hóa Entropy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "PNG là viết tắt của?",
+    "answers": [
+      {
+        "text": "Portable Network Graphic",
+        "isCorrect": true
+      },
+      {
+        "text": "Portable Natural Graphic",
+        "isCorrect": false
+      },
+      {
+        "text": "Processing Network Graphic",
+        "isCorrect": false
+      },
+      {
+        "text": "Processing Natural Graphic",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong các loại khung của MPEG, đâu là loại khung quan trọng nhất?",
+    "answers": [
+      {
+        "text": "I (Khung mã hóa nội bộ)",
+        "isCorrect": true
+      },
+      {
+        "text": "P (Khung được mã hóa dự đoán)",
+        "isCorrect": false
+      },
+      {
+        "text": "B (Khung mã hóa dự đoán hai chiều)",
+        "isCorrect": false
+      },
+      {
+        "text": "Các khung quan trọng như nhau",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong các loại khung của MPEG, đâu là loại không được tạo từ video đầu vào?",
+    "answers": [
+      {
+        "text": "I (Khung mã hóa nội bộ)",
+        "isCorrect": true
+      },
+      {
+        "text": "P (Khung được mã hóa dự đoán)",
+        "isCorrect": false
+      },
+      {
+        "text": "B (Khung mã hóa dự đoán hai chiều)",
+        "isCorrect": false
+      },
+      {
+        "text": "Không có khung nào cả",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là ví dụ về dư thừa thời gian trong nén video?",
+    "answers": [
+      {
+        "text": "Ngôi nhà trong cảnh quay với góc máy cố định",
+        "isCorrect": true
+      },
+      {
+        "text": "Nền cỏ rộng màu xanh lá cây",
+        "isCorrect": false
+      },
+      {
+        "text": "Bóng tối trong không gian",
+        "isCorrect": false
+      },
+      {
+        "text": "Cảnh bầu trời âm u",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mắt con sói lồi ra khi thấy con mỗi là ví dụ của nguyên lí nào trong animation?",
+    "answers": [
+      {
+        "text": "exaggeration",
+        "isCorrect": true
+      },
+      {
+        "text": "anticipation",
+        "isCorrect": false
+      },
+      {
+        "text": "appeal",
+        "isCorrect": false
+      },
+      {
+        "text": "secondary action",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đâu là ví dụ của nguyên lí Anticipation?",
+    "answers": [
+      {
+        "text": "Môi mím lại trước khi nói",
+        "isCorrect": true
+      },
+      {
+        "text": "Quả bóng biến dạng khi nẩy lên so với lúc rơi xuống",
+        "isCorrect": false
+      },
+      {
+        "text": "Đầu nhân vật phình to và đỏ lên khi tức giận",
+        "isCorrect": false
+      },
+      {
+        "text": "Khi ném quả bóng lên trời, càng lên cao tốc độ càng chậm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật ngữ nào sau đây không phải là một phương pháp nén hình ảnh?",
+    "answers": [
+      {
+        "text": "JPEG",
+        "isCorrect": false
+      },
+      {
+        "text": "MP3",
+        "isCorrect": true
+      },
+      {
+        "text": "PNG",
+        "isCorrect": false
+      },
+      {
+        "text": "GIF",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Định dạng nào sau đây thường được sử dụng cho hình ảnh có độ phân giải cao và hỗ trợ nhiều màu sắc?",
+    "answers": [
+      {
+        "text": "JPEG",
+        "isCorrect": true
+      },
+      {
+        "text": "GIF",
+        "isCorrect": false
+      },
+      {
+        "text": "BMP",
+        "isCorrect": false
+      },
+      {
+        "text": "TIFF",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật toán nén hình ảnh nào dùng một dãy các khối 8x8 pixel để nén dữ liệu?",
+    "answers": [
+      {
+        "text": "Huffman coding",
+        "isCorrect": false
+      },
+      {
+        "text": "Discrete Cosine Transform (DCT)",
+        "isCorrect": true
+      },
+      {
+        "text": "Run-Length Encoding (RLE)",
+        "isCorrect": false
+      },
+      {
+        "text": "Lempel-Ziv-Welch (LZW)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đặc điểm chính của nén hình JPEG là gì?",
+    "answers": [
+      {
+        "text": "Lossless",
+        "isCorrect": false
+      },
+      {
+        "text": "Lossy",
+        "isCorrect": true
+      },
+      {
+        "text": "Tối ưu cho biểu đồ",
+        "isCorrect": false
+      },
+      {
+        "text": "Không hỗ trợ màu sắc",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Định dạng nào phổ biến nhất cho hình ảnh động trong web?",
+    "answers": [
+      {
+        "text": "BMP",
+        "isCorrect": false
+      },
+      {
+        "text": "JPEG",
+        "isCorrect": false
+      },
+      {
+        "text": "PNG",
+        "isCorrect": false
+      },
+      {
+        "text": "GIF",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Lý do chính mà GIF thường được sử dụng cho hình ảnh động là gì?",
+    "answers": [
+      {
+        "text": "Hỗ trợ nhiều màu sắc",
+        "isCorrect": false
+      },
+      {
+        "text": "Hỗ trợ nén không mất mát",
+        "isCorrect": true
+      },
+      {
+        "text": "Hỗ trợ độ phân giải cao",
+        "isCorrect": false
+      },
+      {
+        "text": "Hỗ trợ chuỗi ảnh liên tiếp",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Điểm khác biệt chính giữa nén hình ảnh lossless và lossy là gì?",
+    "answers": [
+      {
+        "text": "Lossless không giảm chất lượng, lossy giảm chất lượng ảnh",
+        "isCorrect": true
+      },
+      {
+        "text": "Lossless giảm chất lượng ảnh, lossy không giảm chất lượng",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả hai đều giữ nguyên chất lượng ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả hai đều giảm chất lượng ảnh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Định dạng nén hình ảnh nào thường được sử dụng để lưu trữ hình ảnh với các lớp trong Photoshop?",
+    "answers": [
+      {
+        "text": "JPEG",
+        "isCorrect": false
+      },
+      {
+        "text": "TIFF",
+        "isCorrect": true
+      },
+      {
+        "text": "RAW",
+        "isCorrect": false
+      },
+      {
+        "text": "PNG",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Định dạng nào thường được sử dụng để hiển thị hình ảnh trong trang web với chất lượng cao và hỗ trợ nền trong suốt?",
+    "answers": [
+      {
+        "text": "JPEG",
+        "isCorrect": false
+      },
+      {
+        "text": "PNG",
+        "isCorrect": true
+      },
+      {
+        "text": "TIFF",
+        "isCorrect": false
+      },
+      {
+        "text": "BMP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Kỹ thuật nén hình ảnh nào cho phép tái tạo lại hình ảnh gốc từ dữ liệu nén mà không mất thông tin?",
+    "answers": [
+      {
+        "text": "Run-Length Encoding (RLE)",
+        "isCorrect": true
+      },
+      {
+        "text": "Discrete Cosine Transform (DCT)",
+        "isCorrect": false
+      },
+      {
+        "text": "Huffman coding",
+        "isCorrect": false
+      },
+      {
+        "text": "Lempel-Ziv-Welch (LZW)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Một khung MPEG được nén dựa trên ba loại khung khác nhau. Khung nào được mã hóa mà không cần tham chiếu đến các khung khác?",
+    "answers": [
+      {
+        "text": "Khung mã hóa nội bộ (I-frame)",
+        "isCorrect": true
+      },
+      {
+        "text": "Khung được mã hóa dự đoán (P-frame)",
+        "isCorrect": false
+      },
+      {
+        "text": "Khung mã hóa dự đoán hai chiều (B-frame)",
+        "isCorrect": false
+      },
+      {
+        "text": "Không có đáp án đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Khái niệm \"khung độc lập\" áp dụng cho loại khung nào trong quá trình nén video MPEG?",
+    "answers": [
+      {
+        "text": "Khung mã hóa nội bộ (I-frame)",
+        "isCorrect": true
+      },
+      {
+        "text": "Khung được mã hóa dự đoán (P-frame)",
+        "isCorrect": false
+      },
+      {
+        "text": "Khung mã hóa dự đoán hai chiều (B-frame)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các loại khung",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các khung được mã hóa dự đoán (P-frames) khác nhau so với các khung I-frames ở điểm nào?",
+    "answers": [
+      {
+        "text": "Loại khung tham chiếu",
+        "isCorrect": false
+      },
+      {
+        "text": "Khả năng độc lập",
+        "isCorrect": true
+      },
+      {
+        "text": "Phương pháp mã hóa",
+        "isCorrect": false
+      },
+      {
+        "text": "Không có sự khác biệt",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tại sao khung mã hóa dự đoán hai chiều (B-frame) được sử dụng trong MPEG nén video?",
+    "answers": [
+      {
+        "text": "Để giảm kích thước file video",
+        "isCorrect": false
+      },
+      {
+        "text": "Do chuyển động bất ngờ trong các cảnh thực",
+        "isCorrect": true
+      },
+      {
+        "text": "Để tăng chất lượng video",
+        "isCorrect": false
+      },
+      {
+        "text": "Không có lý do cụ thể",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Khái niệm \"mã dự đoán chuyển tiếp\" áp dụng cho loại khung nào trong MPEG?",
+    "answers": [
+      {
+        "text": "Khung mã hóa nội bộ (I-frame)",
+        "isCorrect": false
+      },
+      {
+        "text": "Khung được mã hóa dự đoán (P-frame)",
+        "isCorrect": true
+      },
+      {
+        "text": "Khung mã hóa dự đoán hai chiều (B-frame)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các loại khung",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hoạt hình 2D được định nghĩa như thế nào?",
+    "answers": [
+      {
+        "text": "Quá trình tạo hình ảnh chuyển động trong môi trường kỹ thuật số.",
+        "isCorrect": false
+      },
+      {
+        "text": "Quá trình sản xuất nhân vật, cốt truyện và nền trong môi trường hai chiều.",
+        "isCorrect": true
+      },
+      {
+        "text": "Quá trình tạo cảnh hoạt hình thông qua máy tính",
+        "isCorrect": false
+      },
+      {
+        "text": "Quá trình sử dụng đồ họa vector để tạo hình ảnh.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Loại đồ họa nào được sử dụng trong hoạt hình 2D để tạo và chỉnh sửa hình ảnh hoạt hình?",
+    "answers": [
+      {
+        "text": "Đồ họa vector",
+        "isCorrect": false
+      },
+      {
+        "text": "Đồ họa raster",
+        "isCorrect": false
+      },
+      {
+        "text": "Cả A và B đều đúng",
+        "isCorrect": true
+      },
+      {
+        "text": "Không có đồ họa được sử dụng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mục đích chính của hoạt hình 3D là gì?",
+    "answers": [
+      {
+        "text": "Tạo ra hình ảnh chuyển động trong môi trường hai chiều.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tạo ra các cảnh hoạt hình thông qua máy tính.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mô hình hóa đối tượng và cảnh trong môi trường ba chiều.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hiển thị hình ảnh tĩnh với đồ họa vector.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Bước nào trong hoạt hình 3D liên quan đến quá trình tạo đối tượng và cảnh?",
+    "answers": [
+      {
+        "text": "Modeling Mô hình hóa",
+        "isCorrect": true
+      },
+      {
+        "text": "Motion Hoạt hình",
+        "isCorrect": false
+      },
+      {
+        "text": "Rendering Kết xuất",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả đều đúng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong bối cảnh xử lý tín hiệu, hình ảnh là gì?",
+    "answers": [
+      {
+        "text": "Biên độ phân bố của âm thanh.",
+        "isCorrect": false
+      },
+      {
+        "text": "Biên độ phân bố của ánh sáng.",
+        "isCorrect": false
+      },
+      {
+        "text": "Biên độ phân bố của sóng radio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Biên độ phân bố của màu sắc.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Một hình ảnh được xác định bởi điều gì trong không gian hai chiều?",
+    "answers": [
+      {
+        "text": "Điểm và đoạn thẳng.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hình chữ nhật và hình tròn.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hàm toán học f (x, y).",
+        "isCorrect": true
+      },
+      {
+        "text": "Giá trị pixel.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hình ảnh kỹ thuật số được biểu diễn như thế nào?",
+    "answers": [
+      {
+        "text": "Dưới dạng giá trị liên tục đại diện cho vị trí và cường độ.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bằng cách sử dụng sóng radio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Chỉ dưới dạng giá trị cường độ.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dưới dạng giá trị rời rạc gọi là pixel.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Các yếu tố hình ảnh trong hình ảnh kỹ thuật số được gọi là gì?",
+    "answers": [
+      {
+        "text": "Giá trị liên tục",
+        "isCorrect": false
+      },
+      {
+        "text": "Yếu tố hình ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Pixel",
+        "isCorrect": true
+      },
+      {
+        "text": "Hàm toán học",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hình ảnh tương tự và hình ảnh kỹ thuật số có điểm khác biệt chính là gì?",
+    "answers": [
+      {
+        "text": "Sự biểu diễn dưới dạng pixel.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sự biểu diễn dưới dạng giá trị liên tục.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sự khác biệt trong màu sắc.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sự khác biệt trong độ phân giải.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "FPS là viết tắt của điều gì trong video?",
+    "answers": [
+      {
+        "text": "Frames Per Second",
+        "isCorrect": true
+      },
+      {
+        "text": "Full Pixel Size",
+        "isCorrect": false
+      },
+      {
+        "text": "Film Production Standard",
+        "isCorrect": false
+      },
+      {
+        "text": "Fast Playback Speed",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đặc điểm nào xác định độ phân giải của video?",
+    "answers": [
+      {
+        "text": "Bit rate",
+        "isCorrect": false
+      },
+      {
+        "text": "Frame rate",
+        "isCorrect": false
+      },
+      {
+        "text": "Số lượng màu sắc",
+        "isCorrect": false
+      },
+      {
+        "text": "Kích thước hình ảnh",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Chất lượng video có thể được cải thiện bằng cách nào?",
+    "answers": [
+      {
+        "text": "Tăng độ phân giải",
+        "isCorrect": true
+      },
+      {
+        "text": "Giảm frame rate",
+        "isCorrect": false
+      },
+      {
+        "text": "Giảm bit rate",
+        "isCorrect": false
+      },
+      {
+        "text": "Tất cả các phương án trên",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật ngữ \"Aspect Ratio\" là gì?",
+    "answers": [
+      {
+        "text": "Tỉ lệ khung hình",
+        "isCorrect": true
+      },
+      {
+        "text": "Số lượng pixel trên mỗi inch",
+        "isCorrect": false
+      },
+      {
+        "text": "Số bit mỗi pixel",
+        "isCorrect": false
+      },
+      {
+        "text": "Số frame mỗi giây",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Công nghệ nén video nào phổ biến nhất hiện nay?",
+    "answers": [
+      {
+        "text": "MPEG",
+        "isCorrect": true
+      },
+      {
+        "text": "AVI",
+        "isCorrect": false
+      },
+      {
+        "text": "GIF",
+        "isCorrect": false
+      },
+      {
+        "text": "WMV",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Khái niệm CBT (Computer based training) là gì?",
+    "answers": [
+      {
+        "text": "Là E-Learning có đa phương tiện",
+        "isCorrect": false
+      },
+      {
+        "text": "Là đa phương tiện trợ giúp học tập người dùng",
+        "isCorrect": false
+      },
+      {
+        "text": "Phương pháp đào tạo sử dụng máy tính, có hệ thống tương tác",
+        "isCorrect": true
+      },
+      {
+        "text": "Học với máy tính điện tử",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Độ rộng của băng (bandwidth)",
+    "answers": [
+      {
+        "text": "Là khả năng truyền thông trong khoảng thời gian",
+        "isCorrect": true
+      },
+      {
+        "text": "Là khái niệm về khối lượng dữ liệu truyền qua cáp hay kênh truyền thông",
+        "isCorrect": false
+      },
+      {
+        "text": "Là kích thước đường truyền",
+        "isCorrect": false
+      },
+      {
+        "text": "Là mức độ cho phép dữ liệu đi qua đường truyền",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hoạt hình (animation)",
+    "answers": [
+      {
+        "text": "Là video",
+        "isCorrect": false
+      },
+      {
+        "text": "Là tập hợp các hình tĩnh, nhằm tạo nên hiệu ứng đặc biệt",
+        "isCorrect": true
+      },
+      {
+        "text": "Là chuyển động được mô phỏng của các đối tượng sử dụng máy tính hay hiệu ứng video.",
+        "isCorrect": false
+      },
+      {
+        "text": "Là phim dành cho trẻ em.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Dữ liệu số hóa",
+    "answers": [
+      {
+        "text": "Dữ liệu mô tả thế giới số",
+        "isCorrect": false
+      },
+      {
+        "text": "Dữ liệu do máy tính xử lý",
+        "isCorrect": true
+      },
+      {
+        "text": "Dữ liệu theo kiểu số, tín hiệu được chuyển ra dãy các số; số được lưu trữ và truyền",
+        "isCorrect": false
+      },
+      {
+        "text": "Dữ liệu trên đường truyền",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Dữ liệu tương tự",
+    "answers": [
+      {
+        "text": "Dữ liệu theo kiểu tương tự, tín hiệu được lưu và truyền trực tiếp",
+        "isCorrect": true
+      },
+      {
+        "text": "Dữ liệu dùng trong máy tính",
+        "isCorrect": false
+      },
+      {
+        "text": "Dữ liệu mô phỏng thế giới thực",
+        "isCorrect": false
+      },
+      {
+        "text": "Dữ liệu văn bản",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Distance learning",
+    "answers": [
+      {
+        "text": "Việc học tập qua đường gửi thư",
+        "isCorrect": false
+      },
+      {
+        "text": "Việc học tập theo đĩa CD-ROM",
+        "isCorrect": false
+      },
+      {
+        "text": "Là quá trình tự học, với trợ giúp của máy tính điện tử",
+        "isCorrect": false
+      },
+      {
+        "text": "Việc học mà nghiên cứu của học viên theo các giáo trình không theo môi trường dạy học trực tiếp, mà theo đường phân phối từ xa.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Copyright",
+    "answers": [
+      {
+        "text": "Dấu hiệu không được sao chép",
+        "isCorrect": false
+      },
+      {
+        "text": "Bảo hộ sản phẩm trí tuệ trong đa phương tiện",
+        "isCorrect": false
+      },
+      {
+        "text": "Bảo hộ quyền tác giả",
+        "isCorrect": false
+      },
+      {
+        "text": "Là bản quyền của người sáng tạo đối với tác phẩm nghệ thuật, âm nhạc... và điều khiển được lợi nhuận đối với sản phẩm",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "CD-ROM",
+    "answers": [
+      {
+        "text": "Máy đọc đĩa CD, cho phép đọc dữ liệu đa phương tiện",
+        "isCorrect": false
+      },
+      {
+        "text": "Đĩa ghi dữ liệu",
+        "isCorrect": false
+      },
+      {
+        "text": "Đĩa ghi nhạc",
+        "isCorrect": false
+      },
+      {
+        "text": "Bộ nhớ chỉ đọc, cho phép ghi dữ liệu đa phương tiện, từ âm thanh đến hoạt hình",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật ngữ Cartogram trong đa phương tiện",
+    "answers": [
+      {
+        "text": "Là sơ đồ thông tin đa phương tiện",
+        "isCorrect": false
+      },
+      {
+        "text": "Là loại mô tả theo bản đồ các thông tin thống kê theo lược đồ",
+        "isCorrect": true
+      },
+      {
+        "text": "Là mô tả kịch bản liên kết các sự kiện đa phương tiện",
+        "isCorrect": false
+      },
+      {
+        "text": "Là bản đồ các kịch bản",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trình duyệt (browser)",
+    "answers": [
+      {
+        "text": "Phần mềm cho phép đọc dữ liệu đa phương tiện",
+        "isCorrect": false
+      },
+      {
+        "text": "Là ứng dụng trên INTERNET",
+        "isCorrect": false
+      },
+      {
+        "text": "Là một phần mềm ứng dụng cho phép người sử dụng xem và tương tác với các văn bản, hình ảnh, đoạn phim, nhạc, trò chơi và các thông tin khác ở trên một trang web của một địa chỉ web trên mạng toàn cầu hoặc mạng nội bộ.",
+        "isCorrect": true
+      },
+      {
+        "text": "Phần của phần mềm cho phép duyệt qua các tài nguyên, ở các dạng dữ liệu khác nhau",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Bitmap",
+    "answers": [
+      {
+        "text": "Là bản đồ các bit",
+        "isCorrect": false
+      },
+      {
+        "text": "Là dữ liệu ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Là loại dữ liệu dùng trong cơ sở dữ liệu bản đồ, thể hiện ảnh theo tập các bit dữ liệu",
+        "isCorrect": false
+      },
+      {
+        "text": "Là hình đồ hoạ thể hiện ảnh bằng ma trận các pixel, thường xếp trên xuống, trái sang phải",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "WYSIWYG",
+    "answers": [
+      {
+        "text": "Là chuẩn trong WINDOWS của hãng Microsoft",
+        "isCorrect": false
+      },
+      {
+        "text": "Là yêu cầu về tương tác người-máy",
+        "isCorrect": false
+      },
+      {
+        "text": "Là mô tả việc nhìn thấy ngay tác động",
+        "isCorrect": true
+      },
+      {
+        "text": "Là thuật ngữ đa phương tiện, mô tả giao diện người dùng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Người gọi là Hacker (tin tặc)?",
+    "answers": [
+      {
+        "text": "Là người lập trình hệ thống cho phép truy cập bí mật",
+        "isCorrect": false
+      },
+      {
+        "text": "Người dùng trong giao diện đa phương tiện bất hợp pháp",
+        "isCorrect": false
+      },
+      {
+        "text": "Là người dùng không thân thiện",
+        "isCorrect": false
+      },
+      {
+        "text": "Là người sử dụng kĩ năng công nghệ thông tin sinh ra virus, hay xâm nhập máy tính không được phép",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Giao diện thực đơn (menu)",
+    "answers": [
+      {
+        "text": "Thực đơn lựa chọn",
+        "isCorrect": false
+      },
+      {
+        "text": "Là một loại giao diện người dùng, cho phép chọn nhiều lựa chọn",
+        "isCorrect": true
+      },
+      {
+        "text": "Lựa chọn thức ăn",
+        "isCorrect": false
+      },
+      {
+        "text": "Giao diện người dùng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Video tương tác (Interactive video)",
+    "answers": [
+      {
+        "text": "Là tương tác sử dụng video, phân phối âm thanh, video",
+        "isCorrect": false
+      },
+      {
+        "text": "Video tương tác là video kỹ thuật số hỗ trợ tương tác với người dùng thông qua cử chỉ, giọng nói, cảm ứng, và nhấp chuột.",
+        "isCorrect": true
+      },
+      {
+        "text": "Video dùng trong trò chơi",
+        "isCorrect": false
+      },
+      {
+        "text": "Là video dùng cho đào tạo",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thiết kế tương tác (Interactive design)",
+    "answers": [
+      {
+        "text": "Là xác định cách cấu trúc hóa nội dung và cách tương tác thông qua hạ tầng của ứng dụng tương tác",
+        "isCorrect": true
+      },
+      {
+        "text": "Thiết kế sáng tạo",
+        "isCorrect": false
+      },
+      {
+        "text": "Thiết kế trong tương tác người-máy",
+        "isCorrect": false
+      },
+      {
+        "text": "Thiết kế với trợ giúp của máy tính",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Icon (biểu tượng)",
+    "answers": [
+      {
+        "text": "Là hình hiệu trên màn hình Windows",
+        "isCorrect": false
+      },
+      {
+        "text": "Là hình vẽ gắn với chương trình",
+        "isCorrect": false
+      },
+      {
+        "text": "Là kí hiệu đồ họa, mang tính ẩn dụ cao",
+        "isCorrect": false
+      },
+      {
+        "text": "Là kí hiệu dạng hình ảnh, dùng để thể hiện trên màn hình, gắn với miền hành động",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Câu chuyện (storyboards)",
+    "answers": [
+      {
+        "text": "Là trang có cốt truyện",
+        "isCorrect": false
+      },
+      {
+        "text": "Là phần mềm của công ty IBM, cho phép tạo cảnh động",
+        "isCorrect": false
+      },
+      {
+        "text": "Mô tả theo câu chuyện, có hình ảnh, dùng trong sản xuất video, trong đề án đa phương tiện",
+        "isCorrect": false
+      },
+      {
+        "text": "Là một dãy các khung hình theo kịch bản",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Sản phẩm đa phương tiện không phục vụ loại dịch vụ nào?",
+    "answers": [
+      {
+        "text": "Thiết kế giao diện người dùng",
+        "isCorrect": false
+      },
+      {
+        "text": "Trò chơi điện tử",
+        "isCorrect": false
+      },
+      {
+        "text": "Xử lý dữ liệu",
+        "isCorrect": true
+      },
+      {
+        "text": "Học tập từ xa",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Dữ liệu loại nào không phải dữ liệu đa phương tiện?",
+    "answers": [
+      {
+        "text": "Hình động",
+        "isCorrect": false
+      },
+      {
+        "text": "Siêu liên kết",
+        "isCorrect": true
+      },
+      {
+        "text": "Âm thanh",
+        "isCorrect": false
+      },
+      {
+        "text": "Video",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hành động nào không vi phạm quyền tác giả?",
+    "answers": [
+      {
+        "text": "Trình diễn trước công chúng",
+        "isCorrect": false
+      },
+      {
+        "text": "Sao chép",
+        "isCorrect": false
+      },
+      {
+        "text": "Trích dẫn",
+        "isCorrect": true
+      },
+      {
+        "text": "Mua sản phẩm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật ngữ đa phương tiện được đưa ra vào thời gian nào?",
+    "answers": [
+      {
+        "text": "Trước năm 1960",
+        "isCorrect": false
+      },
+      {
+        "text": "Năm 1965",
+        "isCorrect": false
+      },
+      {
+        "text": "Năm có máy tính điện tử",
+        "isCorrect": false
+      },
+      {
+        "text": "Năm 1990",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Hội nghị truyền hình (Video-conferencing)",
+    "answers": [
+      {
+        "text": "Tổ chức hội nghị từ xa",
+        "isCorrect": false
+      },
+      {
+        "text": "Về cơ bản là tổ hợp của việc gọi điện thoại, và sử dụng video tại hội nghị",
+        "isCorrect": false
+      },
+      {
+        "text": "Là một phương thức hỗ trợ cho nhiều người ở các nơi khác nhau có thể họp, hội thảo mà có thể nghe, nói và nhìn thấy nhau như đang ở trong cùng 1 phòng.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sử dụng công cụ của Internet để trao đổi từ xa qua TV",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Video theo yêu cầu (video on demand)",
+    "answers": [
+      {
+        "text": "Là hệ thống đảm bảo xem video",
+        "isCorrect": false
+      },
+      {
+        "text": "Là yêu cầu xem phim trong khách sạn",
+        "isCorrect": false
+      },
+      {
+        "text": "Là hệ thống cho phép người dùng lựa chọn và xem nội dung video khi họ chọn, thay vì phải xem vào một thời gian phát sóng cụ thể.",
+        "isCorrect": true
+      },
+      {
+        "text": "Là yêu cầu xem phim qua Internet",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nghiên cứu về đa phương tiện hỗ trợ cho thiết kế, xây dựng giao diện người-máy",
+    "answers": [
+      {
+        "text": "Cung cấp thiết bị đa phương tiện",
+        "isCorrect": true
+      },
+      {
+        "text": "Hình thức trang Web",
+        "isCorrect": false
+      },
+      {
+        "text": "Mỹ thuật, kĩ thuật tương tác",
+        "isCorrect": false
+      },
+      {
+        "text": "Phương pháp truy cập đa phương tiện",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": " Một số lỗi trong giao diện điền khuôn dạng?",
+    "answers": [
+      {
+        "text": "Trình bày không có màu sắc…",
+        "isCorrect": false
+      },
+      {
+        "text": "Thể hiện các khuôn dạng phức tạp",
+        "isCorrect": false
+      },
+      {
+        "text": "Thể hiện lộn xộn, tên trường không rõ nghĩa, kí tự lạ…",
+        "isCorrect": true
+      },
+      {
+        "text": "Không sử dụng hình động và âm thanh…",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Chuẩn AIDA sử dụng trong lĩnh vực nào?",
+    "answers": [
+      {
+        "text": "Sản xuất đa phương tiện",
+        "isCorrect": false
+      },
+      {
+        "text": "Mạng máy tính",
+        "isCorrect": false
+      },
+      {
+        "text": "Truyền thông quảng cáo",
+        "isCorrect": true
+      },
+      {
+        "text": "Công nghệ thông tin",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong mô tả mục tiêu của đề án đa phương tiện, cần chuẩn bị đáp ứng các nhu cầu gì liên quan đến mạng máy tính?",
+    "answers": [
+      {
+        "text": "Hệ thống máy tính mối mạng, truy cập Internet",
+        "isCorrect": false
+      },
+      {
+        "text": "Hạ tầng LAN, mạng Internet, Intranet",
+        "isCorrect": true
+      },
+      {
+        "text": "Đường truyền Internet tốc độ cao",
+        "isCorrect": false
+      },
+      {
+        "text": "Đường cáp quang",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Môi trường sản xuất đa phương tiện cần đến khía cạnh về công nghệ thông tin và truyền thông?",
+    "answers": [
+      {
+        "text": "Điều kiện công nghệ cho phép sử dụng các thiết bị công nghệ thông tin và",
+        "isCorrect": false
+      },
+      {
+        "text": "Trình sử dụng máy tính và truyền thông đa phương tiện",
+        "isCorrect": false
+      },
+      {
+        "text": "Truyền thông, hạ tầng mạng máy tính",
+        "isCorrect": true
+      },
+      {
+        "text": "Trình độ tin học hóa",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Cân đối nguồn lực sản xuất đa phương tiện cần cân đối về điều gì?",
+    "answers": [
+      {
+        "text": "Về tài chính, con người, lịch trình, giá cả…",
+        "isCorrect": true
+      },
+      {
+        "text": "Cân đối về hạ tầng, thiết bị sản xuất với lực lượng con người sẵn có",
+        "isCorrect": false
+      },
+      {
+        "text": "Về vai trò trong quá trình sản xuất đa phương tiện : chủ nhiệm, đạo diễn, lập trình, đạo diễn nghệ thuật",
+        "isCorrect": false
+      },
+      {
+        "text": "Về chi trả lượng cho các vị trí sản xuất",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Trong ràng buộc hợp đồng sản xuất đa phương tiện có mục về quản lí, quản trị đa phương tiện, gồm các vai trò nào?",
+    "answers": [
+      {
+        "text": "Trưởng đề án, phó đề án, trợ lí đề án, thư kí",
+        "isCorrect": false
+      },
+      {
+        "text": "Trưởng đề án, trợ lí đề án, trợ lí sản xuất, thư kí",
+        "isCorrect": true
+      },
+      {
+        "text": "Trưởng đề án, trợ lí đề án, kế toán tài vụ",
+        "isCorrect": false
+      },
+      {
+        "text": "Trưởng đề án, trợ lí đề án, lưu trữ, thư kí",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": " Video tương tác (Interactive video)",
+    "answers": [
+      {
+        "text": "Là tương tác sử dụng video, phân phối âm thanh, video",
+        "isCorrect": true
+      },
+      {
+        "text": "Đoạn video cho phép truy cập trực tiếp",
+        "isCorrect": false
+      },
+      {
+        "text": "Video dùng trong trò chơi",
+        "isCorrect": false
+      },
+      {
+        "text": "Là video dùng cho đào tạo",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Lĩnh vực nào chưa được tổ chức bản quyền bảo hộ quyền tác giả?",
+    "answers": [
+      {
+        "text": "Thiết kế điện thoại",
+        "isCorrect": true
+      },
+      {
+        "text": "Điện ảnh",
+        "isCorrect": false
+      },
+      {
+        "text": "Kiến trúc",
+        "isCorrect": false
+      },
+      {
+        "text": "Chương trình máy tính",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Thuật ngữ Clearances (độ rõ ràng) liên quan đến khía cạnh nào trong đa phương tiện:",
+    "answers": [
+      {
+        "text": "Là thuật ngữ liên quan đến quyền tác giả",
+        "isCorrect": true
+      },
+      {
+        "text": "Liên quan đến sản phẩm đa phương tiện",
+        "isCorrect": false
+      },
+      {
+        "text": "Liên quan đến sản xuất và kịch bản đa phương tiện",
+        "isCorrect": false
+      },
+      {
+        "text": "Là thuật ngữ mô tả mức độ chất lượng của sản phẩm đa phương tiện",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Hệ thống thông tin đa phương tiện có các luồng thông tin nào?",
+    "answers": [
+      {
+        "text": "Thông tin nhập vào",
+        "isCorrect": false
+      },
+      {
+        "text": "Thông tin vào, ra",
+        "isCorrect": false
+      },
+      {
+        "text": "Thông tin vào, ra và phản hồi",
+        "isCorrect": true
+      },
+      {
+        "text": "Thông tin vào ra và thông tin truyền trong hệ thống đa phương tiện",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Đa phương tiện tác động làm thay đổi các khía cạnh nào?",
+    "answers": [
+      {
+        "text": "Cách sống, học tập và làm việc",
+        "isCorrect": false
+      },
+      {
+        "text": "Tổ chức làm việc và sinh hoạt",
+        "isCorrect": false
+      },
+      {
+        "text": "Cấu trúc công nghiệp, liên kết trong công việc và cách sống",
+        "isCorrect": true
+      },
+      {
+        "text": "Thói quen sinh hoạt và giờ giấc làm việc, giải trí",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các loại tên sản phẩm đa phương tiện?",
+    "answers": [
+      {
+        "text": "Tên sản phẩm chính thức; tên mang thông tin; tên giải trí; tên sáng tác; và tên giáo dục",
+        "isCorrect": true
+      },
+      {
+        "text": "Tên sản phẩm chính thức; tên quảng cáo; tên giải trí; và tên sáng tác",
+        "isCorrect": false
+      },
+      {
+        "text": "Tên sản phẩm chính thức; tên mang thông tin; tên giải trí; tên sáng tác; tên ưu tiên; tên quảng cáo và tên giáo dục",
+        "isCorrect": false
+      },
+      {
+        "text": "Tên sản phẩm chính thức; tên giải trí; tên sáng tác; và tên giáo dục",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Điều kiện để phân phối sản phẩm đa phương tiện?",
+    "answers": [
+      {
+        "text": "Điều kiện về máy tính và OS; về tiêu chí lựa chọn; và về khuynh hướng sử dụng thiết bị đa phương tiện",
+        "isCorrect": true
+      },
+      {
+        "text": "Điều kiện ngân sách quảng cáo, tiếp thị sản phẩm đa phương tiện",
+        "isCorrect": false
+      },
+      {
+        "text": "Điều kiện về máy tính và hệ thống thông tin; về tiêu chí lựa chọn; và về khuynh hướng sử dụng thiết bị đa phương tiện",
+        "isCorrect": false
+      },
+      {
+        "text": "Điều kiện về máy tính và OS; và về khuynh hướng sử dụng thiết bị đa phương tiện",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Người khuyết tật được sử dụng sản phẩm đa phương tiện đặc biệt. Đa phương tiện chú trọng vào người nào?",
+    "answers": [
+      {
+        "text": "Khiếm thị, khiếm thính",
+        "isCorrect": true
+      },
+      {
+        "text": "Học sinh tiểu học",
+        "isCorrect": false
+      },
+      {
+        "text": "Trẻ em không nơi nương tựa",
+        "isCorrect": false
+      },
+      {
+        "text": "Những người chân tay hoạt động không bình thường",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Các giai đoạn đề án ghi trong điều khoản hợp đồng thể hiện qua các điều khoản nào",
+    "answers": [
+      {
+        "text": "Cấu trúc lĩnh vực; hạ tầng; tiếp cận văn bản",
+        "isCorrect": false
+      },
+      {
+        "text": "Cấu trúc lĩnh vực; hạ tầng; tiếp cận; thỏa thuận pha đầu của đề án; hoàn thành sản phẩm",
+        "isCorrect": true
+      },
+      {
+        "text": "Hạ tầng; tiếp cận; hoàn thành sản phẩm",
+        "isCorrect": false
+      },
+      {
+        "text": "Cấu trúc lĩnh vực; hạ tầng; tiếp cận; thỏa thuận pha 1; hoàn thành sản phẩm",
+        "isCorrect": false
+      }
+    ]
+  }
+]
