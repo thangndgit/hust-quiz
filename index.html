@@ -4,22 +4,27 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>HUST QUIZ</title>
+    <meta name="keywords" content="hust, quiz, it4422, it4079,it4470, it4898" />
+    <title>Hust quiz - Home</title>
   </head>
   <style>
+    body {
+      margin: 0;
+      font-family: "Courier New", Courier, monospace;
+      color: darkcyan;
+    }
+
     nav {
       display: flex;
-      justify-content: center;
       flex-direction: column;
+      justify-content: center;
       align-items: center;
       height: 100vh;
     }
 
     a {
-      font-family: "Courier New", Courier, monospace;
-      color: darkcyan;
-      font-weight: 700;
       text-decoration: none;
+      font-weight: bold;
       padding: 10px 15px;
       font-size: 2rem;
     }
@@ -31,16 +36,119 @@
     a:visited {
       color: darkcyan;
     }
+
+    #custom-input {
+      display: none;
+    }
   </style>
   <body>
-    <!-- Change sth to re-deploy -->
-    <nav>
-      <a href="./pages/IT4898.html">IT4898</a>
-      <a href="./pages/IT4470.html">IT4470</a>
-      <a href="./pages/IT4422.html">IT4422</a>
-      <a href="./pages/IT4079.html">IT4079</a>
-      <a href="./pages/IT4898_20231.html">IT4898_20231</a>
-      <a href="./pages/IT4422_20231.html">IT4422_20231</a>
+    <nav id="hust-nav">
+      <a href="javascript:void(0)" id="custom-quiz">Your custom quiz</a>
+      <a href="javascript:void(0)" id="custom-trigger">Import custom quiz</a>
+      <input type="file" id="custom-input" accept=".json" />
     </nav>
+
+    <script src="constants.js"></script>
+    <script>
+      const customQuiz = document.getElementById("custom-quiz");
+      const customInput = document.getElementById("custom-input");
+      const customTrigger = document.getElementById("custom-trigger");
+
+      // Create quiz nav link
+      quizIds.forEach((quizId) => {
+        const a = document.createElement("a");
+        a.href = `javascript:void(0)`;
+        a.onclick = () => {
+          window.location.href = `./quiz/${quizId}.html`;
+        };
+        a.innerText = quizId;
+        customQuiz.insertAdjacentElement("beforebegin", a);
+      });
+
+      // Open custom quiz page
+      const moveToCustomQuiz = () => {
+        const data = localStorage.getItem("hust-quiz-custom-data");
+        if (data) {
+          window.location.href = "./quiz/custom_quiz.html";
+        } else {
+          alert("Please import custom data first!");
+        }
+      };
+      customQuiz.addEventListener("click", moveToCustomQuiz);
+
+      // Trigger custom input
+      customTrigger.addEventListener("click", () => {
+        alert(
+          `Please import a JSON file with the following format:
+  [
+    {
+      "question": "Question 1",
+      "answers": [
+        { "text": "Answer 1", "isCorrect": true },
+        { "text": "Answer 2", "isCorrect": false },
+        ...
+        { "text": "Answer n", "isCorrect": false },
+      ]
+    },
+    ...
+  ]
+          `
+        );
+        customInput.click();
+      });
+
+      // Validate json format
+      const validateFormat = (arr) => {
+        if (Array.isArray(arr) && arr.length > 0) {
+          for (let i = 0; i < arr.length; i++) {
+            const item = arr[i];
+            if (!item.question || !item.answers || !Array.isArray(item.answers)) {
+              return false;
+            }
+            for (let j = 0; j < item.answers.length; j++) {
+              const answer = item.answers[j];
+              if (!answer.text || typeof answer.isCorrect !== "boolean") {
+                return false;
+              }
+            }
+          }
+          return true;
+        }
+        return false;
+      };
+
+      // Handle custom input
+      customInput.addEventListener("change", (e) => {
+        console;
+        const file = e.target.files[0];
+        const reader = new FileReader();
+        reader.onload = (e) => {
+          const data = JSON.parse(e.target.result);
+          if (!validateFormat(data)) {
+            alert(
+              `Invalid format! Your file should have the following format:
+[
+  {
+    "question": "Question 1",
+    "answers": [
+      { "text": "Answer 1", "isCorrect": true },
+      { "text": "Answer 2", "isCorrect": false },
+      ...
+      { "text": "Answer n", "isCorrect": false },
+    ]
+  },
+  ...
+]
+          `
+            );
+            return;
+          }
+          localStorage.setItem("hust-quiz-custom-data", JSON.stringify(data));
+          customInput.value = null;
+          moveToCustomQuiz();
+        };
+        reader.readAsText(file);
+      });
+    </script>
   </body>
 </html>

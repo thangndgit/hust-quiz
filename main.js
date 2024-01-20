@@ -39,7 +39,7 @@ const renderQuizzes = (quizzes) => {
   const questions = shuffleArr(quizzes);
   questions.forEach((quiz, id) => {
     const answers = shuffleArr(quiz.answers);
-    console.log(quiz.question);
+    // console.log(quiz.question);
     return (list.innerHTML += `
         <li class="quiz">
           <h3 class="question" onclick="showAnswer(event)">Câu ${id + 1}: ${toUpperFirstCase(quiz.question)}</h3>
@@ -54,4 +54,16 @@ const renderQuizzes = (quizzes) => {
         </li>
       `);
   });
+};
+
+const fetchQuizzes = async (path) => {
+  try {
+    const res = await fetch(path);
+    const data = await res.json();
+    renderQuizzes(data);
+    document.querySelector(".loader").style.display = "none";
+    // Handle error
+  } catch (error) {
+    console.log(error);
+  }
 };

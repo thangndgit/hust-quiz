@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="keywords" content="hust, quiz, it4422, it4079,it4470, it4898" />
+        <title>Hust quiz - IT4422_20221</title>
+        <link rel="stylesheet" href="../style.css" />
+      </head>
+    
+      <body>
+        <h1 id="quiz-title" onclick="showAllAnswers()">
+          Hust quiz - IT4422_20221<span class="loader"></span>
+        </h1>
+        <ul id="quiz-list"></ul>
+    
+        <script src="../main.js"></script>
+        <script>
+          fetchQuizzes('../data/IT4422_20221.json')
+        </script>
+      </body>
+    </html>
