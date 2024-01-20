@@ -24,14 +24,23 @@ ol {
   animation: spin 2s linear infinite;
 }
 
-#quiz-title {
-  width: 100%;
-  margin-bottom: 3rem;
-  cursor: pointer;
-  display: inline-flex;
+.download-quiz-button {
+  width: 24px;
+  display: flex;
+}
+
+#title-wrapper {
+  display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 3rem;
+  width: 100%;
   gap: 1rem;
+}
+
+#quiz-title {
+  margin-bottom: 0;
+  cursor: pointer;
 }
 
 #quiz-list {

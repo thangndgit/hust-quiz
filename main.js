@@ -60,6 +60,14 @@ const fetchQuizzes = async (path) => {
   try {
     const res = await fetch(path);
     const data = await res.json();
+
+    const blob = new Blob([JSON.stringify(data)], { type: "application/json" });
+    const url = window.URL.createObjectURL(blob);
+    const downloadButton = document.querySelector(".download-quiz-button");
+    downloadButton.href = url;
+    downloadButton.download = path.split("/").pop();
+    downloadButton.style.display = "inline-flex";
+
     renderQuizzes(data);
     document.querySelector(".loader").style.display = "none";
     // Handle error
