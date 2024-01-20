@@ -21,6 +21,7 @@ Tính tới kỳ 2023, Hust quiz đang lưu trữ câu hỏi của các môn
 - Ấn vào từng đáp án để xem đó là đáp án đúng (xanh) hay sai (đỏ).
 - Ấn vào tiêu đề câu hỏi để hiện / ẩn đáp án đúng của riêng câu hỏi.
 - Ấn vào tiêu đề lớn ở đầu trang để hiện / ẩn đáp án tất cả các câu.
+- Ấn nút Save ở cạnh tiêu đề lớn đầu trang để tải file JSON các câu hỏi về
 - Hiện chưa hỗ trợ câu hỏi có hình ảnh.
 - Hiện chưa hỗ trợ lưu trạng thái làm bài, do vậy người sử dụng nên làm hết 1 lượt câu hỏi trước khi refresh / thoát trang
 
