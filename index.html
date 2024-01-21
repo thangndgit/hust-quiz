@@ -5,11 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="keywords" content="hust, quiz, it4422, it4079,it4470, it4898" />
-    <link rel="canonical" href="https://thangndgit.github.io/hust-quiz" />
+    <link rel="canonical" href="https://thangndgit.github.io/hust-quiz/" />
     <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
     <title>Hust quiz - Home</title>
     <meta name="description" content="Tổng hợp câu hỏi trắc nghiệm một số môn học mã IT, Đại học Bách Khoa Hà Nội" />
-    <meta property="og:title" content="Hust quiz - Home" />
+    <meta property="og:title" content="Hust quiz - Home page" />
     <meta
       property="og:description"
       content="Tổng hợp câu hỏi trắc nghiệm một số môn học mã IT, Đại học Bách Khoa Hà Nội"
@@ -83,7 +84,7 @@
         "@type": "WebPage",
         "name": "Hust quiz - Home",
         "description": "Tổng hợp câu hỏi trắc nghiệm một số môn học mã IT, Đại học Bách Khoa Hà Nội",
-        "url": "https://thangndgit.github.io/hust-quiz"
+        "url": "https://thangndgit.github.io/hust-quiz/"
       }
     </script>
     <script src="constants.js"></script>
@@ -97,7 +98,7 @@
         const a = document.createElement("a");
         a.href = `javascript:void(0)`;
         a.onclick = () => {
-          window.location.href = `./quiz/${quizId}.html`;
+          window.location.href = `/quiz/${quizId}.html`;
         };
         a.innerText = quizId;
         customQuiz.insertAdjacentElement("beforebegin", a);
@@ -107,7 +108,7 @@
       const moveToCustomQuiz = () => {
         const data = localStorage.getItem("hust-quiz-custom-data");
         if (data) {
-          window.location.href = "./quiz/custom_quiz.html";
+          window.location.href = "/quiz/custom_quiz.html";
         } else {
           alert("Please import custom data first!");
         }

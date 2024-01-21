@@ -24,9 +24,19 @@ ol {
   animation: spin 2s linear infinite;
 }
 
+.back-quiz-button {
+  width: 30px;
+  display: flex;
+}
+
 .download-quiz-button {
   width: 24px;
   display: flex;
+}
+
+svg {
+  width: 100%;
+  aspect-ratio: 1/1;
 }
 
 #title-wrapper {
@@ -44,15 +54,14 @@ ol {
 }
 
 #quiz-list {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   column-gap: 3rem;
   row-gap: 1.5rem;
 }
 
 .quiz {
   margin-bottom: 0.75rem;
-  width: calc(50% - 1.5rem);
 }
 
 .question {
@@ -79,8 +88,8 @@ ol {
 }
 
 @media screen and (max-width: 992px) {
-  .quiz {
-    width: 100%;
+  #quiz-list {
+    grid-template-columns: 1fr;
   }
 }
 
