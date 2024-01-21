@@ -96,10 +96,7 @@
       // Create quiz nav link
       quizIds.forEach((quizId) => {
         const a = document.createElement("a");
-        a.href = `javascript:void(0)`;
-        a.onclick = () => {
-          window.location.href = `/quiz/${quizId}.html`;
-        };
+        a.href = `./quiz/${quizId}.html`;
         a.innerText = quizId;
         customQuiz.insertAdjacentElement("beforebegin", a);
       });
@@ -108,7 +105,7 @@
       const moveToCustomQuiz = () => {
         const data = localStorage.getItem("hust-quiz-custom-data");
         if (data) {
-          window.location.href = "/quiz/custom_quiz.html";
+          window.location.href = "./quiz/custom_quiz.html";
         } else {
           alert("Please import custom data first!");
         }
