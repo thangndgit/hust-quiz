@@ -5,7 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="keywords" content="hust, quiz, it4422, it4079,it4470, it4898" />
+    <link rel="canonical" href="https://thangndgit.github.io/hust-quiz" />
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
     <title>Hust quiz - Home</title>
+    <meta name="description" content="Tổng hợp câu hỏi trắc nghiệm một số môn học mã IT, Đại học Bách Khoa Hà Nội" />
+    <meta property="og:title" content="Hust quiz - Home" />
+    <meta
+      property="og:description"
+      content="Tổng hợp câu hỏi trắc nghiệm một số môn học mã IT, Đại học Bách Khoa Hà Nội"
+    />
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-CTFF0QEV49"></script>
     <script>
@@ -29,6 +38,13 @@
       flex-direction: column;
       justify-content: center;
       align-items: center;
+    }
+
+    .content-wrapper {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
       height: 100vh;
     }
 
@@ -36,7 +52,7 @@
       text-decoration: none;
       font-weight: bold;
       padding: 10px 15px;
-      font-size: 2rem;
+      font-size: 1.5rem;
     }
 
     a:hover {
@@ -52,12 +68,24 @@
     }
   </style>
   <body>
-    <nav id="hust-nav">
-      <a href="javascript:void(0)" id="custom-quiz">Your custom quiz</a>
-      <a href="javascript:void(0)" id="custom-trigger">Import custom quiz</a>
-      <input type="file" id="custom-input" accept=".json" />
-    </nav>
+    <div class="content-wrapper">
+      <h1>Hust quiz - Home</h1>
+      <nav id="hust-nav">
+        <a href="javascript:void(0)" id="custom-quiz">Your custom quiz</a>
+        <a href="javascript:void(0)" id="custom-trigger">Import custom quiz</a>
+        <input type="file" id="custom-input" accept=".json" />
+      </nav>
+    </div>
 
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "name": "Hust quiz - Home",
+        "description": "Tổng hợp câu hỏi trắc nghiệm một số môn học mã IT, Đại học Bách Khoa Hà Nội",
+        "url": "https://thangndgit.github.io/hust-quiz"
+      }
+    </script>
     <script src="constants.js"></script>
     <script>
       const customQuiz = document.getElementById("custom-quiz");

@@ -9,7 +9,18 @@ const generateQuizzesHtml = (quizId) => {
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="keywords" content="hust, quiz, it4422, it4079,it4470, it4898" />
+        <link rel="canonical" href="https://thangndgit.github.io/hust-quiz/${quizId}.html" />
+        <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
         <title>Hust quiz - ${quizId}</title>
+        <meta
+          name="description"
+          content="Tổng hợp câu hỏi trắc nghiệm môn học ${quizId}, Đại học Bách Khoa Hà Nội"
+        />
+        <meta property="og:title" content="Hust quiz - ${quizId}" />
+        <meta
+          property="og:description"
+          content="Tổng hợp câu hỏi trắc nghiệm môn học ${quizId}, Đại học Bách Khoa Hà Nội"
+        />
         <link rel="stylesheet" href="../style.css" />
         <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-CTFF0QEV49"></script>
@@ -38,6 +49,15 @@ const generateQuizzesHtml = (quizId) => {
 
         <ul id="quiz-list"></ul>
     
+        <script type="application/ld+json">
+          {
+            "@context": "http://schema.org",
+            "@type": "WebPage",
+            "name": "Hust quiz - ${quizId}",
+            "description": "Tổng hợp câu hỏi trắc nghiệm môn học ${quizId}, Đại học Bách Khoa Hà Nội",
+            "url": "https://thangndgit.github.io/hust-quiz/${quizId}.html",
+          }
+        </script>
         <script src="../main.js"></script>
         <script>
           fetchQuizzes('../data/${quizId}.json')
