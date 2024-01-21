@@ -11,6 +11,16 @@ const generateQuizzesHtml = (quizId) => {
         <meta name="keywords" content="hust, quiz, it4422, it4079,it4470, it4898" />
         <title>Hust quiz - ${quizId}</title>
         <link rel="stylesheet" href="../style.css" />
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-CTFF0QEV49"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag() {
+            dataLayer.push(arguments);
+          }
+          gtag("js", new Date());
+          gtag("config", "G-CTFF0QEV49");
+        </script>
       </head>
     
       <body>
